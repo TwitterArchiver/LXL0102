@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1949777806407381483",
+    "created_at": "2025-08-27T02:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960535477674762565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1556248923144175619",
+          "start": 0,
+          "username": "xinghaobiegao"
+        },
+        {
+          "end": 27,
+          "id": "1801688874118483969",
+          "start": 15,
+          "username": "beomgyuzzzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960535477674762565",
+    "in_reply_to_user_id": "1556248923144175619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960460441664282835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinghaobiegao @beomgyuzzzy 治眼睛去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1949777806407381483",
+        "created_at": "2025-08-27T02:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960535477674762565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1556248923144175619",
+              "start": 0,
+              "username": "xinghaobiegao"
+            },
+            {
+              "end": 27,
+              "id": "1801688874118483969",
+              "start": 15,
+              "username": "beomgyuzzzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960535477674762565",
+        "in_reply_to_user_id": "1556248923144175619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960460441664282835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinghaobiegao @beomgyuzzzy 治眼睛去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556248923144175619",
+        "conversation_id": "1949777806407381483",
+        "created_at": "2025-08-26T21:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T22:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960460441664282835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801688874118483969",
+              "start": 0,
+              "username": "beomgyuzzzy"
+            },
+            {
+              "end": 21,
+              "id": "1680544465671561216",
+              "start": 13,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960460441664282835",
+        "in_reply_to_user_id": "1801688874118483969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949781812567548370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beomgyuzzzy @LXL0102 这喷不了我昨天晚上看到本人了 确实很好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 265,
+          "like_count": 1376,
+          "listed_count": 5,
+          "media_count": 500,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T12:00:40.000Z",
+        "description": "男的别加",
+        "id": "1556248923144175619",
+        "name": "aqing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910614603568144384/O4otK-Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 115,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "username": "xinghaobiegao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T18:51:22.000Z",
+        "description": "我离开了",
+        "id": "1801688874118483969",
+        "name": "zehAert",
+        "pinned_tweet_id": "1953444963213017196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897235463293034499/nGjwHZpL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 78,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 147
+        },
+        "username": "beomgyuzzzy",
+        "verified": false
+      }
+    ]
+  }
+}

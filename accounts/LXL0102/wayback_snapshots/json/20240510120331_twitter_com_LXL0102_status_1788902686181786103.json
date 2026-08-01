@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1788147492095500645",
+    "created_at": "2024-05-10T12:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T13:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788902686181786103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "KiNofeeling_"
+        },
+        {
+          "end": 26,
+          "id": "1575145790892285954",
+          "start": 14,
+          "username": "AsabaYugumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788902686181786103",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788147492095500645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiNofeeling_ @AsabaYugumo 这个是什么呀宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788147492095500645].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788147492095500645",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788147492095500645"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1788147492095500645",
+        "created_at": "2024-05-10T12:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T13:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788902686181786103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "KiNofeeling_"
+            },
+            {
+              "end": 26,
+              "id": "1575145790892285954",
+              "start": 14,
+              "username": "AsabaYugumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788902686181786103",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788147492095500645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiNofeeling_ @AsabaYugumo 这个是什么呀宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️右美/外烟购买点击https://t.co/1gSttyWahm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 138,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 115,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞʕ̯•͡ˑ͓•̯᷅ʔ ​​​3.0",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 199,
+          "like_count": 834,
+          "listed_count": 2,
+          "tweet_count": 1085
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "FtX-hrt/双相/intp-a/aspd/生活推maybe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz_001.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz_001.damo3.site/#/register?code=cdcS1JIN",
+                "start": 0,
+                "url": "https://t.co/8Mr8o8kvCe"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "ki小树",
+        "pinned_tweet_id": "1788147492095500645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788897345259950080/zztnzvxF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 1848,
+          "like_count": 83886,
+          "listed_count": 2,
+          "tweet_count": 8720
+        },
+        "url": "https://t.co/8Mr8o8kvCe",
+        "username": "KiNofeeling_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T15:30:41.000Z",
+        "description": "|06年家長黨持證含糖mtf(x)🏳️‍⚧️🍥|vup(暂停活动中)|ENFP-T|中文 English IELTS勉強中 日本語|Sweden🇸🇪留學準備中|社會民主主義|舞萌痴|見習Gt.🎸Kb.🎹|🚪88(私信请先发门槛)",
+        "id": "1575145790892285954",
+        "location": "Lund ,Skåne län ,Sweden",
+        "name": "浅羽夕雲(土色易北凝胶售卖中)",
+        "pinned_tweet_id": "1788157717653426675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662791353124941824/0-hB0LEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 541,
+          "like_count": 95,
+          "listed_count": 3,
+          "tweet_count": 506
+        },
+        "username": "AsabaYugumo",
+        "verified": false
+      }
+    ]
+  }
+}

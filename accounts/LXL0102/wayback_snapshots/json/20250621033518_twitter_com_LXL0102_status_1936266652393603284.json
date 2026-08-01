@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1936076408033513841",
+    "created_at": "2025-06-21T03:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T04:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936266652393603284"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "尊嘟",
+          "probability": 0.4451,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877247334658224128",
+          "start": 0,
+          "username": "440ee0853ad1e99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936266652393603284",
+    "in_reply_to_user_id": "1877247334658224128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936076408033513841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@440ee0853ad1e99 尊嘟假嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936076392325697536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5TOJaX0AAPE3z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1936076408033513841",
+        "created_at": "2025-06-21T03:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T04:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936266652393603284"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "尊嘟",
+              "probability": 0.4451,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877247334658224128",
+              "start": 0,
+              "username": "440ee0853ad1e99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936266652393603284",
+        "in_reply_to_user_id": "1877247334658224128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936076408033513841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@440ee0853ad1e99 尊嘟假嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936076392325697536"
+          ]
+        },
+        "author_id": "1877247334658224128",
+        "conversation_id": "1936076408033513841",
+        "created_at": "2025-06-20T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936076408033513841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a84zx7ZzeX",
+              "end": 31,
+              "expanded_url": "https://x.com/440ee0853ad1e99/status/1936076408033513841/photo/1",
+              "media_key": "3_1936076392325697536",
+              "start": 8,
+              "url": "https://t.co/a84zx7ZzeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936076408033513841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 715,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在做，价格表 https://t.co/a84zx7ZzeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 249,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2533
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T06:53:46.000Z",
+        "description": "右美等在售，赚钱还债中",
+        "id": "1877247334658224128",
+        "name": "🇯🇵药物代购",
+        "pinned_tweet_id": "1934901189893910576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933697806025568258/aB6oe21u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 4,
+          "like_count": 2398,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "440ee0853ad1e99",
+        "verified": false
+      }
+    ]
+  }
+}

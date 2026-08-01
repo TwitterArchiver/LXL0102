@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2027353404201410750",
+    "created_at": "2026-02-28T02:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027578320385442272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1236106955317362688",
+          "start": 0,
+          "username": "Wait_jun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027578320385442272",
+    "in_reply_to_user_id": "1236106955317362688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027444283121500276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wait_jun 他发完就删了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2027444239563685888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLty0UbAAAc7aC.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2027353404201410750",
+        "created_at": "2026-02-28T02:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027578320385442272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1236106955317362688",
+              "start": 0,
+              "username": "Wait_jun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027578320385442272",
+        "in_reply_to_user_id": "1236106955317362688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027444283121500276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wait_jun 他发完就删了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027444239563685888"
+          ]
+        },
+        "author_id": "1236106955317362688",
+        "conversation_id": "2027353404201410750",
+        "created_at": "2026-02-27T18:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027444283121500276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/di8QkJicUq",
+              "end": 41,
+              "expanded_url": "https://x.com/Wait_jun/status/2027444283121500276/photo/1",
+              "media_key": "3_2027444239563685888",
+              "start": 18,
+              "url": "https://t.co/di8QkJicUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027444283121500276",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3587,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027353404201410750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 这是被封号了吗？ https://t.co/di8QkJicUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 368,
+          "like_count": 1769,
+          "listed_count": 5,
+          "media_count": 640,
+          "tweet_count": 3645
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T01:51:05.000Z",
+        "description": "每次想大干一场，就会被大干一场！\n别急，慢慢来！\n不预测行情，只执行策略；\n用 321 杠铃策略，穿越牛熊。\n所有内容仅供参考与学习交流，不构成任何投资建议。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Waitjun",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Waitjun",
+                "start": 0,
+                "url": "https://t.co/SFg9ZYOEcC"
+              }
+            ]
+          }
+        },
+        "id": "1236106955317362688",
+        "location": "United States",
+        "name": "等君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951847579941322752/oSnJaXIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 747,
+          "like_count": 635,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/SFg9ZYOEcC",
+        "username": "Wait_jun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1987903257608609917",
+    "created_at": "2025-11-10T15:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T16:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987903257608609917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coolboatdying/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/coolboatdying/status/1987548467363979666",
+          "start": 7,
+          "url": "https://t.co/OToCb9sSEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987903257608609917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 115,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987548467363979666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我面基就这样 https://t.co/OToCb9sSEr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2038,
+        "media_key": "3_1987548451836506112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UwyVWXsAAv6h5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1987903257608609917",
+        "created_at": "2025-11-10T15:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987903257608609917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coolboatdying/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/coolboatdying/status/1987548467363979666",
+              "start": 7,
+              "url": "https://t.co/OToCb9sSEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987903257608609917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987548467363979666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我面基就这样 https://t.co/OToCb9sSEr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987548451836506112"
+          ]
+        },
+        "author_id": "1580562777739235328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987548467363979666",
+        "created_at": "2025-11-09T15:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987548467363979666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QDOSU0agR",
+              "end": 27,
+              "expanded_url": "https://x.com/coolboatdying/status/1987548467363979666/photo/1",
+              "media_key": "3_1987548451836506112",
+              "start": 4,
+              "url": "https://t.co/8QDOSU0agR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987548467363979666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 198672,
+          "like_count": 1257,
+          "quote_count": 72,
+          "reply_count": 35,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "我面基 https://t.co/8QDOSU0agR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 265,
+          "like_count": 1421,
+          "listed_count": 5,
+          "media_count": 546,
+          "tweet_count": 3139
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T14:15:18.000Z",
+        "description": "靠近我 温暖我 完整我， 用你深蓝色的臂窝。",
+        "id": "1580562777739235328",
+        "name": "blue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976684582842839040/OsGKmk00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17154,
+          "following_count": 286,
+          "like_count": 8713,
+          "listed_count": 21,
+          "media_count": 1406,
+          "tweet_count": 7145
+        },
+        "username": "coolboatdying",
+        "verified": false
+      }
+    ]
+  }
+}

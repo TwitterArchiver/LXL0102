@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1895878574051377387",
+    "created_at": "2025-03-01T16:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895878574051377387"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "门槛"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "小狗日记"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893670059928883200",
+          "start": 3,
+          "username": "YanRu36394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895878574051377387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895471471671328990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YanRu36394: 我是小睡 前世3k粉惨遭举报封号\n重来一世寻回前世互关 转抽2杯奈雪\n已成年女大学生/D/m 家庭原因需要自己赚钱供大学生活 坐标20r🚪128/288/520/1314上不封顶\n女宝互fo互转大欢迎\n＃爸爸活 ＃门槛哥 ＃门槛 #小狗日记 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895878574051377387].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895878574051377387",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895878574051377387"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895471468798173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4RQhuaYAA0Rj5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895471468609409024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4RQhBaEAA6bju.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1980,
+        "media_key": "3_1895471468630413312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4RQhGakAAJA3G.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895471468798173184",
+            "3_1895471468609409024",
+            "3_1895471468630413312"
+          ]
+        },
+        "author_id": "1893670059928883200",
+        "conversation_id": "1895471471671328990",
+        "created_at": "2025-02-28T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895471471671328990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "门槛"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "小狗日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUwpZLhIRM",
+              "end": 144,
+              "expanded_url": "https://x.com/YanRu36394/status/1895471471671328990/photo/1",
+              "media_key": "3_1895471468798173184",
+              "start": 121,
+              "url": "https://t.co/AUwpZLhIRM"
+            },
+            {
+              "display_url": "pic.x.com/AUwpZLhIRM",
+              "end": 144,
+              "expanded_url": "https://x.com/YanRu36394/status/1895471471671328990/photo/1",
+              "media_key": "3_1895471468609409024",
+              "start": 121,
+              "url": "https://t.co/AUwpZLhIRM"
+            },
+            {
+              "display_url": "pic.x.com/AUwpZLhIRM",
+              "end": 144,
+              "expanded_url": "https://x.com/YanRu36394/status/1895471471671328990/photo/1",
+              "media_key": "3_1895471468630413312",
+              "start": 121,
+              "url": "https://t.co/AUwpZLhIRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895471471671328990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3212,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是小睡 前世3k粉惨遭举报封号\n重来一世寻回前世互关 转抽2杯奈雪\n已成年女大学生/D/m 家庭原因需要自己赚钱供大学生活 坐标20r🚪128/288/520/1314上不封顶\n女宝互fo互转大欢迎\n＃爸爸活 ＃门槛哥 ＃门槛 #小狗日记 https://t.co/AUwpZLhIRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 241,
+          "like_count": 1000,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:32:00.000Z",
+        "description": "我是小睡 坐标20r\n前世3k粉卷土重来\n20↑🚪128/288/520上不封顶\n可验证",
+        "id": "1893670059928883200",
+        "location": "5.2km",
+        "name": "宇智波睡",
+        "pinned_tweet_id": "1895471471671328990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893673129198964736/wX49nicK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "YanRu36394",
+        "verified": false
+      }
+    ]
+  }
+}

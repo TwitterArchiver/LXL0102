@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1901477104203571417",
+    "created_at": "2025-03-17T04:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T05:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901495408201027640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1087358831946915840",
+          "start": 0,
+          "username": "Lectrochemist"
+        },
+        {
+          "end": 29,
+          "id": "1754871332091682817",
+          "start": 15,
+          "username": "snake_lesyeux"
+        },
+        {
+          "end": 46,
+          "id": "1568115812489400321",
+          "start": 30,
+          "username": "topclassgourmet"
+        },
+        {
+          "end": 56,
+          "id": "1733852461390348288",
+          "start": 47,
+          "username": "a4451020"
+        },
+        {
+          "end": 68,
+          "id": "1505107083666276352",
+          "start": 57,
+          "username": "XXSHHZ8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901495408201027640",
+    "in_reply_to_user_id": "1087358831946915840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901477104203571417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lectrochemist @snake_lesyeux @topclassgourmet @a4451020 @XXSHHZ8964 啪啪啪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1901477104203571417",
+        "created_at": "2025-03-17T04:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T05:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901495408201027640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1087358831946915840",
+              "start": 0,
+              "username": "Lectrochemist"
+            },
+            {
+              "end": 29,
+              "id": "1754871332091682817",
+              "start": 15,
+              "username": "snake_lesyeux"
+            },
+            {
+              "end": 46,
+              "id": "1568115812489400321",
+              "start": 30,
+              "username": "topclassgourmet"
+            },
+            {
+              "end": 56,
+              "id": "1733852461390348288",
+              "start": 47,
+              "username": "a4451020"
+            },
+            {
+              "end": 68,
+              "id": "1505107083666276352",
+              "start": 57,
+              "username": "XXSHHZ8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901495408201027640",
+        "in_reply_to_user_id": "1087358831946915840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901477104203571417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lectrochemist @snake_lesyeux @topclassgourmet @a4451020 @XXSHHZ8964 啪啪啪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087358831946915840",
+        "conversation_id": "1901477104203571417",
+        "created_at": "2025-03-17T03:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901477104203571417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1754871332091682817",
+              "start": 26,
+              "username": "snake_lesyeux"
+            },
+            {
+              "end": 57,
+              "id": "1568115812489400321",
+              "start": 41,
+              "username": "topclassgourmet"
+            },
+            {
+              "end": 67,
+              "id": "1733852461390348288",
+              "start": 58,
+              "username": "a4451020"
+            },
+            {
+              "end": 76,
+              "id": "1680544465671561216",
+              "start": 68,
+              "username": "LXL0102"
+            },
+            {
+              "end": 88,
+              "id": "1505107083666276352",
+              "start": 77,
+              "username": "XXSHHZ8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Lectrochemist/…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/Lectrochemist/status/1896113131522572660",
+              "start": 100,
+              "url": "https://t.co/rN1B88XS76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901477104203571417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896113131522572660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒得等十二点整于是现在就开奖\n中奖的幸运小朋友有：\n@snake_lesyeux @topclassgourmet @a4451020 @LXL0102 @XXSHHZ8964 \n啪啪啪啪啪啪（鼓掌 https://t.co/rN1B88XS76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 237,
+          "like_count": 1013,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T14:38:42.000Z",
+        "description": "21世纪后现代疯子/mtx/enby/我喜欢猫/推里会倒垃圾/互fo直fo会回/尼古丁/药物爱好者@gimanother是我爱人\n#电子烟 🚭悦刻正版精工杆子国标蛋五代六代果味蛋冰熊蛋 鸭嘴兽 song 云雾 小黑条 悦刻4000口一次性均有 私我加v联系\n药物有特制pr胶囊/暂未命名欣快剂/模拟冰 这个得tg聊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "电子烟"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "gimanother"
+              }
+            ]
+          }
+        },
+        "id": "1087358831946915840",
+        "location": "砂糖少女以愛為食",
+        "name": "螺旋的灾星（电子烟代/娱乐药物",
+        "pinned_tweet_id": "1896551329331613872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826834191583248387/0zMW5eUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 565,
+          "like_count": 5494,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 1945
+        },
+        "username": "Lectrochemist",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "祈光 🚪50—188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuiyo.nn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuiyo.nn",
+                "start": 0,
+                "url": "https://t.co/1rEbO8ImDm"
+              }
+            ]
+          }
+        },
+        "id": "1754871332091682817",
+        "location": "距离您2.4km",
+        "name": "屍犬",
+        "pinned_tweet_id": "1889061655252017454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887820126902460416/l9BYL51y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 946,
+          "like_count": 61927,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 8219
+        },
+        "url": "https://t.co/1rEbO8ImDm",
+        "username": "snake_lesyeux",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "艾琳醬在這裡 @linyeshitoude\n應該是藥娘 坐標香港🇭🇰  泛性戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "彤🏳‍⚧(含艾琳",
+        "pinned_tweet_id": "1882743082946613759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873385557654736896/qsW2s_yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 773,
+          "like_count": 15754,
+          "listed_count": 2,
+          "media_count": 345,
+          "tweet_count": 3949
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜网哲爱好者 人体照片拍摄爱好者｜前世8000fo大号@djalxjhshytf1｜🚪198/298/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "djalxjhshytf1"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "1897649221639000341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887934200176852999/TlrbMpiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 23,
+          "like_count": 4113,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 2682
+        },
+        "username": "a4451020",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T09:01:15.000Z",
+        "description": "沈阳 / 18岁-174cm-60 kg / MTX / 可出原味 / ⚠️推文R18注意⚠️ / 最喜欢的傻子：@puddings00 / 很懒 随缘更推 / 🚪66💰 / 求求不要给我私信发🐮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "puddings00"
+              }
+            ]
+          }
+        },
+        "id": "1505107083666276352",
+        "location": "🌍",
+        "name": "西行寺 蛤蛤子",
+        "pinned_tweet_id": "1888682544083972434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888685705855168512/G8X1vAmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 343,
+          "like_count": 2165,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1092
+        },
+        "username": "XXSHHZ8964",
+        "verified": false
+      }
+    ]
+  }
+}

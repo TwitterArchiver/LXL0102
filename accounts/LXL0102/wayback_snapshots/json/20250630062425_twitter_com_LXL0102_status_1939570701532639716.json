@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1939240933939442161",
+    "created_at": "2025-06-30T06:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939570701532639716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1422636292433539072",
+          "start": 0,
+          "username": "Jjjj9777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939570701532639716",
+    "in_reply_to_user_id": "1422636292433539072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939376481244971339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jjjj9777 私信里都是傻逼在拉群…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1939240933939442161",
+        "created_at": "2025-06-30T06:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939570701532639716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422636292433539072",
+              "start": 0,
+              "username": "Jjjj9777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939570701532639716",
+        "in_reply_to_user_id": "1422636292433539072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939376481244971339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jjjj9777 私信里都是傻逼在拉群…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422636292433539072",
+        "conversation_id": "1939240933939442161",
+        "created_at": "2025-06-29T17:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T18:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939376481244971339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939376481244971339",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939240933939442161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 打开来一看是骚扰天都塌了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 257,
+          "like_count": 1192,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T19:11:48.000Z",
+        "description": "",
+        "id": "1422636292433539072",
+        "location": "Heaven0.0",
+        "name": "DayDre4m_7z",
+        "pinned_tweet_id": "1935123156412547165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854206184821342209/epFe2zcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 619,
+          "like_count": 46344,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 6542
+        },
+        "username": "Jjjj9777",
+        "verified": false
+      }
+    ]
+  }
+}

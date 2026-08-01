@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1972302450360201671",
+    "created_at": "2025-09-29T08:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T09:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972585660755361930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886315972476436480",
+          "start": 0,
+          "username": "trash_bin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972585660755361930",
+    "in_reply_to_user_id": "1886315972476436480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972302450360201671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trash_bin1989 地雷女和我谈恋爱吧球球了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_1972302446752870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18GoChWsAAEM9B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1972302450360201671",
+        "created_at": "2025-09-29T08:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972585660755361930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886315972476436480",
+              "start": 0,
+              "username": "trash_bin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972585660755361930",
+        "in_reply_to_user_id": "1886315972476436480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972302450360201671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trash_bin1989 地雷女和我谈恋爱吧球球了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972302446752870400"
+          ]
+        },
+        "author_id": "1886315972476436480",
+        "conversation_id": "1972302450360201671",
+        "created_at": "2025-09-28T14:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972302450360201671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "审美积累"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7oZwuR6ej",
+              "end": 29,
+              "expanded_url": "https://x.com/trash_bin1989/status/1972302450360201671/photo/1",
+              "media_key": "3_1972302446752870400",
+              "start": 6,
+              "url": "https://t.co/M7oZwuR6ej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972302450360201671",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13173,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#审美积累 https://t.co/M7oZwuR6ej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 261,
+          "like_count": 1401,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T07:29:14.000Z",
+        "description": "All day I've been geekin' up",
+        "id": "1886315972476436480",
+        "name": "pilljvce",
+        "pinned_tweet_id": "1960352399815577730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971602542292275200/eHE9ZjSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 352,
+          "like_count": 9927,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1777
+        },
+        "username": "trash_bin1989",
+        "verified": false
+      }
+    ]
+  }
+}

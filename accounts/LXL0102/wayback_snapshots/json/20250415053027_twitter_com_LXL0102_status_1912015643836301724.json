@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912015630204653568",
+        "3_1912015630150057985",
+        "3_1912015630150078464"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1912015643836301724",
+    "created_at": "2025-04-15T05:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T06:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912015643836301724"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "西玄"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "东玄"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "草药蜡烛"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "显化"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "疗愈"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "神秘学"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "占卜"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "塔罗"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "通灵"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "调频"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7M1yV5StxU",
+          "end": 148,
+          "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+          "media_key": "3_1912015630204653568",
+          "start": 125,
+          "url": "https://t.co/7M1yV5StxU"
+        },
+        {
+          "display_url": "pic.x.com/7M1yV5StxU",
+          "end": 148,
+          "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+          "media_key": "3_1912015630150057985",
+          "start": 125,
+          "url": "https://t.co/7M1yV5StxU"
+        },
+        {
+          "display_url": "pic.x.com/7M1yV5StxU",
+          "end": 148,
+          "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+          "media_key": "3_1912015630150078464",
+          "start": 125,
+          "url": "https://t.co/7M1yV5StxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912015643836301724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "巫毒娃娃反馈\n\n🈺爆款之王【巫毒娃娃】强势回归‼️\n😈蛊惑人心，让TA爱上你为你花钱\n😈报复小人，让TA陷入自责与痛苦\n\n已改良配方🈚️任何反噬\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 https://t.co/7M1yV5StxU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1912015630204653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GojYFdtX0AAD1RQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1912,
+        "media_key": "3_1912015630150057985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GojYFdgWwAEBv4c.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1912015630150078464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GojYFdgXEAA0uKg.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912015630204653568",
+            "3_1912015630150057985",
+            "3_1912015630150078464"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1912015643836301724",
+        "created_at": "2025-04-15T05:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T06:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912015643836301724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "西玄"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "东玄"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "草药蜡烛"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "显化"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "疗愈"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "神秘学"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "占卜"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "塔罗"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "通灵"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "调频"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7M1yV5StxU",
+              "end": 148,
+              "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+              "media_key": "3_1912015630204653568",
+              "start": 125,
+              "url": "https://t.co/7M1yV5StxU"
+            },
+            {
+              "display_url": "pic.x.com/7M1yV5StxU",
+              "end": 148,
+              "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+              "media_key": "3_1912015630150057985",
+              "start": 125,
+              "url": "https://t.co/7M1yV5StxU"
+            },
+            {
+              "display_url": "pic.x.com/7M1yV5StxU",
+              "end": 148,
+              "expanded_url": "https://x.com/LXL0102/status/1912015643836301724/photo/1",
+              "media_key": "3_1912015630150078464",
+              "start": 125,
+              "url": "https://t.co/7M1yV5StxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912015643836301724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巫毒娃娃反馈\n\n🈺爆款之王【巫毒娃娃】强势回归‼️\n😈蛊惑人心，让TA爱上你为你花钱\n😈报复小人，让TA陷入自责与痛苦\n\n已改良配方🈚️任何反噬\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 https://t.co/7M1yV5StxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 240,
+          "like_count": 1025,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

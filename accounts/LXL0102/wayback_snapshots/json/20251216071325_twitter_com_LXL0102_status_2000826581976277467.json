@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2000538300436889876",
+    "created_at": "2025-12-16T07:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T08:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000826581976277467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857559547151360000",
+          "start": 0,
+          "username": "YCTF5211314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000826581976277467",
+    "in_reply_to_user_id": "1857559547151360000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000826053607219204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YCTF5211314 惨圈妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2000826051455541253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RcsWZa4AUdNhE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2000538300436889876",
+        "created_at": "2025-12-16T07:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000826581976277467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857559547151360000",
+              "start": 0,
+              "username": "YCTF5211314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000826581976277467",
+        "in_reply_to_user_id": "1857559547151360000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000826053607219204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YCTF5211314 惨圈妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000826051455541253"
+          ]
+        },
+        "author_id": "1857559547151360000",
+        "conversation_id": "2000538300436889876",
+        "created_at": "2025-12-16T07:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000826053607219204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPjmh6H3Lp",
+              "end": 41,
+              "expanded_url": "https://x.com/YCTF5211314/status/2000826053607219204/photo/1",
+              "media_key": "3_2000826051455541253",
+              "start": 18,
+              "url": "https://t.co/DPjmh6H3Lp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000826053607219204",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000538300436889876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 餐券妹是什么意思 https://t.co/DPjmh6H3Lp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 276,
+          "like_count": 1525,
+          "listed_count": 5,
+          "media_count": 577,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T23:01:32.000Z",
+        "description": "我有多重人格/雙標/精神分裂/膽小/軀體化/情感障礙/焦慮癥/自卑/抑郁癥/敏感多疑/社交恐懼癥/焦躁癥/極度悲觀主義者/厭男/厭女/討厭所有健全的人/也討厭所有不健全的人",
+        "id": "1857559547151360000",
+        "name": "⁺✞ʚ永雏塔菲重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999093502542757888/uiFHoBhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 16,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 156
+        },
+        "username": "YCTF5211314",
+        "verified": false
+      }
+    ]
+  }
+}

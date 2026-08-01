@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1828097278302908417"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1828097386864161080",
+    "created_at": "2024-08-26T15:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T16:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828097386864161080"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "玄学"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "神秘学"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "仪式"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/as13harobg",
+          "end": 69,
+          "expanded_url": "https://twitter.com/LXL0102/status/1828097386864161080/video/1",
+          "media_key": "7_1828097278302908417",
+          "start": 46,
+          "url": "https://t.co/AS13hARObg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828097386864161080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我做的背道而驰仪式，作用是三个月内提到的两个人会大吵一架最终分开\n#玄学 #神秘学 #仪式 https://t.co/AS13hARObg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5733,
+        "height": 1280,
+        "media_key": "7_1828097278302908417",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828097278302908417/pu/img/ARtiYjPhSgxP0vEz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828097278302908417/pu/vid/avc1/320x568/pDrTlKTOyxp9TWqJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828097278302908417/pu/vid/avc1/480x852/DxMuW9RqZ90_hTJY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828097278302908417/pu/vid/avc1/720x1280/ZloNAkcHNpm0oSj4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828097278302908417/pu/pl/OAdQQEl7yxrreTgQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828097278302908417"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1828097386864161080",
+        "created_at": "2024-08-26T15:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T16:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828097386864161080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "玄学"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "神秘学"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "仪式"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/as13harobg",
+              "end": 69,
+              "expanded_url": "https://twitter.com/LXL0102/status/1828097386864161080/video/1",
+              "media_key": "7_1828097278302908417",
+              "start": 46,
+              "url": "https://t.co/AS13hARObg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828097386864161080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的背道而驰仪式，作用是三个月内提到的两个人会大吵一架最终分开\n#玄学 #神秘学 #仪式 https://t.co/AS13hARObg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 226,
+          "like_count": 913,
+          "listed_count": 2,
+          "tweet_count": 1544
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

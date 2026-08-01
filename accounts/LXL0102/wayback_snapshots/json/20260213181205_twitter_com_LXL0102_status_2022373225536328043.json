@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2022373225536328043",
+    "created_at": "2026-02-13T18:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T19:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022373225536328043"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "日系"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "地雷系"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "量产型"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021484012544589829",
+          "start": 3,
+          "username": "kiyumi080121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022373225536328043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022350767047537017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiyumi080121: 哥哥姐姐们入我门槛约我爸爸活吧\n188仅好友位/288可聊天\n私信发vx号口令通过好友\n入🚪解锁瑟瑟照片\n目前坐标沪\n168cm/49kg\n08年1月21日\n性格很好 可打视频\n纯绿/半绿/非绿 \n#日系 #地雷系 #量产型 #爸爸活 #上海…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022373225536328043].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022373225536328043",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022373225536328043"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022350742879924224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDVSSia8AAY-ak.jpg",
+        "width": 1024
+      },
+      {
+        "height": 770,
+        "media_key": "3_2022350742884118528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDVSSja8AAjk7l.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2022350742879948800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDVSSibUAAXVqm.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2022350742879899662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDVSSiakA4CTly.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022350742879924224",
+            "3_2022350742884118528",
+            "3_2022350742879948800",
+            "3_2022350742879899662"
+          ]
+        },
+        "author_id": "2021484012544589829",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022350767047537017",
+        "created_at": "2026-02-13T16:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022350767047537017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "日系"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "地雷系"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "量产型"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 124,
+              "start": 118,
+              "tag": "上海爸爸活"
+            },
+            {
+              "end": 131,
+              "start": 125,
+              "tag": "广州爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtJusMg1dQ",
+              "end": 155,
+              "expanded_url": "https://x.com/kiyumi080121/status/2022350767047537017/photo/1",
+              "media_key": "3_2022350742879924224",
+              "start": 132,
+              "url": "https://t.co/GtJusMg1dQ"
+            },
+            {
+              "display_url": "pic.x.com/GtJusMg1dQ",
+              "end": 155,
+              "expanded_url": "https://x.com/kiyumi080121/status/2022350767047537017/photo/1",
+              "media_key": "3_2022350742884118528",
+              "start": 132,
+              "url": "https://t.co/GtJusMg1dQ"
+            },
+            {
+              "display_url": "pic.x.com/GtJusMg1dQ",
+              "end": 155,
+              "expanded_url": "https://x.com/kiyumi080121/status/2022350767047537017/photo/1",
+              "media_key": "3_2022350742879948800",
+              "start": 132,
+              "url": "https://t.co/GtJusMg1dQ"
+            },
+            {
+              "display_url": "pic.x.com/GtJusMg1dQ",
+              "end": 155,
+              "expanded_url": "https://x.com/kiyumi080121/status/2022350767047537017/photo/1",
+              "media_key": "3_2022350742879899662",
+              "start": 132,
+              "url": "https://t.co/GtJusMg1dQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022350767047537017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥姐姐们入我门槛约我爸爸活吧\n188仅好友位/288可聊天\n私信发vx号口令通过好友\n入🚪解锁瑟瑟照片\n目前坐标沪\n168cm/49kg\n08年1月21日\n性格很好 可打视频\n纯绿/半绿/非绿 \n#日系 #地雷系 #量产型 #爸爸活 #上海爸爸活 #广州爸爸活 https://t.co/GtJusMg1dQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 352,
+          "like_count": 1703,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T07:20:31.000Z",
+        "description": "0121｜地雷系｜overdose｜餐券｜躁郁｜被害妄想｜焦虑｜188仅好友位｜288陪聊｜8咨询",
+        "id": "2021484012544589829",
+        "name": "kiyumi",
+        "pinned_tweet_id": "2022350767047537017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021487193567657984/lXxv0T0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 43,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 52
+        },
+        "username": "kiyumi080121",
+        "verified": false
+      }
+    ]
+  }
+}

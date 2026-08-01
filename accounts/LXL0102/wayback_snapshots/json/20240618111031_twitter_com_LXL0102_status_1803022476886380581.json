@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1803022476886380581",
+    "created_at": "2024-06-18T11:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T12:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803022476886380581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775030400244490240",
+          "start": 3,
+          "username": "fankangshibao"
+        },
+        {
+          "end": 34,
+          "id": "1260553941714186241",
+          "start": 19,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803022476886380581",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802671003241214293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fankangshibao: @whyyoutouzhele “她刊”被禁关注，是性别政治的又一次集中体现。在一个男性凝视占据主流话语权的社会，女性声音的崛起，自然会触动某些人的敏感神经。从传播学角度来看，“她刊”作为一个拥有百万粉丝的女性内容平台，它的发声触达了广泛的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1803022476886380581",
+        "created_at": "2024-06-18T11:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803022476886380581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1775030400244490240",
+              "start": 3,
+              "username": "fankangshibao"
+            },
+            {
+              "end": 34,
+              "id": "1260553941714186241",
+              "start": 19,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803022476886380581",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802671003241214293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fankangshibao: @whyyoutouzhele “她刊”被禁关注，是性别政治的又一次集中体现。在一个男性凝视占据主流话语权的社会，女性声音的崛起，自然会触动某些人的敏感神经。从传播学角度来看，“她刊”作为一个拥有百万粉丝的女性内容平台，它的发声触达了广泛的…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1775030400244490240",
+        "conversation_id": "1802646338858811452",
+        "created_at": "2024-06-17T11:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T12:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802671003241214293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802671003241214293",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 67955,
+          "like_count": 610,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802646338858811452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele “她刊”被禁关注，是性别政治的又一次集中体现。在一个男性凝视占据主流话语权的社会，女性声音的崛起，自然会触动某些人的敏感神经。从传播学角度来看，“她刊”作为一个拥有百万粉丝的女性内容平台，它的发声触达了广泛的女性群体，引发了她们对自身权益、社会角色和性别平等的思考和讨论。这种觉醒的力…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 214,
+          "like_count": 845,
+          "listed_count": 2,
+          "tweet_count": 1255
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T05:20:37.000Z",
+        "description": "姊妹推特账号：@nvquanshidai . 投稿或联系我，是这个邮箱：fankangzheshibao@proton.me . 为了你的安全，请勿使用中国的邮箱喔. 不推荐通过推特私信第一次联系我，因为我被大量机器人、小粉红私信，我容易漏看陌生人的私信. 第一次联系我，请发邮件，我会及时互相关注. 谢谢啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "nvquanshidai"
+              }
+            ]
+          }
+        },
+        "id": "1775030400244490240",
+        "name": "反抗者时报 The Revolt Times",
+        "pinned_tweet_id": "1792968522663968808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778551888268365824/YgQswul7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9431,
+          "following_count": 1190,
+          "like_count": 11357,
+          "listed_count": 48,
+          "tweet_count": 3595
+        },
+        "username": "fankangshibao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563602,
+          "following_count": 909,
+          "like_count": 4980,
+          "listed_count": 7424,
+          "tweet_count": 19408
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

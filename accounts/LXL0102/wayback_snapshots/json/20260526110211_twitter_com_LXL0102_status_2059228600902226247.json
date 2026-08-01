@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2049811998104535464",
+    "created_at": "2026-05-26T11:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059228600902226247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "863412566869004289",
+          "start": 0,
+          "username": "TAKASAKI_NAGATO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059228600902226247",
+    "in_reply_to_user_id": "863412566869004289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059145245007532059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKASAKI_NAGATO 不一定能复合，提升概率的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2049811998104535464",
+        "created_at": "2026-05-26T11:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059228600902226247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "863412566869004289",
+              "start": 0,
+              "username": "TAKASAKI_NAGATO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059228600902226247",
+        "in_reply_to_user_id": "863412566869004289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059145245007532059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKASAKI_NAGATO 不一定能复合，提升概率的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863412566869004289",
+        "conversation_id": "2049811998104535464",
+        "created_at": "2026-05-26T05:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059145245007532059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059145245007532059",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049811998104535464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 这是干嘛的，能复合？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 371,
+          "like_count": 1704,
+          "listed_count": 5,
+          "media_count": 476,
+          "tweet_count": 3574
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-13T15:16:12.000Z",
+        "description": "",
+        "id": "863412566869004289",
+        "location": "京都 京都市 中京区",
+        "name": "TAKAKI",
+        "pinned_tweet_id": "1505823293126823939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791744619606323200/96M1Fnqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 476,
+          "like_count": 3759,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "TAKASAKI_NAGATO",
+        "verified": false
+      }
+    ]
+  }
+}

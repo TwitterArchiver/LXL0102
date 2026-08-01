@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2031793358142947417",
+    "created_at": "2026-03-12T12:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032072493264183348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1175091488436285440",
+          "start": 0,
+          "username": "Seo4everwon"
+        },
+        {
+          "end": 25,
+          "id": "1829229897195368455",
+          "start": 13,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032072493264183348",
+    "in_reply_to_user_id": "1175091488436285440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032038526448279637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seo4everwon @OVOTVTOVO_3 转账的是一群啥比顽主更是啥比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2031793358142947417",
+        "created_at": "2026-03-12T12:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032072493264183348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1175091488436285440",
+              "start": 0,
+              "username": "Seo4everwon"
+            },
+            {
+              "end": 25,
+              "id": "1829229897195368455",
+              "start": 13,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032072493264183348",
+        "in_reply_to_user_id": "1175091488436285440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032038526448279637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seo4everwon @OVOTVTOVO_3 转账的是一群啥比顽主更是啥比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1175091488436285440",
+        "conversation_id": "2031793358142947417",
+        "created_at": "2026-03-12T10:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032038526448279637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "OVOTVTOVO_3"
+            },
+            {
+              "end": 21,
+              "id": "1680544465671561216",
+              "start": 13,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032038526448279637",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031793358142947417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVOTVTOVO_3 @LXL0102 我也想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 366,
+          "like_count": 1776,
+          "listed_count": 5,
+          "media_count": 645,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-20T16:57:06.000Z",
+        "description": "박지원＆젼랑단｜E:U STAN｜한국의 예비 유학생:TOPIK 준비 중",
+        "id": "1175091488436285440",
+        "location": "People's Republic of China",
+        "name": "Seo｜🦋",
+        "pinned_tweet_id": "1959911476396970008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025975874273828867/5pVdubN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 187,
+          "like_count": 1861,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 1796
+        },
+        "username": "Seo4everwon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "id": "1829229897195368455",
+        "name": "用户2778（已黑化/.）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031009535616589824/FgdN33Qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 64,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3371
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

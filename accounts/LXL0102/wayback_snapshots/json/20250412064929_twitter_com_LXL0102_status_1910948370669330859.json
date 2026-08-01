@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1910948370669330859",
+    "created_at": "2025-04-12T06:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T07:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910948370669330859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1907499224801095681",
+          "start": 3,
+          "username": "miaomiaoyuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910948370669330859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908192560008344049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaoyuovo: 喵喵的投喂指南🔝\n宝宝们之前号冻结了我又不得已重开了寻找我丢失的门哥这一次我要夺回我失去的一切\n支持验证不用担心我是皮下男皮下男一辈子赚不到钱！！！\n转发此条抽一分KFC🧧可折现（1314fo开）\n欢迎各位宝宝找我互转互fo https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910948370669330859].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910948370669330859",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910948370669330859"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908192506770042888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntC-ZEXMAgnC_5.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908192507118137344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntC-aXWsAA4RUY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908192506770042888",
+            "3_1908192507118137344"
+          ]
+        },
+        "author_id": "1907499224801095681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1908192560008344049",
+        "created_at": "2025-04-04T16:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908192560008344049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTFTHAHMot",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaoyuovo/status/1908192560008344049/photo/1",
+              "media_key": "3_1908192506770042888",
+              "start": 113,
+              "url": "https://t.co/gTFTHAHMot"
+            },
+            {
+              "display_url": "pic.x.com/gTFTHAHMot",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaoyuovo/status/1908192560008344049/photo/1",
+              "media_key": "3_1908192507118137344",
+              "start": 113,
+              "url": "https://t.co/gTFTHAHMot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908192560008344049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18500,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵的投喂指南🔝\n宝宝们之前号冻结了我又不得已重开了寻找我丢失的门哥这一次我要夺回我失去的一切\n支持验证不用担心我是皮下男皮下男一辈子赚不到钱！！！\n转发此条抽一分KFC🧧可折现（1314fo开）\n欢迎各位宝宝找我互转互fo https://t.co/gTFTHAHMot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 238,
+          "like_count": 1021,
+          "listed_count": 4,
+          "media_count": 339,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T18:24:21.000Z",
+        "description": "谁入门谁是我爸爸！😭坐标20r先发口令再回答，大额口令请带姓氏❤️支持验证✊皮下男一辈子赚不到钱",
+        "id": "1907499224801095681",
+        "name": "喵喵（0人入门版）",
+        "pinned_tweet_id": "1908192560008344049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909709519191449601/yFBfKvgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 10,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 60
+        },
+        "username": "miaomiaoyuovo",
+        "verified": false
+      }
+    ]
+  }
+}

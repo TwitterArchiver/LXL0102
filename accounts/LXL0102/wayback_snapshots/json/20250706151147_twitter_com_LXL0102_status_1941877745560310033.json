@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1941847297442410884",
+    "created_at": "2025-07-06T15:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T16:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941877745560310033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707375521015967744",
+          "start": 0,
+          "username": "gekkifxxkearth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941877745560310033",
+    "in_reply_to_user_id": "1707375521015967744",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941876128530194904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gekkifxxkearth 5！😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1941847297442410884",
+        "created_at": "2025-07-06T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941877745560310033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707375521015967744",
+              "start": 0,
+              "username": "gekkifxxkearth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941877745560310033",
+        "in_reply_to_user_id": "1707375521015967744",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941876128530194904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gekkifxxkearth 5！😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707375521015967744",
+        "conversation_id": "1941847297442410884",
+        "created_at": "2025-07-06T15:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941876128530194904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941876128530194904",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941847297442410884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 抽我爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 249,
+          "like_count": 1215,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T12:44:00.000Z",
+        "description": "GEKKI/haruru 羽遥。/ENG/中文ok精神崩溃中 地雷系大好き！ デスノート激推中（՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷̥᷅⸝⸝՞)｜🖋️🌙｜ 🚪80/120/520/1314纯绿无福利 只想看想看的东西。找我拉赞转帖需支付100 关心我请先给我打钱",
+        "id": "1707375521015967744",
+        "location": "只属于KIKI的星球",
+        "name": "对不起",
+        "pinned_tweet_id": "1861824869215904226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928905303237808128/vQBBbeTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 268,
+          "like_count": 7620,
+          "listed_count": 2,
+          "media_count": 1279,
+          "tweet_count": 7209
+        },
+        "username": "gekkifxxkearth",
+        "verified": false
+      }
+    ]
+  }
+}

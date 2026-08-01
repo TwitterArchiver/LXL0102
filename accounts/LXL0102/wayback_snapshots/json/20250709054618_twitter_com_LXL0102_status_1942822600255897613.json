@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942822550549004288"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942822600255897613",
+    "created_at": "2025-07-09T05:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T06:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942822600255897613"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "西玄"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "草药蜡烛"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "显化"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "疗愈"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "神秘学"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "占卜"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "塔罗"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "通灵"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "调频"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "读心"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "灵性"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RyWK2hMe8r",
+          "end": 145,
+          "expanded_url": "https://x.com/LXL0102/status/1942822600255897613/photo/1",
+          "media_key": "3_1942822550549004288",
+          "start": 122,
+          "url": "https://t.co/RyWK2hMe8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942822600255897613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⚠️7.18～8.11是水逆期⚠️\n适用于感情出现问题，沟通不当，生活遇见一些麻烦事儿的，觉得倒霉的，人际家庭学校职场冲突的都可以点\n#西玄   #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 https://t.co/RyWK2hMe8r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1942822550549004288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZK0PMXgAAWMO4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942822550549004288"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942822600255897613",
+        "created_at": "2025-07-09T05:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T06:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942822600255897613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "西玄"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "草药蜡烛"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "显化"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "疗愈"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "神秘学"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "占卜"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "塔罗"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "通灵"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "调频"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "读心"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "灵性"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyWK2hMe8r",
+              "end": 145,
+              "expanded_url": "https://x.com/LXL0102/status/1942822600255897613/photo/1",
+              "media_key": "3_1942822550549004288",
+              "start": 122,
+              "url": "https://t.co/RyWK2hMe8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942822600255897613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️7.18～8.11是水逆期⚠️\n适用于感情出现问题，沟通不当，生活遇见一些麻烦事儿的，觉得倒霉的，人际家庭学校职场冲突的都可以点\n#西玄   #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 https://t.co/RyWK2hMe8r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 251,
+          "like_count": 1224,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

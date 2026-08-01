@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2040409025125466371",
+    "created_at": "2026-04-04T12:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040409025125466371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinwendiaocha/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/xinwendiaocha/status/2040116649211355350",
+          "start": 28,
+          "url": "https://t.co/Pqew8yV1QQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040409025125466371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040116649211355350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区某些男的笑死我了啊一个ai视频又让大脑达到高潮了 https://t.co/Pqew8yV1QQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18966,
+        "height": 640,
+        "media_key": "13_2040111721533353984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040111721533353984/img/aL4-bgOBXE6hlBT1.jpg",
+        "public_metrics": {
+          "view_count": 556256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040111721533353984/vid/avc1/320x580/CDbb9k8UECA92IaC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040111721533353984/vid/avc1/352x640/MLSE09s7fzDN8cn0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040111721533353984/pl/l1qdOhiCQdTVJ22b.m3u8?v=7fb"
+          }
+        ],
+        "width": 352
+      },
+      {
+        "duration_ms": 18967,
+        "height": 640,
+        "media_key": "13_2040116580391288832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040116580391288832/img/IIQlQW3L7F__Kw1M.jpg",
+        "public_metrics": {
+          "view_count": 89344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040116580391288832/vid/avc1/320x580/9Si9E8olVFe9NdRJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040116580391288832/vid/avc1/352x640/U9q_yQ4ooEEym1ow.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040116580391288832/pl/M4VaxZHZM9n91hf1.m3u8?v=a8b"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2040409025125466371",
+        "created_at": "2026-04-04T12:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040409025125466371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/2040116649211355350",
+              "start": 28,
+              "url": "https://t.co/Pqew8yV1QQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040409025125466371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040116649211355350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区某些男的笑死我了啊一个ai视频又让大脑达到高潮了 https://t.co/Pqew8yV1QQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040111721533353984",
+            "13_2040116580391288832"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "2040116649211355350",
+        "created_at": "2026-04-03T17:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:58:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040111776654823579",
+          "2040116649211355350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FdeirhCiv",
+              "end": 57,
+              "expanded_url": "https://x.com/xinwendiaocha/status/2040116649211355350/video/1",
+              "media_key": "13_2040111721533353984",
+              "start": 34,
+              "url": "https://t.co/6FdeirhCiv"
+            },
+            {
+              "display_url": "pic.x.com/6FdeirhCiv",
+              "end": 57,
+              "expanded_url": "https://x.com/xinwendiaocha/status/2040116649211355350/video/1",
+              "media_key": "13_2040116580391288832",
+              "start": 34,
+              "url": "https://t.co/6FdeirhCiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040116649211355350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 1023451,
+          "like_count": 1264,
+          "quote_count": 18,
+          "reply_count": 315,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "小仙女嫁给非洲黑男后，在非洲遭虐待！\n跪地痛哭认错，求父母救自己！ https://t.co/6FdeirhCiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 369,
+          "like_count": 1758,
+          "listed_count": 5,
+          "media_count": 647,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2039457176868303065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634617,
+          "following_count": 144,
+          "like_count": 4245,
+          "listed_count": 1664,
+          "media_count": 39442,
+          "tweet_count": 60451
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

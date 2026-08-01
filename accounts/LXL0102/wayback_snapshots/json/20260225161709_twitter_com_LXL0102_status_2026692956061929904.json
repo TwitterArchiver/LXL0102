@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026285076066234368"
+      ],
+      "media_source_tweet_id": [
+        "2026285083209109678"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2026692956061929904",
+    "created_at": "2026-02-25T16:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026692956061929904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910008101371273225",
+          "start": 3,
+          "username": "paopao152025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nMwqm0kUqd",
+          "end": 55,
+          "expanded_url": "https://x.com/paopao152025/status/2026285083209109678/photo/1",
+          "media_key": "3_2026285076066234368",
+          "start": 32,
+          "url": "https://t.co/nMwqm0kUqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026692956061929904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026285083209109678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paopao152025: 我说真的吉他张啥时候被封杀 https://t.co/nMwqm0kUqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1405,
+        "media_key": "3_2026285076066234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7PinyacAAIhgW.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026285076066234368"
+          ],
+          "media_source_tweet_id": [
+            "2026285083209109678"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2026692956061929904",
+        "created_at": "2026-02-25T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026692956061929904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910008101371273225",
+              "start": 3,
+              "username": "paopao152025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMwqm0kUqd",
+              "end": 55,
+              "expanded_url": "https://x.com/paopao152025/status/2026285083209109678/photo/1",
+              "media_key": "3_2026285076066234368",
+              "start": 32,
+              "url": "https://t.co/nMwqm0kUqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026692956061929904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026285083209109678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paopao152025: 我说真的吉他张啥时候被封杀 https://t.co/nMwqm0kUqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026285076066234368"
+          ]
+        },
+        "author_id": "1910008101371273225",
+        "conversation_id": "2026285083209109678",
+        "created_at": "2026-02-24T13:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026285083209109678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMwqm0kUqd",
+              "end": 37,
+              "expanded_url": "https://x.com/paopao152025/status/2026285083209109678/photo/1",
+              "media_key": "3_2026285076066234368",
+              "start": 14,
+              "url": "https://t.co/nMwqm0kUqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026285083209109678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 59248,
+          "like_count": 971,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的吉他张啥时候被封杀 https://t.co/nMwqm0kUqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 370,
+          "like_count": 1771,
+          "listed_count": 5,
+          "media_count": 638,
+          "tweet_count": 3634
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26都被封了tut",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "name": "泡泡",
+        "pinned_tweet_id": "2026336315521020068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 170,
+          "like_count": 2356,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 665
+        },
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

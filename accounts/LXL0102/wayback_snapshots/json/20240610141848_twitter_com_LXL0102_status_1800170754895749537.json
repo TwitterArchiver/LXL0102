@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1800169213375783414",
+    "created_at": "2024-06-10T14:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T15:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800170754895749537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730557130166738944",
+          "start": 0,
+          "username": "YunaOnO_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800170754895749537",
+    "in_reply_to_user_id": "1730557130166738944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800169213375783414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunaOnO_2001 我认输我的惩罚是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1800169213375783414",
+        "created_at": "2024-06-10T14:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T15:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800170754895749537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730557130166738944",
+              "start": 0,
+              "username": "YunaOnO_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800170754895749537",
+        "in_reply_to_user_id": "1730557130166738944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800169213375783414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunaOnO_2001 我认输我的惩罚是什么"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800169201694539777"
+          ]
+        },
+        "author_id": "1730557130166738944",
+        "conversation_id": "1800169213375783414",
+        "created_at": "2024-06-10T14:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T15:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800169213375783414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QuzK0pYCjU",
+              "end": 33,
+              "expanded_url": "https://twitter.com/YunaOnO_2001/status/1800169213375783414/photo/1",
+              "media_key": "3_1800169201694539777",
+              "start": 10,
+              "url": "https://t.co/QuzK0pYCjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800169213375783414",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不许看那里”挑战 https://t.co/QuzK0pYCjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 214,
+          "like_count": 855,
+          "listed_count": 2,
+          "tweet_count": 1221
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T11:59:14.000Z",
+        "description": "南无地藏王菩萨//占卜号@wohaocute👈🏻主业",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "wohaocute"
+              }
+            ]
+          }
+        },
+        "id": "1730557130166738944",
+        "location": "🚪52/128/521/1314",
+        "name": "燃燃",
+        "pinned_tweet_id": "1760342991615770651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785158692775792640/eZXrMYe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16785,
+          "following_count": 122,
+          "like_count": 1570,
+          "listed_count": 26,
+          "tweet_count": 1824
+        },
+        "username": "YunaOnO_2001",
+        "verified": false
+      }
+    ]
+  }
+}

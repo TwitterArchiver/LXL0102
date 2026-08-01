@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2080955233166082395",
+    "created_at": "2026-07-25T12:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080997744228069725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641871417150144513",
+          "start": 0,
+          "username": "sunibabe002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080997744228069725",
+    "in_reply_to_user_id": "1641871417150144513",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080988923472543781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunibabe002 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080955233166082395",
+        "created_at": "2026-07-25T12:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080997744228069725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641871417150144513",
+              "start": 0,
+              "username": "sunibabe002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080997744228069725",
+        "in_reply_to_user_id": "1641871417150144513",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080988923472543781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunibabe002 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641871417150144513",
+        "conversation_id": "2080955233166082395",
+        "created_at": "2026-07-25T12:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080988923472543781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988923472543781",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080955233166082395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 好萌啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 375,
+          "like_count": 1693,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3602
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T18:33:53.000Z",
+        "description": "即使是被月光照耀的玻璃窗 也不会这样闪烁",
+        "id": "1641871417150144513",
+        "location": "Central & Western District",
+        "name": "纸月",
+        "pinned_tweet_id": "1763920053072978024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874097577962201089/x8sVBesN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 300,
+          "like_count": 5353,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "sunibabe002",
+        "verified": false
+      }
+    ]
+  }
+}

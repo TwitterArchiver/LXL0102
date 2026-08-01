@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1989351116967199203",
+    "created_at": "2025-11-15T11:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989650156468482246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881149839364227072",
+          "start": 0,
+          "username": "jinitaimei123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989650156468482246",
+    "in_reply_to_user_id": "1881149839364227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989648422732009893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinitaimei123_ 越来越能看出来她的心理/精神知识储备真的不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1989351116967199203",
+        "created_at": "2025-11-15T11:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989650156468482246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881149839364227072",
+              "start": 0,
+              "username": "jinitaimei123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989650156468482246",
+        "in_reply_to_user_id": "1881149839364227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989648422732009893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinitaimei123_ 越来越能看出来她的心理/精神知识储备真的不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881149839364227072",
+        "conversation_id": "1989351116967199203",
+        "created_at": "2025-11-15T10:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989648422732009893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989648422732009893",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989351116967199203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 看她有几年了，之前因为她是双相博主关注的她，最近觉得她发的视频越来越傻逼了。。她自己本来就患有双向好几年结果还接心理咨询？咋想的？还他妈两百一小时。。想圈钱真想疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 268,
+          "like_count": 1433,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T01:21:01.000Z",
+        "description": "我是荒芜，这个号啥都发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huangwu.lovelo…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huangwu.lovelove",
+                "start": 0,
+                "url": "https://t.co/bv6sWOWFBU"
+              }
+            ]
+          }
+        },
+        "id": "1881149839364227072",
+        "location": "墓地",
+        "name": "abcdefyyy",
+        "pinned_tweet_id": "1963071801895879140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984382895138459648/o2V9Yy3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 385,
+          "like_count": 11960,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/bv6sWOWFBU",
+        "username": "jinitaimei123_",
+        "verified": false
+      }
+    ]
+  }
+}

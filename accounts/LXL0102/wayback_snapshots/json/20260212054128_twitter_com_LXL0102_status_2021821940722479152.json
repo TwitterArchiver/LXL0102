@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021206109584044033",
+        "3_2021206109600743424",
+        "3_2021206109558800386"
+      ],
+      "media_source_tweet_id": [
+        "2021206348621545775",
+        "2021206348621545775",
+        "2021206348621545775"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021821940722479152",
+    "created_at": "2026-02-12T05:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021821940722479152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lhwhg9jiiK",
+          "end": 81,
+          "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+          "media_key": "13_2021206109584044033",
+          "start": 58,
+          "url": "https://t.co/Lhwhg9jiiK"
+        },
+        {
+          "display_url": "pic.x.com/Lhwhg9jiiK",
+          "end": 81,
+          "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+          "media_key": "3_2021206109600743424",
+          "start": 58,
+          "url": "https://t.co/Lhwhg9jiiK"
+        },
+        {
+          "display_url": "pic.x.com/Lhwhg9jiiK",
+          "end": 81,
+          "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+          "media_key": "3_2021206109558800386",
+          "start": 58,
+          "url": "https://t.co/Lhwhg9jiiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021821940722479152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021206348621545775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CJing3_: 威胁我退学的班主任🕯️🕯️\n造我黄谣的前任🕯️🕯️\n快过年了也不知道死了没，烧点纸催一下 https://t.co/Lhwhg9jiiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12266,
+        "height": 720,
+        "media_key": "13_2021206109584044033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021206109584044033/img/kbWxOb5vWihFa3mz.jpg",
+        "public_metrics": {
+          "view_count": 86070
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/360x270/IXGHf8vck8X2H_pr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/480x360/3W4gPMHdIeQer_eM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/960x720/7W6xPCkeOe352Q4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/pl/aIZ4JzWrh3Iaerq_.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021206109600743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzEP3SaAAAbInA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021206109558800386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzEP3IaAAIVCRa.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 12266,
+        "height": 720,
+        "media_key": "13_2021206109584044033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021206109584044033/img/kbWxOb5vWihFa3mz.jpg",
+        "public_metrics": {
+          "view_count": 86125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/360x270/IXGHf8vck8X2H_pr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/480x360/3W4gPMHdIeQer_eM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/960x720/7W6xPCkeOe352Q4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/pl/aIZ4JzWrh3Iaerq_.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021206109584044033",
+            "3_2021206109600743424",
+            "3_2021206109558800386"
+          ],
+          "media_source_tweet_id": [
+            "2021206348621545775",
+            "2021206348621545775",
+            "2021206348621545775"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021821940722479152",
+        "created_at": "2026-02-12T05:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021821940722479152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 81,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "13_2021206109584044033",
+              "start": 58,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 81,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109600743424",
+              "start": 58,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 81,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109558800386",
+              "start": 58,
+              "url": "https://t.co/Lhwhg9jiiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021821940722479152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021206348621545775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CJing3_: 威胁我退学的班主任🕯️🕯️\n造我黄谣的前任🕯️🕯️\n快过年了也不知道死了没，烧点纸催一下 https://t.co/Lhwhg9jiiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021206109584044033",
+            "3_2021206109600743424",
+            "3_2021206109558800386"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021206348621545775",
+        "created_at": "2026-02-10T12:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021206348621545775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "13_2021206109584044033",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109600743424",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109558800386",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021206348621545775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 201589,
+          "like_count": 1558,
+          "quote_count": 18,
+          "reply_count": 72,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "威胁我退学的班主任🕯️🕯️\n造我黄谣的前任🕯️🕯️\n快过年了也不知道死了没，烧点纸催一下 https://t.co/Lhwhg9jiiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 353,
+          "like_count": 1695,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 3524
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10461,
+          "following_count": 431,
+          "like_count": 9340,
+          "listed_count": 19,
+          "media_count": 130,
+          "tweet_count": 388
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

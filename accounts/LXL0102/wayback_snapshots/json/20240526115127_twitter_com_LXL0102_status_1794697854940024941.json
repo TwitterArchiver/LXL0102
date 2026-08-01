@@ -1,0 +1,321 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1794697854940024941",
+    "created_at": "2024-05-26T11:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T12:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794697854940024941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "上海"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "门槛"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "包养"
+        },
+        {
+          "end": 97,
+          "start": 91,
+          "tag": "daddy"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "上海爸爸活"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "atm奴"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "租借女友"
+        },
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "出租女友"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "陪玩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1779357039774633985",
+          "start": 3,
+          "username": "yurinakawaiixx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794697854940024941",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794496580802027593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yurinakawaiixx3: 你好 我是yurina（…）\n我又重开了，请帮助我攒钱生活，谢谢\n求你了\n#上海 #爸爸活 #门槛哥 #门槛妹 #门槛 #金主爸爸 #包养 #daddy   #上海爸爸活 #妈妈活 #atm奴 #租借女友  #出租女友  #陪玩  #虚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794697854940024941].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794697854940024941",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794697854940024941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794496573554262016",
+            "3_1794496573403185152",
+            "3_1794496573403230208",
+            "3_1794496573583642624"
+          ]
+        },
+        "author_id": "1779357039774633985",
+        "conversation_id": "1794496580802027593",
+        "created_at": "2024-05-25T22:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T23:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794496580802027593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "上海"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "门槛"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "包养"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "daddy"
+            },
+            {
+              "end": 85,
+              "start": 79,
+              "tag": "上海爸爸活"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "atm奴"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "租借女友"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "出租女友"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "陪玩"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "虚恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WKZzzvcHaf",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yurinakawaiixx3/status/1794496580802027593/photo/1",
+              "media_key": "3_1794496573554262016",
+              "start": 120,
+              "url": "https://t.co/WKZzzvcHaf"
+            },
+            {
+              "display_url": "pic.twitter.com/WKZzzvcHaf",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yurinakawaiixx3/status/1794496580802027593/photo/1",
+              "media_key": "3_1794496573403185152",
+              "start": 120,
+              "url": "https://t.co/WKZzzvcHaf"
+            },
+            {
+              "display_url": "pic.twitter.com/WKZzzvcHaf",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yurinakawaiixx3/status/1794496580802027593/photo/1",
+              "media_key": "3_1794496573403230208",
+              "start": 120,
+              "url": "https://t.co/WKZzzvcHaf"
+            },
+            {
+              "display_url": "pic.twitter.com/WKZzzvcHaf",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yurinakawaiixx3/status/1794496580802027593/photo/1",
+              "media_key": "3_1794496573583642624",
+              "start": 120,
+              "url": "https://t.co/WKZzzvcHaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794496580802027593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3802,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你好 我是yurina（…）\n我又重开了，请帮助我攒钱生活，谢谢\n求你了\n#上海 #爸爸活 #门槛哥 #门槛妹 #门槛 #金主爸爸 #包养 #daddy   #上海爸爸活 #妈妈活 #atm奴 #租借女友  #出租女友  #陪玩  #虚恋 https://t.co/WKZzzvcHaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 213,
+          "like_count": 830,
+          "listed_count": 2,
+          "tweet_count": 1143
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T03:53:22.000Z",
+        "description": "我又忘记密码重开了（。）",
+        "id": "1779357039774633985",
+        "location": "🚪88/288/388/520/1314 上不封顶",
+        "name": "yurina🥛🐾（重开3.0版）",
+        "pinned_tweet_id": "1794496580802027593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794493864096747520/6hRJZ7jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 28,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "yurinakawaiixx3",
+        "verified": false
+      }
+    ]
+  }
+}

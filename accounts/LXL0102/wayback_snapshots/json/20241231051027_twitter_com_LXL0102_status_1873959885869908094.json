@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1873637977454412280",
+    "created_at": "2024-12-31T05:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T06:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873959885869908094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873959885869908094",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873637977454412280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo od已成精神病二次元时尚单品🤣🖐️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1873637977454412280",
+        "created_at": "2024-12-31T05:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T06:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873959885869908094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873959885869908094",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873637977454412280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo od已成精神病二次元时尚单品🤣🖐️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873637968226975744"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "1873637977454412280",
+        "created_at": "2024-12-30T07:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T08:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873637977454412280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KZU3v7KXQ",
+              "end": 35,
+              "expanded_url": "https://x.com/huajuanshiwo/status/1873637977454412280/photo/1",
+              "media_key": "3_1873637968226975744",
+              "start": 12,
+              "url": "https://t.co/7KZU3v7KXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873637977454412280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27739,
+          "like_count": 239,
+          "quote_count": 6,
+          "reply_count": 50,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢苹果和小米的设计 https://t.co/7KZU3v7KXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 236,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "早就不想当两脚兽了…｜新月宝宝@xinyuetangjiang｜14岁｜男｜轻抑中焦｜有男友 ｜🏳️‍🌈｜术术人｜furry控｜文具控｜喜欢临摹｜晚上会发癫！｜极度渴望拥抱呢…｜有时说话不过脑子｜大陆人…｜超级社恐｜🚫政治打咩🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "xinyuetangjiang"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号（欢迎扩列和私信！！）",
+        "name": "树海",
+        "pinned_tweet_id": "1850603607013626207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867239507311120384/onejCuWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 1679,
+          "like_count": 27985,
+          "listed_count": 4,
+          "media_count": 987,
+          "tweet_count": 6307
+        },
+        "username": "huajuanshiwo",
+        "verified": true
+      }
+    ]
+  }
+}

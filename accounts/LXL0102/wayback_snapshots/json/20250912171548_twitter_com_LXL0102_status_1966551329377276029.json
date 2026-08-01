@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1966550175595589673",
+    "created_at": "2025-09-12T17:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T18:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966551329377276029"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966551329377276029",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966550175595589673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再卖惨就滚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_1966550167513153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qW9UebQAA9L6H.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1966550175595589673",
+        "created_at": "2025-09-12T17:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966551329377276029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966551329377276029",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966550175595589673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再卖惨就滚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966550167513153536"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1966550175595589673",
+        "created_at": "2025-09-12T17:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966550175595589673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhUSnSs2ma",
+              "end": 138,
+              "expanded_url": "https://x.com/LXL0102/status/1966550175595589673/photo/1",
+              "media_key": "3_1966550167513153536",
+              "start": 115,
+              "url": "https://t.co/RhUSnSs2ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966550175595589673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想到底是真被霸凌了还是我太焦虑太敏感了，初中时期心理有问题不想去上学，班主任说我会带坏班里的同学，趁我不在的时候让大家都不要跟我玩；高中时期因为是转班所以和同学们很生疏，每天早上去学校我都会发现我的椅子总会被上晚自习的人偷走 https://t.co/RhUSnSs2ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 264,
+          "like_count": 1393,
+          "listed_count": 5,
+          "media_count": 504,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

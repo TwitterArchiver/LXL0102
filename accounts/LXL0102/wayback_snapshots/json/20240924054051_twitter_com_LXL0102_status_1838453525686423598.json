@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1838453525686423598",
+    "created_at": "2024-09-24T05:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T06:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838453525686423598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "非绿"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "陪聊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835288020066664448",
+          "start": 3,
+          "username": "noer_767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838453525686423598",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837393127935824091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noer_767: 🔝顶置\n你好我是西西  \n04/164/98坐标上海🉑全国飞非绿🎀爱好/二次元/宠物/游戏\n中度抑郁焦虑 不好的言论会拉黑 验证过🚪验证 只回过🚪了的 看清楚再来谢谢\n欢迎小姐姐互转 本人很听话喜欢我就投喂小猫咪吧 #爸爸活 #非绿 #陪聊 #电子女…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838453525686423598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838453525686423598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838453525686423598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837393115461963776"
+          ]
+        },
+        "author_id": "1835288020066664448",
+        "conversation_id": "1837393127935824091",
+        "created_at": "2024-09-21T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837393127935824091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "非绿"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "陪聊"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "电子女友"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "上海"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umufebfzmf",
+              "end": 158,
+              "expanded_url": "https://twitter.com/noer_767/status/1837393127935824091/photo/1",
+              "media_key": "3_1837393115461963776",
+              "start": 135,
+              "url": "https://t.co/umufEbfZmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837393127935824091",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7863,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "🔝顶置\n你好我是西西  \n04/164/98坐标上海🉑全国飞非绿🎀爱好/二次元/宠物/游戏\n中度抑郁焦虑 不好的言论会拉黑 验证过🚪验证 只回过🚪了的 看清楚再来谢谢\n欢迎小姐姐互转 本人很听话喜欢我就投喂小猫咪吧 #爸爸活 #非绿 #陪聊 #电子女友 #上海 #包养 https://t.co/umufEbfZmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyVCrO"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 234,
+          "like_count": 913,
+          "listed_count": 2,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/1gSttyVCrO",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T12:02:30.000Z",
+        "description": "可验证过🚪验证 坐标15麻烦关注我一下谢谢",
+        "id": "1835288020066664448",
+        "location": "0.01km",
+        "name": "西西（打折版）",
+        "pinned_tweet_id": "1837393127935824091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835288403212148736/5KtXuRJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 45,
+          "like_count": 61,
+          "listed_count": 3,
+          "tweet_count": 242
+        },
+        "username": "noer_767",
+        "verified": false
+      }
+    ]
+  }
+}

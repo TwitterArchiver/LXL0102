@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1863155385676542246",
+    "created_at": "2024-12-01T11:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T12:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863183827298087157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812085794871672832",
+          "start": 0,
+          "username": "Glduxpnxus17361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863183827298087157",
+    "in_reply_to_user_id": "1812085794871672832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863155385676542246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glduxpnxus17361 密码的气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1863155385676542246",
+        "created_at": "2024-12-01T11:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863183827298087157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812085794871672832",
+              "start": 0,
+              "username": "Glduxpnxus17361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863183827298087157",
+        "in_reply_to_user_id": "1812085794871672832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863155385676542246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glduxpnxus17361 密码的气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863155373961539584"
+          ]
+        },
+        "author_id": "1812085794871672832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863155385676542246",
+        "created_at": "2024-12-01T09:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T10:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863155385676542246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCsYehI6SA",
+              "end": 52,
+              "expanded_url": "https://x.com/Glduxpnxus17361/status/1863155385676542246/photo/1",
+              "media_key": "3_1863155373961539584",
+              "start": 29,
+              "url": "https://t.co/jCsYehI6SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863155385676542246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1860,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个门哥 不爱聊天 一找他就是给我打钱然后又不理我了😔 https://t.co/jCsYehI6SA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 237,
+          "like_count": 957,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T11:25:04.000Z",
+        "description": "钱性恋",
+        "id": "1812085794871672832",
+        "location": "Osaka-fu, Japan",
+        "name": "羊村我最骚5.0",
+        "pinned_tweet_id": "1817744686796480559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828111309092851712/NQ6Ko690_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9319,
+          "following_count": 53,
+          "like_count": 309,
+          "listed_count": 13,
+          "media_count": 67,
+          "tweet_count": 169
+        },
+        "username": "Glduxpnxus17361",
+        "verified": false
+      }
+    ]
+  }
+}

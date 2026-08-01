@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2024376302724403351",
+    "created_at": "2026-02-19T08:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024400597320097802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825118222858985472",
+          "start": 0,
+          "username": "Yuliko717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024400597320097802",
+    "in_reply_to_user_id": "1825118222858985472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024397338811519390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko717 梦展望你太让我失望了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2024376302724403351",
+        "created_at": "2026-02-19T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024400597320097802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825118222858985472",
+              "start": 0,
+              "username": "Yuliko717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024400597320097802",
+        "in_reply_to_user_id": "1825118222858985472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024397338811519390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko717 梦展望你太让我失望了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825118222858985472",
+        "conversation_id": "2024376302724403351",
+        "created_at": "2026-02-19T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024397338811519390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024397338811519390",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024376302724403351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 我昨天去mzw快闪买的裙子穿了半条就爆装备了好想弄死mzw 斗篷加衬衫和裙子就要我一千多！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 364,
+          "like_count": 1746,
+          "listed_count": 5,
+          "media_count": 629,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T10:31:15.000Z",
+        "description": "门槛88 有意私信 走丢小号@yuliko0729 不了解我只是通过身材羞辱我其实你也很可怜  只回复口令红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yuliko0729"
+              }
+            ]
+          }
+        },
+        "id": "1825118222858985472",
+        "location": "药店",
+        "name": "Yuliko(´・ω・`)",
+        "pinned_tweet_id": "1959666854869471397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023651714235330562/RavvkTNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 209,
+          "like_count": 447,
+          "listed_count": 12,
+          "media_count": 316,
+          "tweet_count": 1770
+        },
+        "username": "Yuliko717",
+        "verified": false
+      }
+    ]
+  }
+}

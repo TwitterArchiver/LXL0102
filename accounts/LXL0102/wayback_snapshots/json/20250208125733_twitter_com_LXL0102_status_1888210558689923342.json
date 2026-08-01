@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1888196262949687358",
+    "created_at": "2025-02-08T12:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T13:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888210558689923342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623720309533847552",
+          "start": 0,
+          "username": "Violette404x"
+        },
+        {
+          "end": 23,
+          "id": "1376813917561757702",
+          "start": 14,
+          "username": "TaoTie_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888210558689923342",
+    "in_reply_to_user_id": "1623720309533847552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888198836805595647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violette404x @TaoTie_s 就这个，大家都投她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1888196262949687358",
+        "created_at": "2025-02-08T12:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888210558689923342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623720309533847552",
+              "start": 0,
+              "username": "Violette404x"
+            },
+            {
+              "end": 23,
+              "id": "1376813917561757702",
+              "start": 14,
+              "username": "TaoTie_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888210558689923342",
+        "in_reply_to_user_id": "1623720309533847552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888198836805595647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violette404x @TaoTie_s 就这个，大家都投她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888198833697619968"
+          ]
+        },
+        "author_id": "1623720309533847552",
+        "conversation_id": "1888196262949687358",
+        "created_at": "2025-02-08T12:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888198836805595647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1376813917561757702",
+              "start": 0,
+              "username": "TaoTie_s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rh2BZ5ZRob",
+              "end": 33,
+              "expanded_url": "https://x.com/Violette404x/status/1888198836805595647/photo/1",
+              "media_key": "3_1888198833697619968",
+              "start": 10,
+              "url": "https://t.co/Rh2BZ5ZRob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888198836805595647",
+        "in_reply_to_user_id": "1376813917561757702",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888196262949687358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoTie_s https://t.co/Rh2BZ5ZRob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 235,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T16:27:53.000Z",
+        "description": "不线下/攒钱烤肉",
+        "id": "1623720309533847552",
+        "location": "🚪188/222/520",
+        "name": "886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887884502669942785/QKLqmnpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28060,
+          "following_count": 140,
+          "like_count": 24131,
+          "listed_count": 129,
+          "media_count": 299,
+          "tweet_count": 3067
+        },
+        "username": "Violette404x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T08:30:00.000Z",
+        "description": "les🌈 0S/女权主义/INTP/纯爱战士 dom偏刑主S    ❤️已有对象\n💰接推广or约稿定制文 （推广自辨）",
+        "id": "1376813917561757702",
+        "name": "饕餮s",
+        "pinned_tweet_id": "1870107005467406457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377498476674605058/Eeg1Jmac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135460,
+          "following_count": 100,
+          "like_count": 8027,
+          "listed_count": 138,
+          "media_count": 214,
+          "tweet_count": 5085
+        },
+        "username": "TaoTie_s",
+        "verified": false
+      }
+    ]
+  }
+}

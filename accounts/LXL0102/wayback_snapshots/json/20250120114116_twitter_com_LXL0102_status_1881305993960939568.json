@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1880963965708329266",
+    "created_at": "2025-01-20T11:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T12:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881305993960939568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822320938781978624",
+          "start": 0,
+          "username": "painofuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881305993960939568",
+    "in_reply_to_user_id": "1822320938781978624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880963965708329266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painofuuuuuuuu 卧槽我刚关注怎么就抽完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1880963965708329266",
+        "created_at": "2025-01-20T11:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881305993960939568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822320938781978624",
+              "start": 0,
+              "username": "painofuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881305993960939568",
+        "in_reply_to_user_id": "1822320938781978624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880963965708329266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painofuuuuuuuu 卧槽我刚关注怎么就抽完了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880963958703886336"
+          ]
+        },
+        "author_id": "1822320938781978624",
+        "conversation_id": "1880963965708329266",
+        "created_at": "2025-01-19T13:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880963965708329266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wE2TWceXiA",
+              "end": 116,
+              "expanded_url": "https://x.com/painofuuuuuuuu/status/1880963965708329266/photo/1",
+              "media_key": "3_1880963958703886336",
+              "start": 93,
+              "url": "https://t.co/wE2TWceXiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880963965708329266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1754,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "上次评论送港美的活动开奖啦，中奖的朋友们我会评论回复你们，发我地址领取。\n点赞评论关注我再抽一位送出港美【30t】，下周日开奖~\n本抽奖为常驻活动，每周一次，没抽到的宝宝下次还有机会！ https://t.co/wE2TWceXiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 234,
+          "like_count": 967,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T17:15:58.000Z",
+        "description": "期待住進阿卡姆瘋人院的精神病患者！",
+        "id": "1822320938781978624",
+        "location": "阿卡姆瘋人院",
+        "name": "優格的藥代帳號（唯一）",
+        "pinned_tweet_id": "1823762366242161109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822321177517539328/tIlJRWIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "username": "painofuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

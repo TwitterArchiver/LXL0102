@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1800223490584527127",
+    "created_at": "2024-06-10T21:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T22:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800279008581685394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800279008581685394",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800223490584527127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 我会淘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1800223490584527127",
+        "created_at": "2024-06-10T21:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T22:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800279008581685394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800279008581685394",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800223490584527127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 我会淘"
+      },
+      {
+        "attachments": {},
+        "author_id": "1651352228936941568",
+        "conversation_id": "1800223490584527127",
+        "created_at": "2024-06-10T17:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800223490584527127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800223490584527127",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多事情我决定不了，只能等，等待这件事让我焦虑万分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 214,
+          "like_count": 856,
+          "listed_count": 2,
+          "tweet_count": 1228
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。",
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1655879257246113794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 344,
+          "like_count": 15947,
+          "listed_count": 5,
+          "tweet_count": 6953
+        },
+        "username": "Arockandrew",
+        "verified": false
+      }
+    ]
+  }
+}

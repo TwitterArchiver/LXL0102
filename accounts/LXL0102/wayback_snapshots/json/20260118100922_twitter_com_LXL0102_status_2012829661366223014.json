@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2012829661366223014",
+    "created_at": "2026-01-18T10:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012829661366223014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruruko_oo/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ruruko_oo/status/2012829102965944740",
+          "start": 9,
+          "url": "https://t.co/ISVmwKg9qW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012829661366223014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012829102965944740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "允许你蹭我的冷度 https://t.co/ISVmwKg9qW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012829092295397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8BZR_W0AAf62u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012829092307968000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8BZSCWoAA8pTg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1019,
+        "media_key": "3_2012829092316356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8BZSEWoAAgW_q.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2012829661366223014",
+        "created_at": "2026-01-18T10:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012829661366223014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruruko_oo/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ruruko_oo/status/2012829102965944740",
+              "start": 9,
+              "url": "https://t.co/ISVmwKg9qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012829661366223014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012829102965944740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "允许你蹭我的冷度 https://t.co/ISVmwKg9qW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012829092295397376",
+            "3_2012829092307968000",
+            "3_2012829092316356608"
+          ]
+        },
+        "author_id": "2003149753148932096",
+        "conversation_id": "2012829102965944740",
+        "created_at": "2026-01-18T10:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012829102965944740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "绘画"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "稿件"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1680544465671561216",
+              "start": 12,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdSxKrtCYq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2012829102965944740/photo/1",
+              "media_key": "3_2012829092295397376",
+              "start": 36,
+              "url": "https://t.co/xdSxKrtCYq"
+            },
+            {
+              "display_url": "pic.x.com/xdSxKrtCYq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2012829102965944740/photo/1",
+              "media_key": "3_2012829092307968000",
+              "start": 36,
+              "url": "https://t.co/xdSxKrtCYq"
+            },
+            {
+              "display_url": "pic.x.com/xdSxKrtCYq",
+              "end": 59,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2012829102965944740/photo/1",
+              "media_key": "3_2012829092316356608",
+              "start": 36,
+              "url": "https://t.co/xdSxKrtCYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012829102965944740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蹭热度蹭热度给你们看我给@LXL0102 画的画所有画 #绘画 #稿件 https://t.co/xdSxKrtCYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 277,
+          "like_count": 1593,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "gekki 08 🚪80/120/520/1314 日语大部分是机翻。 不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2012392000356483389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012393285520961536/xTL1T_SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 114,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 313
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

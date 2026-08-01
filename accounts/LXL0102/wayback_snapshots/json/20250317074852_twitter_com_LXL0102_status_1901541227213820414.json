@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1901541159362834432"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1901541227213820414",
+    "created_at": "2025-03-17T07:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T08:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901541227213820414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "水逆期"
+        },
+        {
+          "end": 10,
+          "start": 5,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "神秘学"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "疗愈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Cgil9z1cz",
+          "end": 43,
+          "expanded_url": "https://x.com/LXL0102/status/1901541227213820414/video/1",
+          "media_key": "13_1901541159362834432",
+          "start": 20,
+          "url": "https://t.co/0Cgil9z1cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901541227213820414",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#水逆期 #魔法蜡烛 #神秘学 #疗愈 https://t.co/0Cgil9z1cz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11120,
+        "height": 1280,
+        "media_key": "13_1901541159362834432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1901541159362834432/img/vXuEMMtimVlvXgAZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901541159362834432/vid/avc1/320x568/c8iidTb4AjDJDB71.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901541159362834432/vid/avc1/480x852/zZgOdnuZ_TJx7QJE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901541159362834432/vid/avc1/720x1280/MGNXMk8TJk9dHsiS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1901541159362834432/pl/NDl0jMtzBz5OAFxO.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1901541159362834432"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1901541227213820414",
+        "created_at": "2025-03-17T07:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T08:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901541227213820414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "水逆期"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "神秘学"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "疗愈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Cgil9z1cz",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/1901541227213820414/video/1",
+              "media_key": "13_1901541159362834432",
+              "start": 20,
+              "url": "https://t.co/0Cgil9z1cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901541227213820414",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#水逆期 #魔法蜡烛 #神秘学 #疗愈 https://t.co/0Cgil9z1cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 237,
+          "like_count": 1013,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

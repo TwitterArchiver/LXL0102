@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1903289747763761508",
+    "created_at": "2025-03-22T05:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T06:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903314670980649407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1709977649311825920",
+          "start": 0,
+          "username": "Morakuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903314670980649407",
+    "in_reply_to_user_id": "1709977649311825920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903289747763761508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morakuri 卧槽老公好帅！！宝宝我喜欢你的画风！萌萌哒"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903289747763761508].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903289747763761508",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903289747763761508"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1903289747763761508",
+        "created_at": "2025-03-22T05:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T06:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903314670980649407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1709977649311825920",
+              "start": 0,
+              "username": "Morakuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903314670980649407",
+        "in_reply_to_user_id": "1709977649311825920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903289747763761508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morakuri 卧槽老公好帅！！宝宝我喜欢你的画风！萌萌哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 236,
+          "like_count": 1016,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T17:03:47.000Z",
+        "description": "都墙外了谁不抽象？我是莫拉，啥都看什么都会发表言论但是对鉴证没什么兴趣，请不要因为抽象骂我 没人看自言自语又怎么你了",
+        "id": "1709977649311825920",
+        "name": "モラクリ☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880853133561348096/AkUzf-Vn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 238,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 470
+        },
+        "username": "Morakuri",
+        "verified": false
+      }
+    ]
+  }
+}

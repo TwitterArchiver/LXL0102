@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920434275750412288",
+        "3_1920434302023524352",
+        "3_1920434321090871296",
+        "3_1920434338950209536"
+      ],
+      "media_source_tweet_id": [
+        "1920434342020407776",
+        "1920434342020407776",
+        "1920434342020407776",
+        "1920434342020407776"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939556837390762153",
+    "created_at": "2025-06-30T05:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939556837390762153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1917807783363371008",
+          "start": 3,
+          "username": "xxx0010021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rppr6W7fMh",
+          "end": 60,
+          "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+          "media_key": "3_1920434275750412288",
+          "start": 37,
+          "url": "https://t.co/Rppr6W7fMh"
+        },
+        {
+          "display_url": "pic.x.com/Rppr6W7fMh",
+          "end": 60,
+          "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+          "media_key": "3_1920434302023524352",
+          "start": 37,
+          "url": "https://t.co/Rppr6W7fMh"
+        },
+        {
+          "display_url": "pic.x.com/Rppr6W7fMh",
+          "end": 60,
+          "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+          "media_key": "3_1920434321090871296",
+          "start": 37,
+          "url": "https://t.co/Rppr6W7fMh"
+        },
+        {
+          "display_url": "pic.x.com/Rppr6W7fMh",
+          "end": 60,
+          "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+          "media_key": "3_1920434338950209536",
+          "start": 37,
+          "url": "https://t.co/Rppr6W7fMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939556837390762153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920434342020407776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx0010021: 更新了一下简介条 求老婆萌互转蟹蟹！🥺🤲 https://t.co/Rppr6W7fMh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939556837390762153].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939556837390762153",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939556837390762153"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1741,
+        "media_key": "3_1920434275750412288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbAzISWgAAwjvh.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1920434302023524352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbA0qKWYAATbvi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1136,
+        "media_key": "3_1920434321090871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbA1xMXAAAQsBD.jpg",
+        "width": 852
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1920434338950209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbA2zuW4AArGGM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920434275750412288",
+            "3_1920434302023524352",
+            "3_1920434321090871296",
+            "3_1920434338950209536"
+          ]
+        },
+        "author_id": "1917807783363371008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920434342020407776",
+        "created_at": "2025-05-08T11:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920434342020407776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rppr6W7fMh",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+              "media_key": "3_1920434275750412288",
+              "start": 21,
+              "url": "https://t.co/Rppr6W7fMh"
+            },
+            {
+              "display_url": "pic.x.com/Rppr6W7fMh",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+              "media_key": "3_1920434302023524352",
+              "start": 21,
+              "url": "https://t.co/Rppr6W7fMh"
+            },
+            {
+              "display_url": "pic.x.com/Rppr6W7fMh",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+              "media_key": "3_1920434321090871296",
+              "start": 21,
+              "url": "https://t.co/Rppr6W7fMh"
+            },
+            {
+              "display_url": "pic.x.com/Rppr6W7fMh",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx0010021/status/1920434342020407776/photo/1",
+              "media_key": "3_1920434338950209536",
+              "start": 21,
+              "url": "https://t.co/Rppr6W7fMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920434342020407776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18649,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "更新了一下简介条 求老婆萌互转蟹蟹！🥺🤲 https://t.co/Rppr6W7fMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 257,
+          "like_count": 1190,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T05:06:29.000Z",
+        "description": "*",
+        "id": "1917807783363371008",
+        "name": "我在大街上捡到一块钱并私吞",
+        "pinned_tweet_id": "1920434342020407776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918989429785686016/pu5I53fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 107,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 41
+        },
+        "username": "xxx0010021",
+        "verified": false
+      }
+    ]
+  }
+}

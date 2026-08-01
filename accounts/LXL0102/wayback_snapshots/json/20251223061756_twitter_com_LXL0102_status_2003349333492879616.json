@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2003349333492879616",
+    "created_at": "2025-12-23T06:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T07:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003349333492879616"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "金主"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2003149753148932096",
+          "start": 3,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003349333492879616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003169970700902435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruruko_oo: 前世被奸人所害我重生了！！\n我是ruruko 08 寻找前世互关 \n圣诞快乐有没有人想过ruru的门槛。        （＾_＾）！！ruru想要更多的爱！ 口令或者找我要付款码都可以\n接广州半绿520/h 尺度看详细 #爸爸活 #金主 #门槛妹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003349333492879616].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003349333492879616",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003349333492879616"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003169961427275778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ywd3ebEAIyi8G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2003169961464987650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ywd3nagAIUwQS.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003169961431441408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ywd3faoAAfcG4.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003169961427275778",
+            "3_2003169961464987650",
+            "3_2003169961431441408"
+          ]
+        },
+        "author_id": "2003149753148932096",
+        "conversation_id": "2003169970700902435",
+        "created_at": "2025-12-22T18:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T19:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003169970700902435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "金主"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "女高"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "门槛"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "线下"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6HgxZPTzB",
+              "end": 163,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2003169970700902435/photo/1",
+              "media_key": "3_2003169961427275778",
+              "start": 140,
+              "url": "https://t.co/Y6HgxZPTzB"
+            },
+            {
+              "display_url": "pic.x.com/Y6HgxZPTzB",
+              "end": 163,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2003169970700902435/photo/1",
+              "media_key": "3_2003169961464987650",
+              "start": 140,
+              "url": "https://t.co/Y6HgxZPTzB"
+            },
+            {
+              "display_url": "pic.x.com/Y6HgxZPTzB",
+              "end": 163,
+              "expanded_url": "https://x.com/Ruruko_oo/status/2003169970700902435/photo/1",
+              "media_key": "3_2003169961431441408",
+              "start": 140,
+              "url": "https://t.co/Y6HgxZPTzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003169970700902435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "前世被奸人所害我重生了！！\n我是ruruko 08 寻找前世互关 \n圣诞快乐有没有人想过ruru的门槛。        （＾_＾）！！ruru想要更多的爱！ 口令或者找我要付款码都可以\n接广州半绿520/h 尺度看详细 #爸爸活 #金主 #门槛妹 #女高 #门槛 #线下 #半绿 https://t.co/Y6HgxZPTzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 284,
+          "like_count": 1589,
+          "listed_count": 5,
+          "media_count": 587,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "ruruko 🚪80/120/520/1314 前世：@gekkifxxkearth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "name": "Ruruko",
+        "pinned_tweet_id": "2003169970700902435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003151050874978309/v_LrpMae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

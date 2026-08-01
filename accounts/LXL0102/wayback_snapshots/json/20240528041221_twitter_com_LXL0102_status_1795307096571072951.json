@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795135640696168449"
+      ],
+      "media_source_tweet_id": [
+        "1795135657792159971"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1795307096571072951",
+    "created_at": "2024-05-28T04:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T05:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795307096571072951"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "药物"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629373997539561473",
+          "start": 3,
+          "username": "LuRucheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/3uSD47NnJu",
+          "end": 137,
+          "expanded_url": "https://twitter.com/LuRucheng/status/1795135657792159971/photo/1",
+          "media_key": "3_1795135640696168449",
+          "start": 114,
+          "url": "https://t.co/3uSD47NnJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795307096571072951",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795135657792159971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuRucheng: 抽奖活动来啦\n关注➕转发➕评论➕点赞此推，从评论区随机抽三人\n一等奖十盒右美\n二等奖三盒普瑞\n三等奖三盒右美\n都是需要开处方，6月2日开奖\n本次开奖需转发超过150人\n\n#右美沙芬 #药物 #抽奖 https://t.co/3uSD47NnJu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795307096571072951].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795307096571072951",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795307096571072951"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1795135640696168449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOmaWqtWoAE9CO7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795135640696168449"
+          ]
+        },
+        "author_id": "1629373997539561473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1795135657792159971",
+        "created_at": "2024-05-27T16:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T17:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795135657792159971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "药物"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3uSD47NnJu",
+              "end": 122,
+              "expanded_url": "https://twitter.com/LuRucheng/status/1795135657792159971/photo/1",
+              "media_key": "3_1795135640696168449",
+              "start": 99,
+              "url": "https://t.co/3uSD47NnJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795135657792159971",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖活动来啦\n关注➕转发➕评论➕点赞此推，从评论区随机抽三人\n一等奖十盒右美\n二等奖三盒普瑞\n三等奖三盒右美\n都是需要开处方，6月2日开奖\n本次开奖需转发超过150人\n\n#右美沙芬 #药物 #抽奖 https://t.co/3uSD47NnJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 213,
+          "like_count": 836,
+          "listed_count": 2,
+          "tweet_count": 1149
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T06:53:44.000Z",
+        "description": "主营各类OTC 处方药，日常经营品规一万多种，支持1件发货。右美、普瑞、可待因、舍曲林、艾地苯醌、金刚烷胺……。右美正规渠道，6月30日前正常供货。之后停售。https://t.co/tfOwgDXkRs有疑问可以进群蹲蹲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+onTSYoqknhU3Y…",
+                "end": 102,
+                "expanded_url": "https://t.me/+onTSYoqknhU3YTM9",
+                "start": 79,
+                "url": "https://t.co/tfOwgDXkRs"
+              }
+            ]
+          }
+        },
+        "id": "1629373997539561473",
+        "name": "满天星（华源医药公司）",
+        "pinned_tweet_id": "1795135657792159971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791435000166146048/K6c7OQ95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 49,
+          "like_count": 23,
+          "listed_count": 0,
+          "tweet_count": 146
+        },
+        "username": "LuRucheng",
+        "verified": false
+      }
+    ]
+  }
+}

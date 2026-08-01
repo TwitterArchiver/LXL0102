@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1936828730120515891",
+    "created_at": "2025-06-22T16:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T17:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936828730120515891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chaixioayu/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chaixioayu/status/1936369191415881889",
+          "start": 6,
+          "url": "https://t.co/YXB0JzILOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936828730120515891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936369191415881889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的很好看 https://t.co/YXB0JzILOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90666,
+        "height": 1280,
+        "media_key": "13_1936368866461986816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936368866461986816/img/FJSYyg__IjDthr_S.jpg",
+        "public_metrics": {
+          "view_count": 1183666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/320x568/bAdWIEDxjcg2Da_L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/480x852/RB_BQgLuE3rPzLCi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/720x1280/beyM70gtWHzgkQrN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/pl/e18V4jfpId7B8CYI.m3u8?v=ffc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1936828730120515891",
+        "created_at": "2025-06-22T16:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936828730120515891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chaixioayu/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chaixioayu/status/1936369191415881889",
+              "start": 6,
+              "url": "https://t.co/YXB0JzILOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936828730120515891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936369191415881889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的很好看 https://t.co/YXB0JzILOg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936368866461986816"
+          ]
+        },
+        "author_id": "1237992251294248960",
+        "conversation_id": "1936369191415881889",
+        "created_at": "2025-06-21T10:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936369191415881889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "RevengedLove"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "逆爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TldnRsehRc",
+              "end": 50,
+              "expanded_url": "https://x.com/chaixioayu/status/1936369191415881889/video/1",
+              "media_key": "13_1936368866461986816",
+              "start": 27,
+              "url": "https://t.co/TldnRsehRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936369191415881889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11625,
+          "impression_count": 1412253,
+          "like_count": 44603,
+          "quote_count": 266,
+          "reply_count": 28,
+          "retweet_count": 4394
+        },
+        "reply_settings": "verified",
+        "text": "#RevengedLove \n办公室play\n#逆爱 https://t.co/TldnRsehRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 250,
+          "like_count": 1162,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T06:42:15.000Z",
+        "description": "",
+        "id": "1237992251294248960",
+        "location": "Beijing",
+        "name": "Rain",
+        "pinned_tweet_id": "1936571421758787728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936505602143875072/4HXiNnGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 149,
+          "like_count": 5499,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "chaixioayu",
+        "verified": false
+      }
+    ]
+  }
+}

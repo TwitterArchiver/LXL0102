@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1815235822779809886",
+    "created_at": "2024-07-22T04:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T05:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815244479957549215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748717733569875968",
+          "start": 0,
+          "username": "DoSwza70462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815244479957549215",
+    "in_reply_to_user_id": "1748717733569875968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815244299103269187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoSwza70462 我没有吸毒！！！wwww我只是多吃了几颗药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1815235822779809886",
+        "created_at": "2024-07-22T04:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T05:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815244479957549215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748717733569875968",
+              "start": 0,
+              "username": "DoSwza70462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815244479957549215",
+        "in_reply_to_user_id": "1748717733569875968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815244299103269187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoSwza70462 我没有吸毒！！！wwww我只是多吃了几颗药"
+      },
+      {
+        "attachments": {},
+        "author_id": "1748717733569875968",
+        "conversation_id": "1815235822779809886",
+        "created_at": "2024-07-22T04:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T05:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815244299103269187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815244299103269187",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815235822779809886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 220,
+          "like_count": 895,
+          "listed_count": 2,
+          "tweet_count": 1397
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "代伪造处方！！互联网买药需要处方找我！！5块一次，定制！\n\n这里是格拉道斯，在互联网上寻找梦与现实的物质，沾负能思考鉴证哲学魔怔推，任何主义者均接受，友跨，⚠️反极端，有事可直接找我，欢迎前来发癫(￣O￣)ノ，私信互fo，本人极端魔怔但认错，如导致你任何不适请第一时间告知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/imglados",
+                "end": 23,
+                "expanded_url": "https://t.me/imglados",
+                "start": 0,
+                "url": "https://t.co/MglTz7N8th"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "河南郑州 距你位置0.6km",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1796198759124336980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808141941017890816/gINiWXJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 700,
+          "like_count": 13808,
+          "listed_count": 0,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/MglTz7N8th",
+        "username": "DoSwza70462",
+        "verified": false
+      }
+    ]
+  }
+}

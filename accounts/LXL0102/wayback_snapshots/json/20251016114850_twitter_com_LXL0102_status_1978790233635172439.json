@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1978481446483595412",
+    "created_at": "2025-10-16T11:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T12:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978790233635172439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978790233635172439",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978481446483595412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 一滴泪腿毛打过来了快跑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1978481428016119808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T6YFebwAA10yb.jpg",
+        "width": 694
+      },
+      {
+        "height": 1265,
+        "media_key": "3_1978481428087328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T6YFvaUAAbrK5.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1978481428057993216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T6YFoasAAT8V2.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1978481446483595412",
+        "created_at": "2025-10-16T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978790233635172439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978790233635172439",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978481446483595412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 一滴泪腿毛打过来了快跑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978481428016119808",
+            "3_1978481428087328768",
+            "3_1978481428057993216"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1978481446483595412",
+        "created_at": "2025-10-15T15:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978481446483595412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHdNoPBMtH",
+              "end": 31,
+              "expanded_url": "https://x.com/FurinaDF/status/1978481446483595412/photo/1",
+              "media_key": "3_1978481428016119808",
+              "start": 8,
+              "url": "https://t.co/CHdNoPBMtH"
+            },
+            {
+              "display_url": "pic.x.com/CHdNoPBMtH",
+              "end": 31,
+              "expanded_url": "https://x.com/FurinaDF/status/1978481446483595412/photo/1",
+              "media_key": "3_1978481428087328768",
+              "start": 8,
+              "url": "https://t.co/CHdNoPBMtH"
+            },
+            {
+              "display_url": "pic.x.com/CHdNoPBMtH",
+              "end": 31,
+              "expanded_url": "https://x.com/FurinaDF/status/1978481446483595412/photo/1",
+              "media_key": "3_1978481428057993216",
+              "start": 8,
+              "url": "https://t.co/CHdNoPBMtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978481446483595412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 21688,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "东亚邪术之化妆 https://t.co/CHdNoPBMtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 262,
+          "like_count": 1408,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56684,
+          "following_count": 2354,
+          "like_count": 29273,
+          "listed_count": 162,
+          "media_count": 7217,
+          "tweet_count": 11730
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

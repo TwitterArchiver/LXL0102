@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931164940318195712",
+        "3_1931164940267933696",
+        "3_1931164940276322304",
+        "3_1931164940301385729"
+      ],
+      "media_source_tweet_id": [
+        "1931164950262931521",
+        "1931164950262931521",
+        "1931164950262931521",
+        "1931164950262931521"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938864715163410826",
+    "created_at": "2025-06-28T07:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T08:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938864715163410826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1918502141259595776",
+          "start": 3,
+          "username": "ovovovo666073"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/et1e9XhFpe",
+          "end": 100,
+          "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+          "media_key": "3_1931164940318195712",
+          "start": 77,
+          "url": "https://t.co/et1e9XhFpe"
+        },
+        {
+          "display_url": "pic.x.com/et1e9XhFpe",
+          "end": 100,
+          "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+          "media_key": "3_1931164940267933696",
+          "start": 77,
+          "url": "https://t.co/et1e9XhFpe"
+        },
+        {
+          "display_url": "pic.x.com/et1e9XhFpe",
+          "end": 100,
+          "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+          "media_key": "3_1931164940276322304",
+          "start": 77,
+          "url": "https://t.co/et1e9XhFpe"
+        },
+        {
+          "display_url": "pic.x.com/et1e9XhFpe",
+          "end": 100,
+          "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+          "media_key": "3_1931164940301385729",
+          "start": 77,
+          "url": "https://t.co/et1e9XhFpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938864715163410826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931164950262931521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ovovovo666073: 你好我是小怡 坐标广州 希望大家喜欢我多多过我🚪 🚪88/288/520/1314/2888\n2888🚪线下一个月 https://t.co/et1e9XhFpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_1931164940318195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GszgSA5awAAZKhl.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931164940267933696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GszgSAtb0AAPLjh.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931164940276322304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GszgSAvb0AAYagg.jpg",
+        "width": 1228
+      },
+      {
+        "height": 1643,
+        "media_key": "3_1931164940301385729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GszgSA1aQAEK5Ty.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931164940318195712",
+            "3_1931164940267933696",
+            "3_1931164940276322304",
+            "3_1931164940301385729"
+          ],
+          "media_source_tweet_id": [
+            "1931164950262931521",
+            "1931164950262931521",
+            "1931164950262931521",
+            "1931164950262931521"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938864715163410826",
+        "created_at": "2025-06-28T07:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938864715163410826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1918502141259595776",
+              "start": 3,
+              "username": "ovovovo666073"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 100,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940318195712",
+              "start": 77,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 100,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940267933696",
+              "start": 77,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 100,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940276322304",
+              "start": 77,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 100,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940301385729",
+              "start": 77,
+              "url": "https://t.co/et1e9XhFpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938864715163410826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931164950262931521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ovovovo666073: 你好我是小怡 坐标广州 希望大家喜欢我多多过我🚪 🚪88/288/520/1314/2888\n2888🚪线下一个月 https://t.co/et1e9XhFpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931164940318195712",
+            "3_1931164940267933696",
+            "3_1931164940276322304",
+            "3_1931164940301385729"
+          ]
+        },
+        "author_id": "1918502141259595776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931164950262931521",
+        "created_at": "2025-06-07T01:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T02:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931164950262931521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 81,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940318195712",
+              "start": 58,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 81,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940267933696",
+              "start": 58,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 81,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940276322304",
+              "start": 58,
+              "url": "https://t.co/et1e9XhFpe"
+            },
+            {
+              "display_url": "pic.x.com/et1e9XhFpe",
+              "end": 81,
+              "expanded_url": "https://x.com/ovovovo666073/status/1931164950262931521/photo/1",
+              "media_key": "3_1931164940301385729",
+              "start": 58,
+              "url": "https://t.co/et1e9XhFpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931164950262931521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 48893,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 142
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你好我是小怡 坐标广州 希望大家喜欢我多多过我🚪 🚪88/288/520/1314/2888\n2888🚪线下一个月 https://t.co/et1e9XhFpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 252,
+          "like_count": 1179,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T03:05:36.000Z",
+        "description": "（big叔已验证）💗验证 20r坐标 半绿纯绿不绿都接 求求你们跟我互转吧 刚下海 想要很多很多钱 🚪288/520/1314 2888包线下一个月 求求你们过我🚪吧我想去西藏 520线下优惠 过门验证",
+        "id": "1918502141259595776",
+        "location": "距离你2.8公里",
+        "name": "我是小怡（已读不回问价死全家）",
+        "pinned_tweet_id": "1931164950262931521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918502248839335936/c73nHX5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 279,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 511
+        },
+        "username": "ovovovo666073",
+        "verified": false
+      }
+    ]
+  }
+}

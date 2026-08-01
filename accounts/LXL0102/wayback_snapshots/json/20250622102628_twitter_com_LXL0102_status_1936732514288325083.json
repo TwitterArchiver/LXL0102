@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1936729800032526484",
+    "created_at": "2025-06-22T10:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T11:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936732514288325083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936732514288325083",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936729800032526484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 越这样o的人越多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_1936729795590561792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuClfOQXIAAE2H3.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1392,
+        "media_key": "3_1936729794395385856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuClfJzaMAAdh2E.jpg",
+        "width": 1112
+      },
+      {
+        "height": 2068,
+        "media_key": "3_1936729795737300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuClfOzWMAAguVY.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1936729800032526484",
+        "created_at": "2025-06-22T10:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936732514288325083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936732514288325083",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936729800032526484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 越这样o的人越多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936729795590561792",
+            "3_1936729794395385856",
+            "3_1936729795737300992"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1936729800032526484",
+        "created_at": "2025-06-22T10:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936729800032526484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgN2vYLO47",
+              "end": 70,
+              "expanded_url": "https://x.com/overdosewiki/status/1936729800032526484/photo/1",
+              "media_key": "3_1936729795590561792",
+              "start": 47,
+              "url": "https://t.co/HgN2vYLO47"
+            },
+            {
+              "display_url": "pic.x.com/HgN2vYLO47",
+              "end": 70,
+              "expanded_url": "https://x.com/overdosewiki/status/1936729800032526484/photo/1",
+              "media_key": "3_1936729794395385856",
+              "start": 47,
+              "url": "https://t.co/HgN2vYLO47"
+            },
+            {
+              "display_url": "pic.x.com/HgN2vYLO47",
+              "end": 70,
+              "expanded_url": "https://x.com/overdosewiki/status/1936729800032526484/photo/1",
+              "media_key": "3_1936729795737300992",
+              "start": 47,
+              "url": "https://t.co/HgN2vYLO47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936729800032526484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这三条有一个有用我也不会O，也许是高层觉得中国没有家暴、校园霸凌，儿童们的成长环境都特别好吧 https://t.co/HgN2vYLO47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 250,
+          "like_count": 1162,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1912323001305165928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 11,
+          "like_count": 365,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

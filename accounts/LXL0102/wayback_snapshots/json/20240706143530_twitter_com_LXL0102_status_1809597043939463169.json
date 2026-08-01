@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1809425500202479799",
+    "created_at": "2024-07-06T14:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T15:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809597043939463169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643063473969168386",
+          "start": 0,
+          "username": "Nemiya_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809597043939463169",
+    "in_reply_to_user_id": "1643063473969168386",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809586499010326659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nemiya_3 隔空传送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1809425500202479799",
+        "created_at": "2024-07-06T14:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T15:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809597043939463169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643063473969168386",
+              "start": 0,
+              "username": "Nemiya_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809597043939463169",
+        "in_reply_to_user_id": "1643063473969168386",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809586499010326659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nemiya_3 隔空传送"
+      },
+      {
+        "attachments": {},
+        "author_id": "1643063473969168386",
+        "conversation_id": "1809425500202479799",
+        "created_at": "2024-07-06T13:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T14:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809586499010326659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809586499010326659",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809425500202479799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 怎么给你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 218,
+          "like_count": 879,
+          "listed_count": 2,
+          "tweet_count": 1346
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T01:30:54.000Z",
+        "description": "目前青岛/mtf/同类贴贴欢迎~",
+        "id": "1643063473969168386",
+        "name": "铃铃空澄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679782298135437312/_RpmOFsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 315,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "Nemiya_3",
+        "verified": false
+      }
+    ]
+  }
+}

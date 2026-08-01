@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1884781946485547346",
+    "created_at": "2025-01-30T14:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T15:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884970746969223258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623720309533847552",
+          "start": 0,
+          "username": "Violette404x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884970746969223258",
+    "in_reply_to_user_id": "1623720309533847552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884781946485547346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violette404x 我也不行吗（失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1884781946485547346",
+        "created_at": "2025-01-30T14:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884970746969223258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623720309533847552",
+              "start": 0,
+              "username": "Violette404x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884970746969223258",
+        "in_reply_to_user_id": "1623720309533847552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884781946485547346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violette404x 我也不行吗（失望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884781943515967488"
+          ]
+        },
+        "author_id": "1623720309533847552",
+        "conversation_id": "1884781946485547346",
+        "created_at": "2025-01-30T01:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T02:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884781946485547346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8RQHYdxZL",
+              "end": 37,
+              "expanded_url": "https://x.com/Violette404x/status/1884781946485547346/photo/1",
+              "media_key": "3_1884781943515967488",
+              "start": 14,
+              "url": "https://t.co/V8RQHYdxZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884781946485547346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5379,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "再也不会尝试任何入体玩法😡 https://t.co/V8RQHYdxZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 235,
+          "like_count": 958,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T16:27:53.000Z",
+        "description": "不线下/点赞让主播开心",
+        "id": "1623720309533847552",
+        "location": "🚪128/188/222",
+        "name": "我会一直炒冷饭直到流量变好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883567049869520896/R1DdbmoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28120,
+          "following_count": 138,
+          "like_count": 23863,
+          "listed_count": 127,
+          "media_count": 296,
+          "tweet_count": 3044
+        },
+        "username": "Violette404x",
+        "verified": false
+      }
+    ]
+  }
+}

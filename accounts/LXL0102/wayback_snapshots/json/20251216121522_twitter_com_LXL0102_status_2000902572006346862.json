@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2000584877700235397",
+    "created_at": "2025-12-16T12:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000902572006346862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586348863274725376",
+          "start": 0,
+          "username": "ltngtngzi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000902572006346862",
+    "in_reply_to_user_id": "1586348863274725376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000840135760601441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltngtngzi1 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2000584877700235397",
+        "created_at": "2025-12-16T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000902572006346862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586348863274725376",
+              "start": 0,
+              "username": "ltngtngzi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000902572006346862",
+        "in_reply_to_user_id": "1586348863274725376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000840135760601441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltngtngzi1 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586348863274725376",
+        "conversation_id": "2000584877700235397",
+        "created_at": "2025-12-16T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000840135760601441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000840135760601441",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000584877700235397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 我爸也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 276,
+          "like_count": 1524,
+          "listed_count": 5,
+          "media_count": 578,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T13:27:04.000Z",
+        "description": "一个恋爱脑精神病，本女子完完全全从里到外都属于我老公呀https://t.co/9990Ifrzkj\n匿名版在这",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litang29115",
+                "end": 50,
+                "expanded_url": "https://ngl.link/litang29115",
+                "start": 27,
+                "url": "https://t.co/9990Ifrzkj"
+              }
+            ]
+          }
+        },
+        "id": "1586348863274725376",
+        "name": "Mayuhi",
+        "pinned_tweet_id": "1981465830132256963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942654619915804672/a5sJ_JPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 107,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1254
+        },
+        "username": "ltngtngzi1",
+        "verified": false
+      }
+    ]
+  }
+}

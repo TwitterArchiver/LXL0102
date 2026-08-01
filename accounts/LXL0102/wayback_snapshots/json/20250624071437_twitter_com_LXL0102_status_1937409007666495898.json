@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937408998900367360"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1937409007666495898",
+    "created_at": "2025-06-24T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937409007666495898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOpg8EkMMg",
+          "end": 23,
+          "expanded_url": "https://x.com/LXL0102/status/1937409007666495898/photo/1",
+          "media_key": "3_1937408998900367360",
+          "start": 0,
+          "url": "https://t.co/MOpg8EkMMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937409007666495898",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MOpg8EkMMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937408998900367360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMPODwaAAAPXct.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937408998900367360"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1937409007666495898",
+        "created_at": "2025-06-24T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937409007666495898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOpg8EkMMg",
+              "end": 23,
+              "expanded_url": "https://x.com/LXL0102/status/1937409007666495898/photo/1",
+              "media_key": "3_1937408998900367360",
+              "start": 0,
+              "url": "https://t.co/MOpg8EkMMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937409007666495898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MOpg8EkMMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 250,
+          "like_count": 1167,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2012803044136854007",
+    "created_at": "2026-01-19T03:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013087178599878787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1615728783298002946",
+          "start": 0,
+          "username": "jiowch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013087178599878787",
+    "in_reply_to_user_id": "1615728783298002946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012966896635875699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiowch 我一般一周才哦一两次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2012803044136854007",
+        "created_at": "2026-01-19T03:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013087178599878787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1615728783298002946",
+              "start": 0,
+              "username": "jiowch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013087178599878787",
+        "in_reply_to_user_id": "1615728783298002946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012966896635875699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiowch 我一般一周才哦一两次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615728783298002946",
+        "conversation_id": "2012803044136854007",
+        "created_at": "2026-01-18T19:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012966896635875699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012966896635875699",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012803044136854007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 我去接接接怎么做到的求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 277,
+          "like_count": 1613,
+          "listed_count": 5,
+          "media_count": 600,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T15:12:33.000Z",
+        "description": "和你永远在一起@VKOOK_xiao0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "VKOOK_xiao0518"
+              }
+            ]
+          }
+        },
+        "id": "1615728783298002946",
+        "location": "距离你2.778km",
+        "name": "滯",
+        "pinned_tweet_id": "1898372297628487878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893654008104882176/py6C038D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 127,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1007
+        },
+        "username": "jiowch",
+        "verified": false
+      }
+    ]
+  }
+}

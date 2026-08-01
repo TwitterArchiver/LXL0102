@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1945712925055885324",
+    "created_at": "2025-07-17T06:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945731192227336416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1516051151854002182",
+          "start": 0,
+          "username": "Aliceblueisme"
+        },
+        {
+          "end": 30,
+          "id": "1524078207263252480",
+          "start": 15,
+          "username": "minamosuki_421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945731192227336416",
+    "in_reply_to_user_id": "1516051151854002182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945727269949067769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aliceblueisme @minamosuki_421 盗图狗414"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_1945727252119080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCcoHxa0AA24tz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1240,
+        "media_key": "3_1945727266341736448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCco8wXUAADAIH.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1945712925055885324",
+        "created_at": "2025-07-17T06:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945731192227336416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1516051151854002182",
+              "start": 0,
+              "username": "Aliceblueisme"
+            },
+            {
+              "end": 30,
+              "id": "1524078207263252480",
+              "start": 15,
+              "username": "minamosuki_421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945731192227336416",
+        "in_reply_to_user_id": "1516051151854002182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945727269949067769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aliceblueisme @minamosuki_421 盗图狗414"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945727252119080960",
+            "3_1945727266341736448"
+          ]
+        },
+        "author_id": "1516051151854002182",
+        "conversation_id": "1945712925055885324",
+        "created_at": "2025-07-17T06:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945727269949067769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            },
+            {
+              "end": 24,
+              "id": "1524078207263252480",
+              "start": 9,
+              "username": "minamosuki_421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYEIT5X7tZ",
+              "end": 89,
+              "expanded_url": "https://x.com/Aliceblueisme/status/1945727269949067769/photo/1",
+              "media_key": "3_1945727252119080960",
+              "start": 66,
+              "url": "https://t.co/mYEIT5X7tZ"
+            },
+            {
+              "display_url": "pic.x.com/mYEIT5X7tZ",
+              "end": 89,
+              "expanded_url": "https://x.com/Aliceblueisme/status/1945727269949067769/photo/1",
+              "media_key": "3_1945727266341736448",
+              "start": 66,
+              "url": "https://t.co/mYEIT5X7tZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945727269949067769",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945725642106122400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 @minamosuki_421 这个母狗蠢得我受不了了它还认为我是个没资格正义行驶的路人实际上我是她的原作者爹😇 https://t.co/mYEIT5X7tZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 256,
+          "like_count": 1241,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 2709
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T13:49:21.000Z",
+        "description": "等待车祸\n我求求你别举报了，🚪68/99/188/256/520/1314，马斯克和举报狗你就放过我吧。👮🏻‍♂️get out",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youda.pro/315992",
+                "end": 23,
+                "expanded_url": "https://youda.pro/315992",
+                "start": 0,
+                "url": "https://t.co/og5HWoXQHf"
+              }
+            ]
+          }
+        },
+        "id": "1516051151854002182",
+        "location": "天国",
+        "name": "失败作少女8964习近平(接自残定制✡︎shtwt✡︎988twt",
+        "pinned_tweet_id": "1945556640700486103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936822725831499776/8iX1lAkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 403,
+          "like_count": 3308,
+          "listed_count": 6,
+          "media_count": 455,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/og5HWoXQHf",
+        "username": "Aliceblueisme",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T17:25:45.000Z",
+        "description": "",
+        "id": "1524078207263252480",
+        "name": "ひなの",
+        "pinned_tweet_id": "1933968488772816951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940038747048833024/OZSXe7jI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 127,
+          "like_count": 1122,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 106
+        },
+        "username": "minamosuki_421",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2080958980000731516",
+    "created_at": "2026-07-25T13:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081016156216045599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081016156216045599",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080958980000731516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Cathy_eko 美商为负数"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31283,
+        "height": 1280,
+        "media_key": "13_2080958914657652736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080958914657652736/img/n2lHZW5s-QU4E_ru.jpg",
+        "public_metrics": {
+          "view_count": 174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080958914657652736/vid/avc1/320x694/SCAv5lCCWPuJFFb-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080958914657652736/vid/avc1/480x1040/r9fPv7CaC8q7azIc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080958914657652736/vid/avc1/590x1280/bm-tlTQ7JQ9Lni-M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080958914657652736/pl/zQL0H4bkuam2I5kZ.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080958980000731516",
+        "created_at": "2026-07-25T13:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081016156216045599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081016156216045599",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958980000731516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Cathy_eko 美商为负数"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080958914657652736"
+          ]
+        },
+        "author_id": "1261560609214087168",
+        "conversation_id": "2080958980000731516",
+        "created_at": "2026-07-25T10:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080958980000731516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFY1MNzeNR",
+              "end": 51,
+              "expanded_url": "https://x.com/Cathy_eko/status/2080958980000731516/video/1",
+              "media_key": "13_2080958914657652736",
+              "start": 28,
+              "url": "https://t.co/zFY1MNzeNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080958980000731516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 356,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "刷到位ts的整容经历，想了想咱还是丑一点自然一点也好🥲 https://t.co/zFY1MNzeNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 371,
+          "like_count": 1695,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "我叫Cathy/凯茜/小茜\n发吃的@chihuoxiaoqian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "chihuoxiaoqian"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "布洛芬重度依赖",
+        "pinned_tweet_id": "1499327600300204032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079706925672108032/C-dn3HyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 1459,
+          "like_count": 175243,
+          "listed_count": 57,
+          "media_count": 6150,
+          "tweet_count": 67211
+        },
+        "url": "",
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

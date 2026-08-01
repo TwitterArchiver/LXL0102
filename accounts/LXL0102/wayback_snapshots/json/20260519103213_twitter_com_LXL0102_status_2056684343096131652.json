@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056684282291384320"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2056684343096131652",
+    "created_at": "2026-05-19T10:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056684343096131652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SRZuTF2gr",
+          "end": 31,
+          "expanded_url": "https://x.com/LXL0102/status/2056684343096131652/video/1",
+          "media_key": "13_2056684282291384320",
+          "start": 8,
+          "url": "https://t.co/6SRZuTF2gr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056684343096131652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "装逼装逼我装逼 https://t.co/6SRZuTF2gr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16103,
+        "height": 1280,
+        "media_key": "13_2056684282291384320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056684282291384320/img/aFYxEdmzArvXDjK3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056684282291384320/vid/avc1/320x568/60rAzHFTVw-UxX25.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056684282291384320/vid/avc1/480x852/LykqiRW--vOxRvT6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056684282291384320/vid/avc1/720x1280/3pPk0j3x_BR3E-KF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056684282291384320/pl/NV_6QyoW5Sy0iUlO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056684282291384320"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2056684343096131652",
+        "created_at": "2026-05-19T10:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056684343096131652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SRZuTF2gr",
+              "end": 31,
+              "expanded_url": "https://x.com/LXL0102/status/2056684343096131652/video/1",
+              "media_key": "13_2056684282291384320",
+              "start": 8,
+              "url": "https://t.co/6SRZuTF2gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056684343096131652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "装逼装逼我装逼 https://t.co/6SRZuTF2gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 372,
+          "like_count": 1705,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

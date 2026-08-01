@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2078471565050888265",
+    "created_at": "2026-07-18T13:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078471565050888265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayanamiov0/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ayanamiov0/status/2078107896286445704",
+          "start": 9,
+          "url": "https://t.co/5yqch97opO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078471565050888265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078107896286445704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家看看这个妹子 https://t.co/5yqch97opO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078107881593876480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbsG6dXsAAdWqJ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078107881598078976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbsG6eX0AAgbiG.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2078471565050888265",
+        "created_at": "2026-07-18T13:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078471565050888265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayanamiov0/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ayanamiov0/status/2078107896286445704",
+              "start": 9,
+              "url": "https://t.co/5yqch97opO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078471565050888265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078107896286445704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家看看这个妹子 https://t.co/5yqch97opO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078107881593876480",
+            "3_2078107881598078976"
+          ]
+        },
+        "author_id": "2005165218570403840",
+        "conversation_id": "2078107896286445704",
+        "created_at": "2026-07-17T13:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078107896286445704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9dQowSIF3",
+              "end": 138,
+              "expanded_url": "https://x.com/ayanamiOv0/status/2078107896286445704/photo/1",
+              "media_key": "3_2078107881593876480",
+              "start": 115,
+              "url": "https://t.co/n9dQowSIF3"
+            },
+            {
+              "display_url": "pic.x.com/n9dQowSIF3",
+              "end": 138,
+              "expanded_url": "https://x.com/ayanamiOv0/status/2078107896286445704/photo/1",
+              "media_key": "3_2078107881598078976",
+              "start": 115,
+              "url": "https://t.co/n9dQowSIF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078107896286445704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1571,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我想收一些门槛，成分是家里蹲死宅玉玉症\n88好友位/188聊天/288掉落图片/588都听你的\n￼！不接线下！请不要问我接不接线下，被问了没有入门我会很伤心\n裙子都是尾单或者山的，我不想死也想去巴黎\n#门槛妹 #门槛哥 #爸爸活 https://t.co/n9dQowSIF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 367,
+          "like_count": 1694,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3593
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T06:33:54.000Z",
+        "description": "有🚪只回口令红包\n酷儿友好，炫压抑会被我拉黑🫶",
+        "id": "2005165218570403840",
+        "name": "ovo🍥",
+        "pinned_tweet_id": "2078107896286445704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076701967343034368/IgOpNJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 85,
+          "like_count": 296,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "ayanamiOv0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1970512670559478180",
+    "created_at": "2025-09-25T15:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T16:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971239848884437273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114821536685289475",
+          "start": 0,
+          "username": "ak47sisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971239848884437273",
+    "in_reply_to_user_id": "1114821536685289475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970842306229277167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ak47sisi 乖乖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1970512670559478180",
+        "created_at": "2025-09-25T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971239848884437273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114821536685289475",
+              "start": 0,
+              "username": "ak47sisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971239848884437273",
+        "in_reply_to_user_id": "1114821536685289475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970842306229277167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak47sisi 乖乖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114821536685289475",
+        "conversation_id": "1970512670559478180",
+        "created_at": "2025-09-24T13:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970842306229277167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970842306229277167",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970512670559478180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 260,
+          "like_count": 1397,
+          "listed_count": 5,
+          "media_count": 513,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T09:25:41.000Z",
+        "description": "03年mtf/现居沈阳/! 身高1.56体重44kg/🚪99/接线下全国可飞/接定制/需要先过门才可以接/帮孩子转转推吧球球了",
+        "id": "1114821536685289475",
+        "name": "肆肆",
+        "pinned_tweet_id": "1312753206611472384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880499618959749121/5KMUeVJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8639,
+          "following_count": 90,
+          "like_count": 144,
+          "listed_count": 40,
+          "media_count": 69,
+          "tweet_count": 857
+        },
+        "username": "ak47sisi",
+        "verified": false
+      }
+    ]
+  }
+}

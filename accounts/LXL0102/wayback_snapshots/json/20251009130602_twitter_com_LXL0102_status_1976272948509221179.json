@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976272938400874496",
+        "3_1976272938501582849",
+        "3_1976272938774228992",
+        "3_1976272938455400450"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1976272948509221179",
+    "created_at": "2025-10-09T13:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976272948509221179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "塔罗"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "疗愈"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "灵性"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "星盘"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "八字"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "Wicca"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "威卡"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "西玄"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "东玄"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "草药蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7Uytteajp",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+          "media_key": "3_1976272938400874496",
+          "start": 117,
+          "url": "https://t.co/x7Uytteajp"
+        },
+        {
+          "display_url": "pic.x.com/x7Uytteajp",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+          "media_key": "3_1976272938501582849",
+          "start": 117,
+          "url": "https://t.co/x7Uytteajp"
+        },
+        {
+          "display_url": "pic.x.com/x7Uytteajp",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+          "media_key": "3_1976272938774228992",
+          "start": 117,
+          "url": "https://t.co/x7Uytteajp"
+        },
+        {
+          "display_url": "pic.x.com/x7Uytteajp",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+          "media_key": "3_1976272938455400450",
+          "start": 117,
+          "url": "https://t.co/x7Uytteajp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976272948509221179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊熊四兄弟可以点了[阴险][阴险]\n抱抱熊：感情人缘｜学霸熊：学业进步\n瘦瘦熊：减肥瘦身｜暴富熊：暴富招财\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/x7Uytteajp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976272938400874496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20hxEiaAAAWHUb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1765,
+        "media_key": "3_1976272938501582849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20hxE6asAERxSw.jpg",
+        "width": 994
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1976272938774228992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20hxF7a8AAg3MV.jpg",
+        "width": 720
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1976272938455400450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20hxEvaAAIAsJY.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976272938400874496",
+            "3_1976272938501582849",
+            "3_1976272938774228992",
+            "3_1976272938455400450"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1976272948509221179",
+        "created_at": "2025-10-09T13:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976272948509221179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "塔罗"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "疗愈"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "灵性"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "星盘"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "八字"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "Wicca"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "威卡"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "西玄"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "东玄"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "草药蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7Uytteajp",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+              "media_key": "3_1976272938400874496",
+              "start": 117,
+              "url": "https://t.co/x7Uytteajp"
+            },
+            {
+              "display_url": "pic.x.com/x7Uytteajp",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+              "media_key": "3_1976272938501582849",
+              "start": 117,
+              "url": "https://t.co/x7Uytteajp"
+            },
+            {
+              "display_url": "pic.x.com/x7Uytteajp",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+              "media_key": "3_1976272938774228992",
+              "start": 117,
+              "url": "https://t.co/x7Uytteajp"
+            },
+            {
+              "display_url": "pic.x.com/x7Uytteajp",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1976272948509221179/photo/1",
+              "media_key": "3_1976272938455400450",
+              "start": 117,
+              "url": "https://t.co/x7Uytteajp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976272948509221179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊熊四兄弟可以点了[阴险][阴险]\n抱抱熊：感情人缘｜学霸熊：学业进步\n瘦瘦熊：减肥瘦身｜暴富熊：暴富招财\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/x7Uytteajp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 262,
+          "like_count": 1405,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

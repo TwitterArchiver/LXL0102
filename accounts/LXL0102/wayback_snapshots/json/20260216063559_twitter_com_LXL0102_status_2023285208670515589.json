@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2022727470613696957",
+    "created_at": "2026-02-16T06:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023285208670515589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980295975060353025",
+          "start": 0,
+          "username": "lilidng117233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023285208670515589",
+    "in_reply_to_user_id": "1980295975060353025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023268242211627012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidng117233 又是男性被剥削了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2022727470613696957",
+        "created_at": "2026-02-16T06:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023285208670515589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980295975060353025",
+              "start": 0,
+              "username": "lilidng117233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023285208670515589",
+        "in_reply_to_user_id": "1980295975060353025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023268242211627012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidng117233 又是男性被剥削了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980295975060353025",
+        "conversation_id": "2022727470613696957",
+        "created_at": "2026-02-16T05:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023268242211627012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023268242211627012",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022727470613696957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 可以看出国女素质有多低下了。\n毕竟她能抛开事实不提。\n女性做爱收男性钱本质上是女性拥有性别特权剥削压迫男性的表现，而男性做爱又不收女性钱，他们没打算剥削压迫女性。所以男性会询问使用特权者如何用特权，而对没打算剥削压迫的男性自然正常询问。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 354,
+          "like_count": 1715,
+          "listed_count": 5,
+          "media_count": 619,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T15:32:16.000Z",
+        "description": "",
+        "id": "1980295975060353025",
+        "name": "柳柳丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980296015132663808/ofOoWnPx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 57,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 419
+        },
+        "username": "lilidng117233",
+        "verified": false
+      }
+    ]
+  }
+}

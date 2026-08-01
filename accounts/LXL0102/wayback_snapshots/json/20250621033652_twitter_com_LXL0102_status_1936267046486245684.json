@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936267037099061249"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1936267046486245684",
+    "created_at": "2025-06-21T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936267046486245684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBuEfLEk0Y",
+          "end": 58,
+          "expanded_url": "https://x.com/LXL0102/status/1936267046486245684/photo/1",
+          "media_key": "3_1936267037099061249",
+          "start": 35,
+          "url": "https://t.co/MBuEfLEk0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936267046486245684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗澡的时候和男朋友打视频👾\n\n我的肉体身材这么好不发出来就是暴殄天物 https://t.co/MBuEfLEk0Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936267046486245684].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936267046486245684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936267046486245684"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936267037099061249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8AnIiWcAEuE8x.jpg",
+        "width": 1040
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 249,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2533
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1953433470417702955",
+    "created_at": "2025-08-08T15:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953838785302872336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687000313960726528",
+          "start": 0,
+          "username": "9yzbxwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953838785302872336",
+    "in_reply_to_user_id": "1687000313960726528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953828208895569931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9yzbxwy 7😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1953433470417702955",
+        "created_at": "2025-08-08T15:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953838785302872336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687000313960726528",
+              "start": 0,
+              "username": "9yzbxwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953838785302872336",
+        "in_reply_to_user_id": "1687000313960726528",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953828208895569931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9yzbxwy 7😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687000313960726528",
+        "conversation_id": "1953433470417702955",
+        "created_at": "2025-08-08T14:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953828208895569931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953828208895569931",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953433470417702955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 蹲蹲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 257,
+          "like_count": 1335,
+          "listed_count": 4,
+          "media_count": 484,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T07:20:05.000Z",
+        "description": "09｜台灣｜自殘｜od｜日常",
+        "id": "1687000313960726528",
+        "location": "Fuck you bitch",
+        "name": "O.O（精神堪憂版）",
+        "pinned_tweet_id": "1886472445307314214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835391206781796352/60NT8o89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 200,
+          "like_count": 3205,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 176
+        },
+        "username": "9yzbxwy",
+        "verified": false
+      }
+    ]
+  }
+}

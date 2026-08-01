@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1948620074618872257",
+    "created_at": "2025-07-25T07:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948650693461770602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586309506648399872",
+          "start": 0,
+          "username": "s05684366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948650693461770602",
+    "in_reply_to_user_id": "1586309506648399872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948642878839980204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s05684366 宝宝呜呜我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1948620074618872257",
+        "created_at": "2025-07-25T07:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948650693461770602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586309506648399872",
+              "start": 0,
+              "username": "s05684366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948650693461770602",
+        "in_reply_to_user_id": "1586309506648399872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948642878839980204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s05684366 宝宝呜呜我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586309506648399872",
+        "conversation_id": "1948620074618872257",
+        "created_at": "2025-07-25T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948642878839980204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948642878839980204",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948620074618872257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 既然如此 那就摸摸你抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 257,
+          "like_count": 1288,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T10:50:39.000Z",
+        "description": "我永远不会背叛您/06/重抑/致力于寻找互fo/想要交很多朋友✨/纯绿❇️/不线下哦/我很可爱请给我打💰/@lys0623001/派@PaiPai28514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "lys0623001"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "PaiPai28514"
+              }
+            ]
+          }
+        },
+        "id": "1586309506648399872",
+        "location": "绷之天堂",
+        "name": "OK绷",
+        "pinned_tweet_id": "1867975728907932131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941922758608166912/_ILQeHJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 347,
+          "like_count": 848,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 2336
+        },
+        "username": "s05684366",
+        "verified": false
+      }
+    ]
+  }
+}

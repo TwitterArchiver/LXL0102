@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2046108489592996310",
+    "created_at": "2026-04-20T12:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046209909033984462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046209909033984462",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046108489592996310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 最讨厌回避型了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2046108489592996310",
+        "created_at": "2026-04-20T12:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046209909033984462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046209909033984462",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046108489592996310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 最讨厌回避型了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2046108489592996310",
+        "created_at": "2026-04-20T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046108489592996310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iuu_33i/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/iuu_33i/status/2045824962338889744",
+              "start": 21,
+              "url": "https://t.co/qRCDNFgqKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046108489592996310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10596,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045824962338889744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着对方发疯无动于衷的不叫回避型了叫贱人 https://t.co/qRCDNFgqKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 366,
+          "like_count": 1763,
+          "listed_count": 5,
+          "media_count": 657,
+          "tweet_count": 3739
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "专心经营自己的脑蚕生活/\n自嬷很爽但你先停一下/\n提问箱：https://t.co/nhgGIeVP69",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 52,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 29,
+                "url": "https://t.co/nhgGIeVP69"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒子",
+        "pinned_tweet_id": "2041172633161761057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 571,
+          "like_count": 41936,
+          "listed_count": 0,
+          "media_count": 744,
+          "tweet_count": 5879
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

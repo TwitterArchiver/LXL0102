@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2013239432015642811",
+    "created_at": "2026-01-20T13:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T14:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013605774207959340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960791784675794949",
+          "start": 0,
+          "username": "0x_VictoriaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013605774207959340",
+    "in_reply_to_user_id": "1960791784675794949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013570490309161383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x_VictoriaL 说我歪门邪道？说我破蛊哈哈哈哈！这蛊就是找你师姐买的哎哟笑死我了哈哈哈哈哈，搬起石头砸自己脚了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2013570475385913344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GjrdOXgAAZAgy.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2013239432015642811",
+        "created_at": "2026-01-20T13:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013605774207959340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960791784675794949",
+              "start": 0,
+              "username": "0x_VictoriaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013605774207959340",
+        "in_reply_to_user_id": "1960791784675794949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013570490309161383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x_VictoriaL 说我歪门邪道？说我破蛊哈哈哈哈！这蛊就是找你师姐买的哎哟笑死我了哈哈哈哈哈，搬起石头砸自己脚了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013570475385913344"
+          ]
+        },
+        "author_id": "1960791784675794949",
+        "conversation_id": "2013239432015642811",
+        "created_at": "2026-01-20T11:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013570490309161383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xnpho51ywu",
+              "end": 161,
+              "expanded_url": "https://x.com/0x_VictoriaL/status/2013570490309161383/photo/1",
+              "media_key": "3_2013570475385913344",
+              "start": 138,
+              "url": "https://t.co/Xnpho51ywu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013570490309161383",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013239432015642811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 玄玄玄玄你妈逼玄，真这么牛逼咱俩约个时间开坛斗一下子得了😂这逼让你装出新花样了🤣🤣🤣8k的什么破蛊也没个蛋用啊，介绍产品都不会介绍也就骗骗傻逼了😆😆\n实不相瞒本人龙虎山正一盟威道第三十代玄裔弟子杨罗霖，不服咱俩可以碰碰看谁牛逼，再他妈逼坑蒙拐骗让你飞起来😅 https://t.co/Xnpho51ywu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 278,
+          "like_count": 1630,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T19:49:32.000Z",
+        "description": "也是一种独特的人生体验嘛 杨家承霖 参上！ @NagiExpress 的评论号🤤喜欢小正太和可爱的小男孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "NagiExpress"
+              }
+            ]
+          }
+        },
+        "id": "1960791784675794949",
+        "location": "厦门思明区洪莲里22号503",
+        "name": "维多利亚线🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "2013490047304061261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960791941706342400/Ap3zbxre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 94,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 642
+        },
+        "username": "0x_VictoriaL",
+        "verified": false
+      }
+    ]
+  }
+}

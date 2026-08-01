@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1834074584066523232",
+    "created_at": "2024-09-12T09:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T10:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834157396031406156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834157396031406156",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834074584066523232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1834074584066523232",
+        "created_at": "2024-09-12T09:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T10:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834157396031406156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834157396031406156",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834074584066523232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834074577259167746"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1834074584066523232",
+        "created_at": "2024-09-12T03:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T04:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834074584066523232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sod6mkenm6",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Vox35112635/status/1834074584066523232/photo/1",
+              "media_key": "3_1834074577259167746",
+              "start": 6,
+              "url": "https://t.co/sOd6mKeNM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834074584066523232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 121023,
+          "like_count": 677,
+          "quote_count": 19,
+          "reply_count": 351,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你有毛病吧 https://t.co/sOd6mKeNM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyVCrO"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 228,
+          "like_count": 903,
+          "listed_count": 2,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/1gSttyVCrO",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "防走丢小号@Kingggg54809864/抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费交友委托/加vx随缘给门槛就好了/开了一家影视传媒公司有拍摄业务可以联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "Kingggg54809864"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1825798540523876413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187906,
+          "following_count": 511,
+          "like_count": 509,
+          "listed_count": 223,
+          "tweet_count": 10513
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

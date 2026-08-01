@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1944219307153691076",
+    "created_at": "2025-07-13T04:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T05:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944258091060801587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677897211131363328",
+          "start": 0,
+          "username": "maoyufuhuo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944258091060801587",
+    "in_reply_to_user_id": "1677897211131363328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944219307153691076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoyufuhuo6 糖糖宝宝🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1944219251717681157",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvtBG8gbsAUrOEH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvtBG8gbsAUrOEH.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1944219307153691076",
+        "created_at": "2025-07-13T04:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T05:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944258091060801587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677897211131363328",
+              "start": 0,
+              "username": "maoyufuhuo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944258091060801587",
+        "in_reply_to_user_id": "1677897211131363328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944219307153691076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoyufuhuo6 糖糖宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1944219251717681157"
+          ]
+        },
+        "author_id": "1677897211131363328",
+        "conversation_id": "1944219307153691076",
+        "created_at": "2025-07-13T02:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944219307153691076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8GOch373n",
+              "end": 26,
+              "expanded_url": "https://x.com/maoyufuhuo6/status/1944219307153691076/photo/1",
+              "media_key": "16_1944219251717681157",
+              "start": 3,
+              "url": "https://t.co/P8GOch373n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944219307153691076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "模糊 https://t.co/P8GOch373n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 255,
+          "like_count": 1227,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T04:27:29.000Z",
+        "description": "不加墙内联系方式",
+        "id": "1677897211131363328",
+        "name": "毛芋你都6.0了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739622138641039361/OVpoev84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 760,
+          "like_count": 4373,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 1990
+        },
+        "username": "maoyufuhuo6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1994035328462802986",
+    "created_at": "2025-11-27T14:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994056932962001319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114821536685289475",
+          "start": 0,
+          "username": "ak47sisi"
+        },
+        {
+          "end": 20,
+          "id": "1475474294339637252",
+          "start": 10,
+          "username": "joker8543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994056932962001319",
+    "in_reply_to_user_id": "1114821536685289475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994048155273580754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ak47sisi @joker8543 小狗宝宝我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1994035328462802986",
+        "created_at": "2025-11-27T14:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994056932962001319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114821536685289475",
+              "start": 0,
+              "username": "ak47sisi"
+            },
+            {
+              "end": 20,
+              "id": "1475474294339637252",
+              "start": 10,
+              "username": "joker8543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994056932962001319",
+        "in_reply_to_user_id": "1114821536685289475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994048155273580754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak47sisi @joker8543 小狗宝宝我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114821536685289475",
+        "conversation_id": "1994035328462802986",
+        "created_at": "2025-11-27T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048155273580754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475474294339637252",
+              "start": 0,
+              "username": "joker8543"
+            },
+            {
+              "end": 19,
+              "id": "1680544465671561216",
+              "start": 11,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994048155273580754",
+        "in_reply_to_user_id": "1475474294339637252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994035609393090688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joker8543 @LXL0102 你有病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 270,
+          "like_count": 1497,
+          "listed_count": 5,
+          "media_count": 560,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T09:25:41.000Z",
+        "description": "03年mtf/现居沈阳/! 身高1.56体重44kg/🚪99/接线下全国可飞/接定制/需要先过门才可以接/帮孩子转转推吧球球了",
+        "id": "1114821536685289475",
+        "name": "肆肆",
+        "pinned_tweet_id": "1312753206611472384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880499618959749121/5KMUeVJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8576,
+          "following_count": 98,
+          "like_count": 146,
+          "listed_count": 40,
+          "media_count": 73,
+          "tweet_count": 873
+        },
+        "username": "ak47sisi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T14:31:29.000Z",
+        "description": "下水道鼠鼠，也想见识一下世界绚丽多彩",
+        "id": "1475474294339637252",
+        "name": "无趣的人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960744492484714504/q7S-QcpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 170
+        },
+        "username": "joker8543",
+        "verified": false
+      }
+    ]
+  }
+}

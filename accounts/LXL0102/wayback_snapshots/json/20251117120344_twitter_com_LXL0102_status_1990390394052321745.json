@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1989884774639702227",
+    "created_at": "2025-11-17T12:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T13:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990390394052321745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947049438696058880",
+          "start": 0,
+          "username": "Evelyn_sdai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990390394052321745",
+    "in_reply_to_user_id": "1947049438696058880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989884774639702227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evelyn_sdai 再跟风就jprw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1989884771053572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G519qAqbkAAYQDS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 655,
+        "media_key": "3_1989884770512482304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G519p-pbMAAE4fo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 734,
+        "media_key": "3_1989884771116470272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G519qA5bUAAK9g1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1989884774639702227",
+        "created_at": "2025-11-17T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990390394052321745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947049438696058880",
+              "start": 0,
+              "username": "Evelyn_sdai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990390394052321745",
+        "in_reply_to_user_id": "1947049438696058880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989884774639702227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evelyn_sdai 再跟风就jprw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989884771053572096",
+            "3_1989884770512482304",
+            "3_1989884771116470272"
+          ]
+        },
+        "author_id": "1947049438696058880",
+        "conversation_id": "1989884774639702227",
+        "created_at": "2025-11-16T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989884774639702227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRQXU6FETH",
+              "end": 119,
+              "expanded_url": "https://x.com/Evelyn_sdai/status/1989884774639702227/photo/1",
+              "media_key": "3_1989884771053572096",
+              "start": 96,
+              "url": "https://t.co/hRQXU6FETH"
+            },
+            {
+              "display_url": "pic.x.com/hRQXU6FETH",
+              "end": 119,
+              "expanded_url": "https://x.com/Evelyn_sdai/status/1989884774639702227/photo/1",
+              "media_key": "3_1989884770512482304",
+              "start": 96,
+              "url": "https://t.co/hRQXU6FETH"
+            },
+            {
+              "display_url": "pic.x.com/hRQXU6FETH",
+              "end": 119,
+              "expanded_url": "https://x.com/Evelyn_sdai/status/1989884774639702227/photo/1",
+              "media_key": "3_1989884771116470272",
+              "start": 96,
+              "url": "https://t.co/hRQXU6FETH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989884774639702227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13331,
+          "like_count": 224,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂好不好。。之前休学看到你在吐槽负能量挺惨的，泥马的结果转头秀出自己的疏肝解郁然后那暗黑系手作刀一喇啊啊啊我有抑郁症，然后还用着苹果最新手机，苹果十七还是pro，我真的想杀了这群婊子全家 https://t.co/hRQXU6FETH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 268,
+          "like_count": 1477,
+          "listed_count": 5,
+          "media_count": 551,
+          "tweet_count": 3179
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T21:43:18.000Z",
+        "description": "精神病 休学 女 infp 欢迎任何人互fo\n                            大部分都是碎碎念呀\n偶尔发血",
+        "id": "1947049438696058880",
+        "location": "虚无",
+        "name": "呆呆☪︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988838813930754048/TD5HkuAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 302,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 337
+        },
+        "username": "Evelyn_sdai",
+        "verified": false
+      }
+    ]
+  }
+}

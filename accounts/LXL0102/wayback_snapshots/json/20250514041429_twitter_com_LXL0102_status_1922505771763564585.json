@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1922337001627353255",
+    "created_at": "2025-05-14T04:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T05:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922505771763564585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796492014235885569",
+          "start": 0,
+          "username": "ESAZRICOO"
+        },
+        {
+          "end": 27,
+          "id": "1418218026755788806",
+          "start": 11,
+          "username": "yeeeeee05889998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922505771763564585",
+    "in_reply_to_user_id": "1796492014235885569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922386452869947736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ESAZRICOO @yeeeeee05889998 心理爽吧！征服的快感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1922337001627353255",
+        "created_at": "2025-05-14T04:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T05:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922505771763564585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796492014235885569",
+              "start": 0,
+              "username": "ESAZRICOO"
+            },
+            {
+              "end": 27,
+              "id": "1418218026755788806",
+              "start": 11,
+              "username": "yeeeeee05889998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922505771763564585",
+        "in_reply_to_user_id": "1796492014235885569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922386452869947736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ESAZRICOO @yeeeeee05889998 心理爽吧！征服的快感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796492014235885569",
+        "conversation_id": "1922337001627353255",
+        "created_at": "2025-05-13T20:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922386452869947736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418218026755788806",
+              "start": 0,
+              "username": "yeeeeee05889998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922386452869947736",
+        "in_reply_to_user_id": "1418218026755788806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922337001627353255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeeeeee05889998 那我问你 既然假🐮一点都不爽 为啥还有那么多人喜欢peg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】【外烟代购】      我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 248,
+          "like_count": 1089,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T10:41:13.000Z",
+        "description": "",
+        "id": "1796492014235885569",
+        "location": "长沙",
+        "name": "Ez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922394105100849152/x3xY2qCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ESAZRICOO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T14:35:12.000Z",
+        "description": "intp ♑应该是泛性恋，xp是一切有女性特征/大乃子的存在，大胸姐姐和男妈妈摩多摩多。像渴望进食一样渴望爱。顺直男🙅🏼‍♀️🙅🏼‍♀️",
+        "id": "1418218026755788806",
+        "location": "北京",
+        "name": "yeeeeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467181395713925130/L61zbgvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 92,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 176
+        },
+        "username": "yeeeeee05889998",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995084824365924352"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1995084833559818423",
+    "created_at": "2025-11-30T10:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995084833559818423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GWMOxkt18l",
+          "end": 38,
+          "expanded_url": "https://x.com/LXL0102/status/1995084833559818423/photo/1",
+          "media_key": "3_1995084824365924352",
+          "start": 15,
+          "url": "https://t.co/GWMOxkt18l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995084833559818423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三度的天气我就穿成这样去酒吧 https://t.co/GWMOxkt18l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995084824365924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_3E80agAA_OPE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995084824365924352"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1995084833559818423",
+        "created_at": "2025-11-30T10:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995084833559818423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWMOxkt18l",
+              "end": 38,
+              "expanded_url": "https://x.com/LXL0102/status/1995084833559818423/photo/1",
+              "media_key": "3_1995084824365924352",
+              "start": 15,
+              "url": "https://t.co/GWMOxkt18l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995084833559818423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三度的天气我就穿成这样去酒吧 https://t.co/GWMOxkt18l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 270,
+          "like_count": 1511,
+          "listed_count": 5,
+          "media_count": 562,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

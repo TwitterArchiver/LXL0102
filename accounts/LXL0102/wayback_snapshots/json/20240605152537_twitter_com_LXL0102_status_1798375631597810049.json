@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1795669247148036263",
+    "created_at": "2024-06-05T15:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T16:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798375631597810049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735363934889361409",
+          "start": 0,
+          "username": "xia_shu13688"
+        },
+        {
+          "end": 23,
+          "id": "1114821536685289475",
+          "start": 14,
+          "username": "ak47sisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798375631597810049",
+    "in_reply_to_user_id": "1735363934889361409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798374808142659980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_shu13688 @ak47sisi 好吧 给你也买一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1795669247148036263",
+        "created_at": "2024-06-05T15:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798375631597810049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735363934889361409",
+              "start": 0,
+              "username": "xia_shu13688"
+            },
+            {
+              "end": 23,
+              "id": "1114821536685289475",
+              "start": 14,
+              "username": "ak47sisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798375631597810049",
+        "in_reply_to_user_id": "1735363934889361409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798374808142659980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_shu13688 @ak47sisi 好吧 给你也买一个"
+      },
+      {
+        "attachments": {},
+        "author_id": "1735363934889361409",
+        "conversation_id": "1795669247148036263",
+        "created_at": "2024-06-05T15:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798374808142659980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            },
+            {
+              "end": 18,
+              "id": "1114821536685289475",
+              "start": 9,
+              "username": "ak47sisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798374808142659980",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796373879126188158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 @ak47sisi 还以为是给我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 212,
+          "like_count": 845,
+          "listed_count": 2,
+          "tweet_count": 1187
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T18:19:49.000Z",
+        "description": "臭看动漫的",
+        "id": "1735363934889361409",
+        "name": "美咲",
+        "pinned_tweet_id": "1793263029154709980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798336946764173312/64j4dUov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 1862,
+          "like_count": 12534,
+          "listed_count": 1,
+          "tweet_count": 6073
+        },
+        "username": "xia_shu13688",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T09:25:41.000Z",
+        "description": "喜欢我请给我打钱",
+        "id": "1114821536685289475",
+        "name": "肆肆",
+        "pinned_tweet_id": "1312753206611472384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693307281121972224/-Y12uXpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8692,
+          "following_count": 55,
+          "like_count": 81,
+          "listed_count": 43,
+          "tweet_count": 709
+        },
+        "username": "ak47sisi",
+        "verified": false
+      }
+    ]
+  }
+}

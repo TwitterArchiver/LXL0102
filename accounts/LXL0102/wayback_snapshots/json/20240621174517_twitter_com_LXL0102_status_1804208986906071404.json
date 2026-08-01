@@ -1,0 +1,121 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1804208986906071404",
+    "created_at": "2024-06-21T17:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T18:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804208986906071404"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "玄学"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "狐仙"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "神秘学"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804208986906071404",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和🦊仙堂合作了！\n对此类有了解的宝宝可以来找我帮忙供香或者点💡（当然不了解也可以供）\n刚合作还没有例图，你来了有返图。\n特别便宜！！\n\n还可以做一些小仪式，调频，通灵读心，点蜡烛之类的，这些倒是有例图\n#玄学 #狐仙 #神秘学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1804208986906071404",
+        "created_at": "2024-06-21T17:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T18:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804208986906071404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "玄学"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "狐仙"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "神秘学"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804208986906071404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和🦊仙堂合作了！\n对此类有了解的宝宝可以来找我帮忙供香或者点💡（当然不了解也可以供）\n刚合作还没有例图，你来了有返图。\n特别便宜！！\n\n还可以做一些小仪式，调频，通灵读心，点蜡烛之类的，这些倒是有例图\n#玄学 #狐仙 #神秘学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 214,
+          "like_count": 856,
+          "listed_count": 2,
+          "tweet_count": 1269
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

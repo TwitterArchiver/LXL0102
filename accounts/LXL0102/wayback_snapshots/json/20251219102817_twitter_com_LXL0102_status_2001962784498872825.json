@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001962722163118080"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2001962784498872825",
+    "created_at": "2025-12-19T10:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001962784498872825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "塔罗"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "疗愈"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "灵性"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "星盘"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "八字"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "Wicca"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "威卡"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "西玄"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "东玄"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "草药蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bywOoFIU1C",
+          "end": 104,
+          "expanded_url": "https://x.com/LXL0102/status/2001962784498872825/video/1",
+          "media_key": "13_2001962722163118080",
+          "start": 81,
+          "url": "https://t.co/bywOoFIU1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001962784498872825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日做的定制感情法事(^_−)−☆\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/bywOoFIU1C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 1280,
+        "media_key": "13_2001962722163118080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001962722163118080/img/9FIWZhqOChajkpxx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001962722163118080/vid/avc1/320x568/2X1svJ75eUbfcIyp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001962722163118080/vid/avc1/480x852/8XiFkUQjuMPbBxb3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001962722163118080/vid/avc1/720x1280/N0tM8jiS303OxFm1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001962722163118080/pl/W0pezQkCoMxd_UDB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001962722163118080"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2001962784498872825",
+        "created_at": "2025-12-19T10:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001962784498872825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "塔罗"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "疗愈"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "灵性"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "星盘"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "八字"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "Wicca"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "威卡"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "西玄"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "东玄"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "草药蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bywOoFIU1C",
+              "end": 104,
+              "expanded_url": "https://x.com/LXL0102/status/2001962784498872825/video/1",
+              "media_key": "13_2001962722163118080",
+              "start": 81,
+              "url": "https://t.co/bywOoFIU1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001962784498872825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日做的定制感情法事(^_−)−☆\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/bywOoFIU1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 280,
+          "like_count": 1576,
+          "listed_count": 5,
+          "media_count": 582,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

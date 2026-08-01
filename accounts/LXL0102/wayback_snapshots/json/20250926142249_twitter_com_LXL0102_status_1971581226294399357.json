@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1971008820731314300",
+    "created_at": "2025-09-26T14:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971581226294399357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556293137105969153",
+          "start": 0,
+          "username": "Kim_Il_sung___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971581226294399357",
+    "in_reply_to_user_id": "1556293137105969153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971008820731314300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kim_Il_sung___ 那好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1971008820731314300",
+        "created_at": "2025-09-26T14:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971581226294399357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556293137105969153",
+              "start": 0,
+              "username": "Kim_Il_sung___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971581226294399357",
+        "in_reply_to_user_id": "1556293137105969153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971008820731314300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kim_Il_sung___ 那好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556293137105969153",
+        "conversation_id": "1971008820731314300",
+        "created_at": "2025-09-25T00:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T01:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971008820731314300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971008820731314300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在od圈由我们朝鲜民主主义人民共和国接管了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 261,
+          "like_count": 1398,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:57:25.000Z",
+        "description": "伟大的金日成主席，永恒的太阳，他也是具有非凡思想理论智慧的伟人。他通过革命斗争，创立了知识渊博、独创性和民族性贯穿始终的思想和理论。他是一位具有卓越领导才能的伟人。他的领导是最英明、最科学的领导，也是把逆境变成顺境、把不幸变成福气的最伟大的领导。他实现了对革命和建设的全面领导，以及依靠人民解决一切问题的人民领导。",
+        "id": "1556293137105969153",
+        "location": "朝鮮民主主義人民共和国 平壌直轄市",
+        "name": "金日成🇰🇵",
+        "pinned_tweet_id": "1879234798675480897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905602278356291584/GxFgL-XJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 366,
+          "like_count": 9819,
+          "listed_count": 11,
+          "media_count": 263,
+          "tweet_count": 2812
+        },
+        "username": "Kim_Il_sung___",
+        "verified": false
+      }
+    ]
+  }
+}

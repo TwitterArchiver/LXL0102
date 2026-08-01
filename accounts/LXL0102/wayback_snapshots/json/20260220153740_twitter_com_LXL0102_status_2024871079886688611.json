@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2024737490960281728",
+    "created_at": "2026-02-20T15:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024871079886688611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720991143062872064",
+          "start": 0,
+          "username": "shiromizi_1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024871079886688611",
+    "in_reply_to_user_id": "1720991143062872064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024827460899184875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiromizi_1127 我会一直支持餐券妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2024737490960281728",
+        "created_at": "2026-02-20T15:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024871079886688611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720991143062872064",
+              "start": 0,
+              "username": "shiromizi_1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024871079886688611",
+        "in_reply_to_user_id": "1720991143062872064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024827460899184875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiromizi_1127 我会一直支持餐券妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720991143062872064",
+        "conversation_id": "2024737490960281728",
+        "created_at": "2026-02-20T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024827460899184875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024827460899184875",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024737490960281728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 看哭了离心力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 363,
+          "like_count": 1760,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 3615
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T02:27:30.000Z",
+        "description": "我是带鱼/随叫随到电子女友/09/不线下",
+        "id": "1720991143062872064",
+        "location": "🚪58/188/520",
+        "name": "🧀",
+        "pinned_tweet_id": "2019270993785839776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794455111173095424/8iQr9Cmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 132,
+          "like_count": 3333,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 608
+        },
+        "username": "shiromizi_1127",
+        "verified": false
+      }
+    ]
+  }
+}

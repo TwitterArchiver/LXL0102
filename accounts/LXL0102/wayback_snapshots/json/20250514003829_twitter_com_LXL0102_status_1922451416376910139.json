@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1921863360468971988",
+    "created_at": "2025-05-14T00:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922451416376910139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707375521015967744",
+          "start": 0,
+          "username": "gekkifxxkearth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922451416376910139",
+    "in_reply_to_user_id": "1707375521015967744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922367828771930470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gekkifxxkearth 我已被骂长相，谁来救我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1921863360468971988",
+        "created_at": "2025-05-14T00:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922451416376910139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707375521015967744",
+              "start": 0,
+              "username": "gekkifxxkearth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922451416376910139",
+        "in_reply_to_user_id": "1707375521015967744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922367828771930470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gekkifxxkearth 我已被骂长相，谁来救我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707375521015967744",
+        "conversation_id": "1921863360468971988",
+        "created_at": "2025-05-13T19:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T20:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922367828771930470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922367828771930470",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921863360468971988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 你比一滴泪好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 247,
+          "like_count": 1084,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T12:44:00.000Z",
+        "description": "GEKKI/haruru 羽遥。/ENG/中文ok精神崩溃中 地雷系大好き！ デスノート激推中（՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷̥᷅⸝⸝՞)｜🖋️🌙｜ 🚪80/120/520/1314纯绿无福利 只想看想看的东西。找我拉赞转帖需支付100 关心我请先给我打钱",
+        "id": "1707375521015967744",
+        "location": "只属于KIKI的星球",
+        "name": "Gekki",
+        "pinned_tweet_id": "1861824869215904226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908200379348901889/GXTrUfI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 255,
+          "like_count": 7047,
+          "listed_count": 2,
+          "media_count": 1214,
+          "tweet_count": 6798
+        },
+        "username": "gekkifxxkearth",
+        "verified": false
+      }
+    ]
+  }
+}

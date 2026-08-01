@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1966113504202732015",
+    "created_at": "2026-07-25T14:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081023830093606939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1925614623111131136",
+          "start": 0,
+          "username": "whxqstlzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081023830093606939",
+    "in_reply_to_user_id": "1925614623111131136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966113504202732015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whxqstlzs 死骗子还钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966113493733765120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kJzj4acAAk20z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966113493700280320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kJzjwbgAATuW3.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1966113504202732015",
+        "created_at": "2026-07-25T14:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081023830093606939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1925614623111131136",
+              "start": 0,
+              "username": "whxqstlzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081023830093606939",
+        "in_reply_to_user_id": "1925614623111131136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966113504202732015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whxqstlzs 死骗子还钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966113493733765120",
+            "3_1966113493700280320"
+          ]
+        },
+        "author_id": "1925614623111131136",
+        "conversation_id": "1966113504202732015",
+        "created_at": "2025-09-11T12:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966113504202732015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcimByYtgg",
+              "end": 30,
+              "expanded_url": "https://x.com/whxqstlzs/status/1966113504202732015/photo/1",
+              "media_key": "3_1966113493733765120",
+              "start": 7,
+              "url": "https://t.co/AcimByYtgg"
+            },
+            {
+              "display_url": "pic.x.com/AcimByYtgg",
+              "end": 30,
+              "expanded_url": "https://x.com/whxqstlzs/status/1966113504202732015/photo/1",
+              "media_key": "3_1966113493700280320",
+              "start": 7,
+              "url": "https://t.co/AcimByYtgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966113504202732015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36073,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "求过门求溺爱 https://t.co/AcimByYtgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 371,
+          "like_count": 1696,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T18:08:27.000Z",
+        "description": "好友位88",
+        "id": "1925614623111131136",
+        "name": "wxzcshee",
+        "pinned_tweet_id": "1966113504202732015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956091617728757762/NNck7kS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 28,
+          "like_count": 443,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "whxqstlzs",
+        "verified": false
+      }
+    ]
+  }
+}

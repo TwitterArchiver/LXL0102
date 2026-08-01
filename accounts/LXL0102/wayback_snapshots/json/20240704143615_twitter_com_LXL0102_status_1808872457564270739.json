@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1808588234794151977",
+    "created_at": "2024-07-04T14:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T15:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808872457564270739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808872457564270739",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808588234794151977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 没钱别结 被逼买房也是窝囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1808588234794151977",
+        "created_at": "2024-07-04T14:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T15:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808872457564270739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808872457564270739",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808588234794151977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 没钱别结 被逼买房也是窝囊"
+      },
+      {
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "1808588234794151977",
+        "created_at": "2024-07-03T19:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T20:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808588234794151977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808588234794151977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 343358,
+          "like_count": 705,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "我这里也劝广大女生们：如果你们计划在国内结婚，就要踏踏实实说服你爹妈，不要逼男方家庭买房。\n\n你逼着人家买一套300万的房子，房子跌了150万，难道你以为你就没责任吗？\n\n真亏了150万，婚后男方必然天天指着鼻子骂你们全家，\n\n“我一辈子都搭在房子里了，都是当年你爹妈逼着买的，你还有脸跟我吵？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 216,
+          "like_count": 875,
+          "listed_count": 2,
+          "tweet_count": 1302
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n\n提问前请阅读highlights和往期推文，个人求助和建议请直接访问进行付费咨询 https://t.co/u4mX2Aq4Uk ，直接私信不会回复。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openask.me/lidangzzz",
+                "end": 105,
+                "expanded_url": "https://openask.me/lidangzzz",
+                "start": 82,
+                "url": "https://t.co/u4mX2Aq4Uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机、劝人投美股SP500/纳斯达克100第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449827,
+          "following_count": 2599,
+          "like_count": 22288,
+          "listed_count": 3404,
+          "tweet_count": 31745
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

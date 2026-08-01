@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938865967490101248",
+        "3_1938865967310020608",
+        "3_1938865967452340224"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938865979259568234",
+    "created_at": "2025-06-28T07:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T08:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938865979259568234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "塔罗"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "西玄"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "神秘学"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "疗愈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfeGt6aKGH",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+          "media_key": "3_1938865967490101248",
+          "start": 48,
+          "url": "https://t.co/pfeGt6aKGH"
+        },
+        {
+          "display_url": "pic.x.com/pfeGt6aKGH",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+          "media_key": "3_1938865967310020608",
+          "start": 48,
+          "url": "https://t.co/pfeGt6aKGH"
+        },
+        {
+          "display_url": "pic.x.com/pfeGt6aKGH",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+          "media_key": "3_1938865967452340224",
+          "start": 48,
+          "url": "https://t.co/pfeGt6aKGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938865979259568234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔮【占卜反馈】我学生的客户写了超多评价，好开心🥳！\n#塔罗 #雷诺曼 #西玄 #神秘学 #疗愈 https://t.co/pfeGt6aKGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938865967490101248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gug8UytXcAAGrL0.jpg",
+        "width": 1198
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938865967310020608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gug8UyCboAA4758.jpg",
+        "width": 1250
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938865967452340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gug8UykXQAA5QYl.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938865967490101248",
+            "3_1938865967310020608",
+            "3_1938865967452340224"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938865979259568234",
+        "created_at": "2025-06-28T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938865979259568234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "塔罗"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "西玄"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "神秘学"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "疗愈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfeGt6aKGH",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+              "media_key": "3_1938865967490101248",
+              "start": 48,
+              "url": "https://t.co/pfeGt6aKGH"
+            },
+            {
+              "display_url": "pic.x.com/pfeGt6aKGH",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+              "media_key": "3_1938865967310020608",
+              "start": 48,
+              "url": "https://t.co/pfeGt6aKGH"
+            },
+            {
+              "display_url": "pic.x.com/pfeGt6aKGH",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1938865979259568234/photo/1",
+              "media_key": "3_1938865967452340224",
+              "start": 48,
+              "url": "https://t.co/pfeGt6aKGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938865979259568234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔮【占卜反馈】我学生的客户写了超多评价，好开心🥳！\n#塔罗 #雷诺曼 #西玄 #神秘学 #疗愈 https://t.co/pfeGt6aKGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 252,
+          "like_count": 1178,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

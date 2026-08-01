@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965464014387118082",
+        "3_1965464014978502656",
+        "3_1965464014273802240",
+        "3_1965464014315823104"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1965464024126292409",
+    "created_at": "2025-09-09T17:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T18:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965464024126292409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujjKHXPsN3",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+          "media_key": "3_1965464014387118082",
+          "start": 48,
+          "url": "https://t.co/ujjKHXPsN3"
+        },
+        {
+          "display_url": "pic.x.com/ujjKHXPsN3",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+          "media_key": "3_1965464014978502656",
+          "start": 48,
+          "url": "https://t.co/ujjKHXPsN3"
+        },
+        {
+          "display_url": "pic.x.com/ujjKHXPsN3",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+          "media_key": "3_1965464014273802240",
+          "start": 48,
+          "url": "https://t.co/ujjKHXPsN3"
+        },
+        {
+          "display_url": "pic.x.com/ujjKHXPsN3",
+          "end": 71,
+          "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+          "media_key": "3_1965464014315823104",
+          "start": 48,
+          "url": "https://t.co/ujjKHXPsN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965464024126292409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂个抄袭我的贱婊子\n（婊子）秦海璐 2003 4.14\n（婊子对象）刘以衡 2002 5.20 https://t.co/ujjKHXPsN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965464014387118082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0a7G4xbgAIGMHF.jpg",
+        "width": 484
+      },
+      {
+        "height": 2023,
+        "media_key": "3_1965464014978502656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0a7G6-bUAA0aL0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1965464014273802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0a7G4WacAAhBKV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965464014315823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0a7G4gboAASGD_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965464014387118082",
+            "3_1965464014978502656",
+            "3_1965464014273802240",
+            "3_1965464014315823104"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1965464024126292409",
+        "created_at": "2025-09-09T17:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T18:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965464024126292409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujjKHXPsN3",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+              "media_key": "3_1965464014387118082",
+              "start": 48,
+              "url": "https://t.co/ujjKHXPsN3"
+            },
+            {
+              "display_url": "pic.x.com/ujjKHXPsN3",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+              "media_key": "3_1965464014978502656",
+              "start": 48,
+              "url": "https://t.co/ujjKHXPsN3"
+            },
+            {
+              "display_url": "pic.x.com/ujjKHXPsN3",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+              "media_key": "3_1965464014273802240",
+              "start": 48,
+              "url": "https://t.co/ujjKHXPsN3"
+            },
+            {
+              "display_url": "pic.x.com/ujjKHXPsN3",
+              "end": 71,
+              "expanded_url": "https://x.com/LXL0102/status/1965464024126292409/photo/1",
+              "media_key": "3_1965464014315823104",
+              "start": 48,
+              "url": "https://t.co/ujjKHXPsN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965464024126292409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂个抄袭我的贱婊子\n（婊子）秦海璐 2003 4.14\n（婊子对象）刘以衡 2002 5.20 https://t.co/ujjKHXPsN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 264,
+          "like_count": 1392,
+          "listed_count": 5,
+          "media_count": 503,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

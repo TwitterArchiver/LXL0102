@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918316673523957764"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1918316683909075390",
+    "created_at": "2025-05-02T14:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T15:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918316683909075390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "西玄"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "东玄"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "草药蜡烛"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "显化"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "疗愈"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "神秘学"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "占卜"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "塔罗"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "通灵"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "调频"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "读心"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kOMfLBfLSz",
+          "end": 151,
+          "expanded_url": "https://x.com/LXL0102/status/1918316683909075390/photo/1",
+          "media_key": "3_1918316673523957764",
+          "start": 128,
+          "url": "https://t.co/kOMfLBfLSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918316683909075390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🈺蜡烛上新【忠诚心锁】🔒\n❤️‍🩹稳固感情，增强双方之间的信任\n❤️‍🩹抵御外界诱惑，让TA专注于你\n❤️‍🩹唤醒真心，让TA想起承诺增加爱意\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 https://t.co/kOMfLBfLSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1918316673523957764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp862dQawAQMdXT.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918316673523957764"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1918316683909075390",
+        "created_at": "2025-05-02T14:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918316683909075390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "西玄"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "东玄"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "草药蜡烛"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "显化"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "疗愈"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "神秘学"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "占卜"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "塔罗"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "通灵"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "调频"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "读心"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOMfLBfLSz",
+              "end": 151,
+              "expanded_url": "https://x.com/LXL0102/status/1918316683909075390/photo/1",
+              "media_key": "3_1918316673523957764",
+              "start": 128,
+              "url": "https://t.co/kOMfLBfLSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918316683909075390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🈺蜡烛上新【忠诚心锁】🔒\n❤️‍🩹稳固感情，增强双方之间的信任\n❤️‍🩹抵御外界诱惑，让TA专注于你\n❤️‍🩹唤醒真心，让TA想起承诺增加爱意\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 https://t.co/kOMfLBfLSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 245,
+          "like_count": 1047,
+          "listed_count": 4,
+          "media_count": 360,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

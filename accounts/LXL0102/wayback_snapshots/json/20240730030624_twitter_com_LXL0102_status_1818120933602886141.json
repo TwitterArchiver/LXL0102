@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1818075496011415839",
+    "created_at": "2024-07-30T03:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T04:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818120933602886141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1164086738261700610",
+          "start": 0,
+          "username": "akiko_m_000"
+        },
+        {
+          "end": 25,
+          "id": "613474927",
+          "start": 13,
+          "username": "PunchingCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818120933602886141",
+    "in_reply_to_user_id": "1164086738261700610",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818120346878497106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiko_m_000 @PunchingCat 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1818075496011415839",
+        "created_at": "2024-07-30T03:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T04:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818120933602886141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1164086738261700610",
+              "start": 0,
+              "username": "akiko_m_000"
+            },
+            {
+              "end": 25,
+              "id": "613474927",
+              "start": 13,
+              "username": "PunchingCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818120933602886141",
+        "in_reply_to_user_id": "1164086738261700610",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818120346878497106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_m_000 @PunchingCat 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164086738261700610",
+        "conversation_id": "1818075496011415839",
+        "created_at": "2024-07-30T03:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T04:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818120346878497106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            },
+            {
+              "end": 21,
+              "id": "613474927",
+              "start": 9,
+              "username": "PunchingCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818120346878497106",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818084786394779713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 @PunchingCat 虽然我工作上靠AI赚钱但是我也很讨厌AI生成内容\n工作上用的也是传统AI不是大语言模型和生成式AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【外烟】【各类处方药注射剂什么药都有】【占卜🔮】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 221,
+          "like_count": 910,
+          "listed_count": 2,
+          "tweet_count": 1457
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T08:08:11.000Z",
+        "description": "INTP/燥郁轻症/!自伤!/已退休不营业无🚪/可爱的女孩子欢迎互fo/不键政的mtf也OK\n键政杠精勿扰 看黄男拉黑",
+        "id": "1164086738261700610",
+        "location": "Hubei",
+        "name": "あきこ🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811451238179045376/fmAT5wYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 146,
+          "like_count": 6781,
+          "listed_count": 2,
+          "tweet_count": 579
+        },
+        "username": "akiko_m_000",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T14:15:13.000Z",
+        "description": "random cats from my camera roll to your 𝕏 feed :3 | dm for credit/removal • *i own no content posted*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punchingcat.com",
+                "end": 23,
+                "expanded_url": "http://punchingcat.com",
+                "start": 0,
+                "url": "https://t.co/v4U8STUOKB"
+              }
+            ]
+          }
+        },
+        "id": "613474927",
+        "location": "litter box",
+        "name": "Punch Cat",
+        "pinned_tweet_id": "1818003433078800626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2325480844/xhvchlbttups6wv8u95y_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876220,
+          "following_count": 120,
+          "like_count": 2899,
+          "listed_count": 1754,
+          "tweet_count": 38136
+        },
+        "url": "https://t.co/v4U8STUOKB",
+        "username": "PunchingCat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1806746061668802654",
+    "created_at": "2024-06-29T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807064206631632987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735363934889361409",
+          "start": 0,
+          "username": "xia_shu13688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807064206631632987",
+    "in_reply_to_user_id": "1735363934889361409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806746061668802654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_shu13688 别告诉他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1806746061668802654",
+        "created_at": "2024-06-29T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807064206631632987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735363934889361409",
+              "start": 0,
+              "username": "xia_shu13688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807064206631632987",
+        "in_reply_to_user_id": "1735363934889361409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806746061668802654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_shu13688 别告诉他"
+      },
+      {
+        "attachments": {},
+        "author_id": "1735363934889361409",
+        "conversation_id": "1806746061668802654",
+        "created_at": "2024-06-28T17:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806746061668802654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806746061668802654",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么办法能说服对象让我od（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 215,
+          "like_count": 869,
+          "listed_count": 2,
+          "tweet_count": 1287
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T18:19:49.000Z",
+        "description": "臭看动漫的",
+        "id": "1735363934889361409",
+        "name": "被扣了真的好爽啊",
+        "pinned_tweet_id": "1793263029154709980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804805806300508160/wxiMuWVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 1939,
+          "like_count": 14501,
+          "listed_count": 1,
+          "tweet_count": 7059
+        },
+        "username": "xia_shu13688",
+        "verified": false
+      }
+    ]
+  }
+}

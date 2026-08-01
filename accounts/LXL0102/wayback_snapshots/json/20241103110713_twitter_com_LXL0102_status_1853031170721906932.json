@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1853031170721906932",
+    "created_at": "2024-11-03T11:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T12:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853031170721906932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850374632307830784",
+          "start": 3,
+          "username": "Cherry0620__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853031170721906932",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852917763570094485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cherry0620__: 自我介紹2.0\n茄利\n女｜07｜生日6/20｜雙向｜焦慮｜嗜睡｜日記推\n動畫,耽美小說,遊戲,漫畫（不看韓漫）,VOCALOID\n目前不自殘不od\n隨時可能自爆\n-\n歡迎互轉互fo\n定期刪轉（通常一週後）\n取關請雙取\n如果我互fo不小心取關請…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1853031170721906932",
+        "created_at": "2024-11-03T11:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853031170721906932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850374632307830784",
+              "start": 3,
+              "username": "Cherry0620__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853031170721906932",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852917763570094485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cherry0620__: 自我介紹2.0\n茄利\n女｜07｜生日6/20｜雙向｜焦慮｜嗜睡｜日記推\n動畫,耽美小說,遊戲,漫畫（不看韓漫）,VOCALOID\n目前不自殘不od\n隨時可能自爆\n-\n歡迎互轉互fo\n定期刪轉（通常一週後）\n取關請雙取\n如果我互fo不小心取關請…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852917749762478080",
+            "3_1852917749762412544",
+            "3_1852917749758234624",
+            "3_1852917749758279680"
+          ]
+        },
+        "author_id": "1850374632307830784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1852917763570094485",
+        "created_at": "2024-11-03T03:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T04:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852917763570094485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9sEDeSRJv",
+              "end": 181,
+              "expanded_url": "https://x.com/Cherry0620__/status/1852917763570094485/photo/1",
+              "media_key": "3_1852917749762478080",
+              "start": 158,
+              "url": "https://t.co/q9sEDeSRJv"
+            },
+            {
+              "display_url": "pic.x.com/q9sEDeSRJv",
+              "end": 181,
+              "expanded_url": "https://x.com/Cherry0620__/status/1852917763570094485/photo/1",
+              "media_key": "3_1852917749762412544",
+              "start": 158,
+              "url": "https://t.co/q9sEDeSRJv"
+            },
+            {
+              "display_url": "pic.x.com/q9sEDeSRJv",
+              "end": 181,
+              "expanded_url": "https://x.com/Cherry0620__/status/1852917763570094485/photo/1",
+              "media_key": "3_1852917749758234624",
+              "start": 158,
+              "url": "https://t.co/q9sEDeSRJv"
+            },
+            {
+              "display_url": "pic.x.com/q9sEDeSRJv",
+              "end": 181,
+              "expanded_url": "https://x.com/Cherry0620__/status/1852917763570094485/photo/1",
+              "media_key": "3_1852917749758279680",
+              "start": 158,
+              "url": "https://t.co/q9sEDeSRJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852917763570094485",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2544,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "自我介紹2.0\n茄利\n女｜07｜生日6/20｜雙向｜焦慮｜嗜睡｜日記推\n動畫,耽美小說,遊戲,漫畫（不看韓漫）,VOCALOID\n目前不自殘不od\n隨時可能自爆\n-\n歡迎互轉互fo\n定期刪轉（通常一週後）\n取關請雙取\n如果我互fo不小心取關請告知我會追回來的！\n然後多幫我轉轉球球你們惹\n-\n按讚我的推我就很開心了 https://t.co/q9sEDeSRJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 237,
+          "like_count": 947,
+          "listed_count": 2,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:11:23.000Z",
+        "description": "07｜雙向｜焦慮｜台灣｜🚪歡迎提問",
+        "id": "1850374632307830784",
+        "name": "茄利",
+        "pinned_tweet_id": "1852917763570094485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852376346548117504/GIbUaw8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 73,
+          "like_count": 393,
+          "listed_count": 0,
+          "tweet_count": 185
+        },
+        "username": "Cherry0620__",
+        "verified": false
+      }
+    ]
+  }
+}

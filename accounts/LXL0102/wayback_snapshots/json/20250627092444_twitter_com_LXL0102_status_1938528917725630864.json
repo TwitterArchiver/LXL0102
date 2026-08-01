@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1938527799922610552",
+    "created_at": "2025-06-27T09:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938528917725630864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592412133836333059",
+          "start": 0,
+          "username": "NikuBiky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938528917725630864",
+    "in_reply_to_user_id": "1592412133836333059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938528244183257540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikuBiky 爱你爱你爱你爱你爱你爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1938527799922610552",
+        "created_at": "2025-06-27T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938528917725630864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1592412133836333059",
+              "start": 0,
+              "username": "NikuBiky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938528917725630864",
+        "in_reply_to_user_id": "1592412133836333059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938528244183257540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikuBiky 爱你爱你爱你爱你爱你爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592412133836333059",
+        "conversation_id": "1938527799922610552",
+        "created_at": "2025-06-27T09:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938528244183257540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938528244183257540",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938527799922610552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 激萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 250,
+          "like_count": 1172,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T07:00:31.000Z",
+        "description": "trap?",
+        "id": "1592412133836333059",
+        "name": "海小鸟",
+        "pinned_tweet_id": "1805853864752566557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827723428654182400/JyAqwb2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 600
+        },
+        "username": "NikuBiky",
+        "verified": false
+      }
+    ]
+  }
+}

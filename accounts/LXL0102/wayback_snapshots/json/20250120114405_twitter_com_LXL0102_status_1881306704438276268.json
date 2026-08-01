@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1881306704438276268",
+    "created_at": "2025-01-20T11:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T12:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881306704438276268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1799360815751200768",
+          "start": 3,
+          "username": "youmeishafen99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881306704438276268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876901600247398851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmeishafen99: mpt致幻剂。\n\nMPT是一种色胺类迷幻药，在结构上和DMT类似，是一个5-HT2A 部分激动剂，并拥有其独特效用。在带来内外部幻觉的同时，能够让你的感官放大，情绪改善。\n每粒胶囊内含100mg的MPT，一粒起效，两粒效果最佳，三粒就会出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1881306704438276268",
+        "created_at": "2025-01-20T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881306704438276268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1799360815751200768",
+              "start": 3,
+              "username": "youmeishafen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881306704438276268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876901600247398851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmeishafen99: mpt致幻剂。\n\nMPT是一种色胺类迷幻药，在结构上和DMT类似，是一个5-HT2A 部分激动剂，并拥有其独特效用。在带来内外部幻觉的同时，能够让你的感官放大，情绪改善。\n每粒胶囊内含100mg的MPT，一粒起效，两粒效果最佳，三粒就会出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799360815751200768",
+        "conversation_id": "1876901600247398851",
+        "created_at": "2025-01-08T07:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876901600247398851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876901600247398851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "mpt致幻剂。\n\nMPT是一种色胺类迷幻药，在结构上和DMT类似，是一个5-HT2A 部分激动剂，并拥有其独特效用。在带来内外部幻觉的同时，能够让你的感官放大，情绪改善。\n每粒胶囊内含100mg的MPT，一粒起效，两粒效果最佳，三粒就会出现呕吐现象和强烈的幻觉。（不建议吃三粒，尤其是易吐体质）\n卖点：过检！飞行时的安全心态一百分！\n\n5粒 1200\n10粒 2000\n15粒2800\n\n飞行时禁止饮酒\n请空腹服用\n老规矩转帖评论关注随机送一部分。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 17067,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 91,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "mpt致幻剂。\n\nMPT是一种色胺类迷幻药，在结构上和DMT类似，是一个5-HT2A 部分激动剂，并拥有其独特效用。在带来内外部幻觉的同时，能够让你的感官放大，情绪改善。\n每粒胶囊内含100mg的MPT，一粒起效，两粒效果最佳，三粒就会出现呕吐现象和强烈的幻觉。（不建议吃三粒，尤其是易吐体质）…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 234,
+          "like_count": 968,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T08:40:32.000Z",
+        "description": "群聊—https://t.co/Izv1A9Dzwk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 26,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 3,
+                "url": "https://t.co/Izv1A9Dzwk"
+              }
+            ]
+          }
+        },
+        "id": "1799360815751200768",
+        "location": "广州",
+        "name": "可达鸭滴化学乐园",
+        "pinned_tweet_id": "1802298141473181986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799360973683449856/yF3Vd0US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897,
+          "following_count": 325,
+          "like_count": 256,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 856
+        },
+        "username": "youmeishafen99",
+        "verified": true
+      }
+    ]
+  }
+}

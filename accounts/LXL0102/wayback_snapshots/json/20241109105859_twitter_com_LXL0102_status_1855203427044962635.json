@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855203418463498240"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1855203427044962635",
+    "created_at": "2024-11-09T10:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T11:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855203427044962635"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "神秘学"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "西方玄学"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "魔法"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "魔法蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1i4LXmNsY",
+          "end": 64,
+          "expanded_url": "https://x.com/LXL0102/status/1855203427044962635/photo/1",
+          "media_key": "3_1855203418463498240",
+          "start": 41,
+          "url": "https://t.co/o1i4LXmNsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855203427044962635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新上的蜡烛，超级好用，可以代替巫毒娃娃\n#神秘学 #西方玄学 #魔法 #魔法蜡烛 https://t.co/o1i4LXmNsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_1855203418463498240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb8BrgebcAAEgng.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855203418463498240"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1855203427044962635",
+        "created_at": "2024-11-09T10:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T11:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855203427044962635"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "神秘学"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "西方玄学"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "魔法"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "魔法蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1i4LXmNsY",
+              "end": 64,
+              "expanded_url": "https://x.com/LXL0102/status/1855203427044962635/photo/1",
+              "media_key": "3_1855203418463498240",
+              "start": 41,
+              "url": "https://t.co/o1i4LXmNsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855203427044962635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新上的蜡烛，超级好用，可以代替巫毒娃娃\n#神秘学 #西方玄学 #魔法 #魔法蜡烛 https://t.co/o1i4LXmNsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 238,
+          "like_count": 950,
+          "listed_count": 2,
+          "tweet_count": 1775
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

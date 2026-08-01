@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1804376975286607872"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1804377003350724895",
+    "created_at": "2024-06-22T04:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T05:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804377003350724895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "玄学"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "人型蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gko9FFuYAg",
+          "end": 63,
+          "expanded_url": "https://twitter.com/LXL0102/status/1804377003350724895/video/1",
+          "media_key": "7_1804376975286607872",
+          "start": 40,
+          "url": "https://t.co/gko9FFuYAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804377003350724895",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "复合仪式，带解读，效果持续三个月左右，需要的宝宝可以私我！\n#玄学 #人型蜡烛 https://t.co/gko9FFuYAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 1280,
+        "media_key": "7_1804376975286607872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1804376975286607872/pu/img/t6rW0A-OecOxi0yP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804376975286607872/pu/vid/avc1/320x568/mABned2RVc0fD6E8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804376975286607872/pu/vid/avc1/480x852/taajLK2Q-7cf3p_W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804376975286607872/pu/vid/avc1/720x1280/RPHkxAbpMKh6Kra6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1804376975286607872/pu/pl/tzT7TLcIEDxzr316.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804376975286607872"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1804377003350724895",
+        "created_at": "2024-06-22T04:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T05:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804377003350724895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "玄学"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "人型蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gko9FFuYAg",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LXL0102/status/1804377003350724895/video/1",
+              "media_key": "7_1804376975286607872",
+              "start": 40,
+              "url": "https://t.co/gko9FFuYAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804377003350724895",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复合仪式，带解读，效果持续三个月左右，需要的宝宝可以私我！\n#玄学 #人型蜡烛 https://t.co/gko9FFuYAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 214,
+          "like_count": 856,
+          "listed_count": 2,
+          "tweet_count": 1273
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

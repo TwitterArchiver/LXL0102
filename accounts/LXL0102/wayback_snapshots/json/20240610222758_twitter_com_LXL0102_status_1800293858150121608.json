@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800293827300990976"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1800293858150121608",
+    "created_at": "2024-06-10T22:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T23:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800293858150121608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Hq0n2vszPl",
+          "end": 28,
+          "expanded_url": "https://twitter.com/LXL0102/status/1800293858150121608/video/1",
+          "media_key": "7_1800293827300990976",
+          "start": 5,
+          "url": "https://t.co/Hq0n2vszPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800293858150121608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再发一遍 https://t.co/Hq0n2vszPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10138,
+        "height": 1280,
+        "media_key": "7_1800293827300990976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800293827300990976/pu/img/BEcHCy5ogTD_P2YM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800293827300990976/pu/vid/avc1/320x568/3XgPaHMovAeZtVZ_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800293827300990976/pu/vid/avc1/480x852/aCRQCYL18BTvfI8D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800293827300990976/pu/vid/avc1/720x1280/RakRn846OgAGe4Lu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800293827300990976/pu/pl/KG5ZhmZ0sIXw-WnD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1800293827300990976"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1800293858150121608",
+        "created_at": "2024-06-10T22:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T23:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800293858150121608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Hq0n2vszPl",
+              "end": 28,
+              "expanded_url": "https://twitter.com/LXL0102/status/1800293858150121608/video/1",
+              "media_key": "7_1800293827300990976",
+              "start": 5,
+              "url": "https://t.co/Hq0n2vszPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800293858150121608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再发一遍 https://t.co/Hq0n2vszPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 214,
+          "like_count": 856,
+          "listed_count": 2,
+          "tweet_count": 1232
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

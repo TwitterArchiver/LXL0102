@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1821489722591723745",
+    "created_at": "2024-08-08T12:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T13:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821529215755579553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821529215755579553",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821489722591723745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 一直在吃喹硫平，吃两颗能睡一整天…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1821489722591723745",
+        "created_at": "2024-08-08T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821529215755579553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821529215755579553",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821489722591723745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 一直在吃喹硫平，吃两颗能睡一整天…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1821489722591723745",
+        "created_at": "2024-08-08T10:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T11:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821489722591723745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821489722591723745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于某些有精分病史，被害妄想发作的人，我Vack推荐试试布南色林，不用谢。\n此药乃柏树医生所开，治疗有效，副作用小。我Vack经查找资料后，发现确实比氯丙嗪和喹硫平改进很多。\n如果精分药物尝试无效，也可以去精神病院接受住院治疗，「南宁」 是省会城市，我不相信连个精神卫生中心都没有。——Vack"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【外烟代购】【占卜🔮】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 224,
+          "like_count": 916,
+          "listed_count": 2,
+          "tweet_count": 1492
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki/about/",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/about/",
+                "start": 0,
+                "url": "https://t.co/tnegj5Lbot"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "白云山右美沙芬制药厂",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1810253570194976859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806463087572393984/YX1f9713_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 386,
+          "like_count": 4360,
+          "listed_count": 0,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/tnegj5Lbot",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830590353013174272"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1830590363528315036",
+    "created_at": "2024-09-02T12:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T13:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830590363528315036"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "自伤"
+        },
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "自残"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yu0wt3upr0",
+          "end": 41,
+          "expanded_url": "https://twitter.com/LXL0102/status/1830590363528315036/photo/1",
+          "media_key": "3_1830590353013174272",
+          "start": 18,
+          "url": "https://t.co/Yu0wT3upr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830590363528315036",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢这张呀😋满意\n#自伤 #自残 https://t.co/Yu0wT3upr0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830590363528315036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830590363528315036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830590363528315036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1830590353013174272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWeQOiibcAAbspW.jpg",
+        "width": 812
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 229,
+          "like_count": 904,
+          "listed_count": 2,
+          "tweet_count": 1566
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

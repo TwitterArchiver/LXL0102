@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1954070448310038804",
+    "created_at": "2025-08-09T11:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954149652208517615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1456673302618185728",
+          "start": 0,
+          "username": "yibeirenaicha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954149652208517615",
+    "in_reply_to_user_id": "1456673302618185728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954138047873781929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibeirenaicha 服了求放过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1954070448310038804",
+        "created_at": "2025-08-09T11:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954149652208517615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1456673302618185728",
+              "start": 0,
+              "username": "yibeirenaicha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954149652208517615",
+        "in_reply_to_user_id": "1456673302618185728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954138047873781929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibeirenaicha 服了求放过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456673302618185728",
+        "conversation_id": "1954070448310038804",
+        "created_at": "2025-08-09T11:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954138047873781929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954138047873781929",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954070448310038804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 ahhh😂这种不知道该说什么比较好😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 257,
+          "like_count": 1348,
+          "listed_count": 4,
+          "media_count": 488,
+          "tweet_count": 2906
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T17:23:00.000Z",
+        "description": "•人与人之间还是要友善一点比较好~（你要是过于恶臭的话我一样会骂你）\n•我只是一个普通人（不要给我贴标签）\n•本人是男孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yibeirenaicha_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yibeirenaicha_",
+                "start": 0,
+                "url": "https://t.co/dLeG9RC546"
+              }
+            ]
+          }
+        },
+        "id": "1456673302618185728",
+        "location": "匿名问答在右边~",
+        "name": "一杯热奶茶",
+        "pinned_tweet_id": "1935996886206628237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918332640597557248/rkmeqqZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 282,
+          "like_count": 23657,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/dLeG9RC546",
+        "username": "yibeirenaicha",
+        "verified": false
+      }
+    ]
+  }
+}

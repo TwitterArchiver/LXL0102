@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895812322557624320",
+        "3_1895812322670604288"
+      ],
+      "media_source_tweet_id": [
+        "1895812335253774390",
+        "1895812335253774390"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1895863924983308312",
+    "created_at": "2025-03-01T15:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T16:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895863924983308312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666010240725450752",
+          "start": 3,
+          "username": "amedesu01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/itWHLqawQM",
+          "end": 129,
+          "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+          "media_key": "3_1895812322557624320",
+          "start": 106,
+          "url": "https://t.co/itWHLqawQM"
+        },
+        {
+          "display_url": "pic.x.com/itWHLqawQM",
+          "end": 129,
+          "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+          "media_key": "3_1895812322670604288",
+          "start": 106,
+          "url": "https://t.co/itWHLqawQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895863924983308312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895812335253774390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amedesu01: 換城市了重新發一下\n我是ame以後在成都定居了\n爸爸媽媽活和一日女友都接的過門檻諮詢哦\n線下門現在是520！\n拜託老公們幫我轉發一下我想吃飯\n轉發抽一個免費給好友位門兩個13.14 https://t.co/itWHLqawQM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1895812322557624320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9HQ07bAAAcAxr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895812322670604288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9HQ1WW8AAQwGk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895812322557624320",
+            "3_1895812322670604288"
+          ],
+          "media_source_tweet_id": [
+            "1895812335253774390",
+            "1895812335253774390"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1895863924983308312",
+        "created_at": "2025-03-01T15:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T16:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895863924983308312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666010240725450752",
+              "start": 3,
+              "username": "amedesu01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/itWHLqawQM",
+              "end": 129,
+              "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+              "media_key": "3_1895812322557624320",
+              "start": 106,
+              "url": "https://t.co/itWHLqawQM"
+            },
+            {
+              "display_url": "pic.x.com/itWHLqawQM",
+              "end": 129,
+              "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+              "media_key": "3_1895812322670604288",
+              "start": 106,
+              "url": "https://t.co/itWHLqawQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895863924983308312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895812335253774390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amedesu01: 換城市了重新發一下\n我是ame以後在成都定居了\n爸爸媽媽活和一日女友都接的過門檻諮詢哦\n線下門現在是520！\n拜託老公們幫我轉發一下我想吃飯\n轉發抽一個免費給好友位門兩個13.14 https://t.co/itWHLqawQM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895812322557624320",
+            "3_1895812322670604288"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1895812335253774390",
+        "created_at": "2025-03-01T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895812335253774390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itWHLqawQM",
+              "end": 114,
+              "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+              "media_key": "3_1895812322557624320",
+              "start": 91,
+              "url": "https://t.co/itWHLqawQM"
+            },
+            {
+              "display_url": "pic.x.com/itWHLqawQM",
+              "end": 114,
+              "expanded_url": "https://x.com/amedesu01/status/1895812335253774390/photo/1",
+              "media_key": "3_1895812322670604288",
+              "start": 91,
+              "url": "https://t.co/itWHLqawQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895812335253774390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1541,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "換城市了重新發一下\n我是ame以後在成都定居了\n爸爸媽媽活和一日女友都接的過門檻諮詢哦\n線下門現在是520！\n拜託老公們幫我轉發一下我想吃飯\n轉發抽一個免費給好友位門兩個13.14 https://t.co/itWHLqawQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 240,
+          "like_count": 999,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩 不互关不互转，会回关喜欢的人 过门有视频福利可定制 ，广告不走平台",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520 过门槛解锁一日女友",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1880574028521652420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879522383276724224/Kc7TjXfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9464,
+          "following_count": 274,
+          "like_count": 8518,
+          "listed_count": 20,
+          "media_count": 516,
+          "tweet_count": 4180
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

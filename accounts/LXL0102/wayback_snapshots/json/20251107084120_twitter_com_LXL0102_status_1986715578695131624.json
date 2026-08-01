@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986715572160356352"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1986715503902310675",
+    "created_at": "2025-11-07T08:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986715578695131624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Nnz25Pht0",
+          "end": 37,
+          "expanded_url": "https://x.com/LXL0102/status/1986715578695131624/photo/1",
+          "media_key": "3_1986715572160356352",
+          "start": 14,
+          "url": "https://t.co/2Nnz25Pht0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986715578695131624",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986715503902310675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "画质修复你差点把我害死了。 https://t.co/2Nnz25Pht0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986715572160356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I7SWxa4AAkS6G.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986715495375196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I7N4uaUAABe_8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986715572160356352"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1986715503902310675",
+        "created_at": "2025-11-07T08:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986715578695131624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Nnz25Pht0",
+              "end": 37,
+              "expanded_url": "https://x.com/LXL0102/status/1986715578695131624/photo/1",
+              "media_key": "3_1986715572160356352",
+              "start": 14,
+              "url": "https://t.co/2Nnz25Pht0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986715578695131624",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986715503902310675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画质修复你差点把我害死了。 https://t.co/2Nnz25Pht0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986715495375196160"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1986715503902310675",
+        "created_at": "2025-11-07T08:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986715503902310675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jEE8pUkRX",
+              "end": 34,
+              "expanded_url": "https://x.com/LXL0102/status/1986715503902310675/photo/1",
+              "media_key": "3_1986715495375196160",
+              "start": 11,
+              "url": "https://t.co/4jEE8pUkRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986715503902310675",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "૮꒰◜ ཅ ◝ ꒱១ https://t.co/4jEE8pUkRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 265,
+          "like_count": 1419,
+          "listed_count": 5,
+          "media_count": 546,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

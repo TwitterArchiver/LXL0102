@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043564146730631168"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2043564151768011102",
+    "created_at": "2026-04-13T05:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043564151768011102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CGJuVMHEg6",
+          "end": 79,
+          "expanded_url": "https://x.com/LXL0102/status/2043564151768011102/photo/1",
+          "media_key": "3_2043564146730631168",
+          "start": 56,
+          "url": "https://t.co/CGJuVMHEg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043564151768011102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "网红卖惨大会，拍个剧本发抖音说说原生家庭痛苦就能又收获一群粉丝，谁能告诉我拥有几百万粉丝的博主一年能赚多少钱？ https://t.co/CGJuVMHEg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043564146730631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwyw6GagAAmJ20.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043564146730631168"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2043564151768011102",
+        "created_at": "2026-04-13T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043564151768011102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGJuVMHEg6",
+              "end": 79,
+              "expanded_url": "https://x.com/LXL0102/status/2043564151768011102/photo/1",
+              "media_key": "3_2043564146730631168",
+              "start": 56,
+              "url": "https://t.co/CGJuVMHEg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043564151768011102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网红卖惨大会，拍个剧本发抖音说说原生家庭痛苦就能又收获一群粉丝，谁能告诉我拥有几百万粉丝的博主一年能赚多少钱？ https://t.co/CGJuVMHEg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 365,
+          "like_count": 1761,
+          "listed_count": 5,
+          "media_count": 654,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

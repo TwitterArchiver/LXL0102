@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1791435779610439853",
+    "created_at": "2024-05-17T13:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T14:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791459313745330419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574668085314965504",
+          "start": 0,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791459313745330419",
+    "in_reply_to_user_id": "1574668085314965504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791435779610439853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meer19002 右佐匹和佐匹的区别是什么？我吃的一直是佐匹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1791435779610439853",
+        "created_at": "2024-05-17T13:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T14:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791459313745330419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574668085314965504",
+              "start": 0,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791459313745330419",
+        "in_reply_to_user_id": "1574668085314965504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791435779610439853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meer19002 右佐匹和佐匹的区别是什么？我吃的一直是佐匹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1791435779610439853",
+        "created_at": "2024-05-17T11:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T12:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791435779610439853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791435779610439853",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右佐匹克隆这个药物怎么说呢？\n\n它的作用就是每次让我平静的心态下听着音乐，写了一篇笔记，劝说自己活下去。但是，我只需要听音乐，然后一边写日记就好了，根本不需要药物。\n\n又有了想要把右佐完全戒掉的想法。\n\n或者改成每周吃一次。就看这个药物是否会逐渐的淡出我的生活。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 203,
+          "like_count": 822,
+          "listed_count": 2,
+          "tweet_count": 1083
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "生欲与死欲的争斗，ftx泛性恋，精神分裂，焦虑抑郁neet。阿斯伯格。废话推一个。理想写网文和做唱见。正准备开个网店，不知道能不能活下去。xp是二三四爱。",
+        "id": "1574668085314965504",
+        "name": "Hazel🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1782904353449505181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788406695561146368/rhVIyQAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 582,
+          "like_count": 6782,
+          "listed_count": 2,
+          "tweet_count": 7462
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

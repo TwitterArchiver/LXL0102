@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1938510360287580588",
+    "created_at": "2026-02-18T16:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024165892477551056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955986387368599557",
+          "start": 0,
+          "username": "Siroi_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024165892477551056",
+    "in_reply_to_user_id": "1955986387368599557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023350632112083137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siroi_03 好！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1938510360287580588",
+        "created_at": "2026-02-18T16:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024165892477551056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955986387368599557",
+              "start": 0,
+              "username": "Siroi_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024165892477551056",
+        "in_reply_to_user_id": "1955986387368599557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023350632112083137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siroi_03 好！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955986387368599557",
+        "conversation_id": "1938510360287580588",
+        "created_at": "2026-02-16T10:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023350632112083137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023350632112083137",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938510360287580588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 你好可爱，可以互fo吗😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 364,
+          "like_count": 1743,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 3596
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:34:40.000Z",
+        "description": "18↓/BPD /精神不安定 /社不 /sh od\npfp is my own character🤍\n無言フォロー失礼します!!\n |･ω･｀)",
+        "id": "1955986387368599557",
+        "location": "精神病院",
+        "name": "siroi_",
+        "pinned_tweet_id": "1957434152061464611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956719739943927809/J2X0DUC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 113,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 110
+        },
+        "username": "Siroi_03",
+        "verified": false
+      }
+    ]
+  }
+}

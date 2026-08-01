@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924060904875859968"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1924060915080798523",
+    "created_at": "2025-05-18T11:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T12:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924060915080798523"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "占卜"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "塔罗"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "灵性"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "疗愈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ziZ9q4s9jn",
+          "end": 107,
+          "expanded_url": "https://x.com/LXL0102/status/1924060915080798523/photo/1",
+          "media_key": "3_1924060904875859968",
+          "start": 84,
+          "url": "https://t.co/ziZ9q4s9jn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924060915080798523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🈺原创塔罗牌阵上新【黑月窥视】🔮\n为【视奸塔罗牌阵】改版上新\n基于视奸前任牌阵基础上添加了两项自定义问题，可以视奸任何人👾👾\n#占卜 #塔罗 #雷诺曼 #灵性 #疗愈 https://t.co/ziZ9q4s9jn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1924060904875859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOjMulXoAAvetJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924060904875859968"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924060915080798523",
+        "created_at": "2025-05-18T11:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T12:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924060915080798523"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "占卜"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "塔罗"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "灵性"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "疗愈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziZ9q4s9jn",
+              "end": 107,
+              "expanded_url": "https://x.com/LXL0102/status/1924060915080798523/photo/1",
+              "media_key": "3_1924060904875859968",
+              "start": 84,
+              "url": "https://t.co/ziZ9q4s9jn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924060915080798523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🈺原创塔罗牌阵上新【黑月窥视】🔮\n为【视奸塔罗牌阵】改版上新\n基于视奸前任牌阵基础上添加了两项自定义问题，可以视奸任何人👾👾\n#占卜 #塔罗 #雷诺曼 #灵性 #疗愈 https://t.co/ziZ9q4s9jn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】【外烟代购】 我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎  ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 248,
+          "like_count": 1104,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1942896403950584297",
+    "created_at": "2025-07-09T10:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T11:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942896403950584297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942896403950584297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941847297442410884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 1500fo抽奖来啦‼️欢迎各位捧场～此次抽奖是玄学向的哦！大家可以尝试一下😈\n\n一等奖：转运大蜡烛or招财橘子：价值118💰（一位\n二等奖：普通调频：感情/招财招桃花/事业等等价值52💰（两位\n三等奖：雷诺曼占卜：价值33💰（三位\n四等奖：狐仙供香：…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941847282254544896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLT0JrXAAAJS0n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1801,
+        "media_key": "3_1941847282221019136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLT0JjXcAAxzHT.jpg",
+        "width": 1182
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1941847282292236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLT0J0WIAAv-9l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1942896403950584297",
+        "created_at": "2025-07-09T10:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942896403950584297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942896403950584297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941847297442410884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 1500fo抽奖来啦‼️欢迎各位捧场～此次抽奖是玄学向的哦！大家可以尝试一下😈\n\n一等奖：转运大蜡烛or招财橘子：价值118💰（一位\n二等奖：普通调频：感情/招财招桃花/事业等等价值52💰（两位\n三等奖：雷诺曼占卜：价值33💰（三位\n四等奖：狐仙供香：…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941847282254544896",
+            "3_1941847282221019136",
+            "3_1941847282292236288"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941847297442410884",
+        "created_at": "2025-07-06T13:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941847297442410884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1nBg3u26W",
+              "end": 182,
+              "expanded_url": "https://x.com/LXL0102/status/1941847297442410884/photo/1",
+              "media_key": "3_1941847282254544896",
+              "start": 159,
+              "url": "https://t.co/y1nBg3u26W"
+            },
+            {
+              "display_url": "pic.x.com/y1nBg3u26W",
+              "end": 182,
+              "expanded_url": "https://x.com/LXL0102/status/1941847297442410884/photo/1",
+              "media_key": "3_1941847282221019136",
+              "start": 159,
+              "url": "https://t.co/y1nBg3u26W"
+            },
+            {
+              "display_url": "pic.x.com/y1nBg3u26W",
+              "end": 182,
+              "expanded_url": "https://x.com/LXL0102/status/1941847297442410884/photo/1",
+              "media_key": "3_1941847282292236288",
+              "start": 159,
+              "url": "https://t.co/y1nBg3u26W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941847297442410884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3064,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "1500fo抽奖来啦‼️欢迎各位捧场～此次抽奖是玄学向的哦！大家可以尝试一下😈\n\n一等奖：转运大蜡烛or招财橘子：价值118💰（一位\n二等奖：普通调频：感情/招财招桃花/事业等等价值52💰（两位\n三等奖：雷诺曼占卜：价值33💰（三位\n四等奖：狐仙供香：价值18💰（三位\n\n转发+点赞+评论（为了抽奖）1500fo开奖 https://t.co/y1nBg3u26W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 251,
+          "like_count": 1224,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

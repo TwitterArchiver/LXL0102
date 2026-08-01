@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2002095752877879556",
+    "created_at": "2025-12-20T04:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002228284894151140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549816078313725952",
+          "start": 0,
+          "username": "Androcles_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002228284894151140",
+    "in_reply_to_user_id": "1549816078313725952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002226575832723681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Androcles_17 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2002095752877879556",
+        "created_at": "2025-12-20T04:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002228284894151140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549816078313725952",
+              "start": 0,
+              "username": "Androcles_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002228284894151140",
+        "in_reply_to_user_id": "1549816078313725952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002226575832723681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Androcles_17 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549816078313725952",
+        "conversation_id": "2002095752877879556",
+        "created_at": "2025-12-20T03:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002226575832723681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002226575832723681",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002095752877879556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 泪失禁真的是……一点情绪都不能激动，一激动眼泪就控制不住的流，有的时候和人吵架占理呢他妈的自己眼泪先掉下来了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 280,
+          "like_count": 1577,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T17:59:06.000Z",
+        "description": "好的不纯粹，坏的不彻底",
+        "id": "1549816078313725952",
+        "name": "十七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002017055848181760/fRP3AJ8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 429,
+          "like_count": 887,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 250
+        },
+        "username": "Androcles_17",
+        "verified": false
+      }
+    ]
+  }
+}

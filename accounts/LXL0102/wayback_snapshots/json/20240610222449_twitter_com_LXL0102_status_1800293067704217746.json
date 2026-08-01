@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1800037927139033184",
+    "created_at": "2024-06-10T22:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T23:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800293067704217746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800293067704217746",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800037927139033184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 反正都得死，大家找个好地方321跳下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1800037927139033184",
+        "created_at": "2024-06-10T22:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T23:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800293067704217746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800293067704217746",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800037927139033184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 反正都得死，大家找个好地方321跳下去"
+      },
+      {
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "1800037927139033184",
+        "created_at": "2024-06-10T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800037927139033184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800037927139033184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 190707,
+          "like_count": 447,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我再重申一遍：\n\n无论是国内高考，还是美澳英港新加本科及水硕，\n\n人文、社科、商科、经济等专业，所有专业都是垃圾专业，是废物，在2024年的今天，不可能让你找到工作，更不可能让你移民的。\n\n只要你的目标不是读顶级名校博士、当教授、找教职：学文科专业等于自杀，等于断送自己的前程和时光。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 214,
+          "like_count": 856,
+          "listed_count": 2,
+          "tweet_count": 1231
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n\n提问前请阅读highlights和往期推文，个人建议请访问 https://t.co/u4mX2Aq4Uk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openask.me/lidangzzz",
+                "end": 94,
+                "expanded_url": "https://openask.me/lidangzzz",
+                "start": 71,
+                "url": "https://t.co/u4mX2Aq4Uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机、劝人投美股SP500/纳斯达克100第一人）",
+        "pinned_tweet_id": "1640459631809171456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413012,
+          "following_count": 2593,
+          "like_count": 22001,
+          "listed_count": 3408,
+          "tweet_count": 31109
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

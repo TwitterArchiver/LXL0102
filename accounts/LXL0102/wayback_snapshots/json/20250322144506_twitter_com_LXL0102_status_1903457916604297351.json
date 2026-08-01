@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1903445829383577852",
+    "created_at": "2025-03-22T14:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T15:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903457916604297351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874332756861476866",
+          "start": 0,
+          "username": "Minsk0935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903457916604297351",
+    "in_reply_to_user_id": "1874332756861476866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903445829383577852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minsk0935 胃痛胃胀了一天终于吐出来好多了，谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1903445487333883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpllfnbQAAA7oM.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1903445829383577852",
+        "created_at": "2025-03-22T14:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T15:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903457916604297351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874332756861476866",
+              "start": 0,
+              "username": "Minsk0935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903457916604297351",
+        "in_reply_to_user_id": "1874332756861476866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903445829383577852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minsk0935 胃痛胃胀了一天终于吐出来好多了，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903445487333883904"
+          ]
+        },
+        "author_id": "1874332756861476866",
+        "conversation_id": "1903445829383577852",
+        "created_at": "2025-03-22T13:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903445829383577852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ap9B02L9r",
+              "end": 63,
+              "expanded_url": "https://x.com/Minsk0935/status/1903445829383577852/photo/1",
+              "media_key": "3_1903445487333883904",
+              "start": 40,
+              "url": "https://t.co/3ap9B02L9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903445829383577852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1671,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问：为什么说马嘉祺的脸具有稳定性\n警告：如有不适，请勿观看，如有冒犯，实在抱歉 https://t.co/3ap9B02L9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 236,
+          "like_count": 1020,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T05:52:58.000Z",
+        "description": "敬转瞬即逝，敬亘古不变",
+        "id": "1874332756861476866",
+        "name": "Minsk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874483884358017024/M8Pul1Rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 328,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 367
+        },
+        "username": "Minsk0935",
+        "verified": false
+      }
+    ]
+  }
+}

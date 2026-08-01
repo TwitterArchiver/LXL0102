@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2024018580371615877",
+    "created_at": "2026-02-18T16:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024164153691427250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "Lianlianx_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024164153691427250",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024157653254193492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lianlianx_o 这简直就是一滴泪呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2024018580371615877",
+        "created_at": "2026-02-18T16:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024164153691427250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "Lianlianx_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024164153691427250",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024157653254193492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lianlianx_o 这简直就是一滴泪呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921588381844467712",
+        "conversation_id": "2024018580371615877",
+        "created_at": "2026-02-18T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024157653254193492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024157653254193492",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024018580371615877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 日牌原单贵的要死，那些人还好意思二手转卖\n🚬(›´-`‹ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 363,
+          "like_count": 1742,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "od已戒Ი︵𐑼纯绿🚪100私信口令和微信号,不接爸爸活不聊骚。照片只是因为觉得好看才发的我真的纯绿(´•ω•̥`)不要入错门了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//tkwfmk/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//tkwfmk/web?t=1770893570",
+                "start": 0,
+                "url": "https://t.co/ICUz1FDprY"
+              }
+            ]
+          }
+        },
+        "id": "1921588381844467712",
+        "location": " ₍‧ꀈ˙⁾՜叫我小爱如何呢?",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2020369102112714765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021863914259247104/Huwe6fWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 110,
+          "like_count": 3865,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/ICUz1FDprY",
+        "username": "Lianlianx_o",
+        "verified": false
+      }
+    ]
+  }
+}

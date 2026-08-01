@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060268226563690496"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2060268233593422234",
+    "created_at": "2026-05-29T07:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060268233593422234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUJ7sr2OFd",
+          "end": 31,
+          "expanded_url": "https://x.com/LXL0102/status/2060268233593422234/photo/1",
+          "media_key": "3_2060268226563690496",
+          "start": 8,
+          "url": "https://t.co/kUJ7sr2OFd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060268233593422234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "克罗心太帅了！ https://t.co/kUJ7sr2OFd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060268226563690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeLCUpaUAAFJzP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060268226563690496"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2060268233593422234",
+        "created_at": "2026-05-29T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060268233593422234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUJ7sr2OFd",
+              "end": 31,
+              "expanded_url": "https://x.com/LXL0102/status/2060268233593422234/photo/1",
+              "media_key": "3_2060268226563690496",
+              "start": 8,
+              "url": "https://t.co/kUJ7sr2OFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060268233593422234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "克罗心太帅了！ https://t.co/kUJ7sr2OFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 369,
+          "like_count": 1703,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

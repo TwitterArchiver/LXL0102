@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1989351116967199203",
+    "created_at": "2025-11-15T09:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989627260404658505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989627260404658505",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989351116967199203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她抖音是：小e不是emo的e\n欢迎大家去看她的作品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989351073665142784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu9aUAAUdHH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351073656758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu7aYAANR1s.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351074332131328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQxcbwAAMakA.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351073660936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu8aIAAQO0B.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1989351116967199203",
+        "created_at": "2025-11-15T09:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989627260404658505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989627260404658505",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989351116967199203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她抖音是：小e不是emo的e\n欢迎大家去看她的作品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989351073665142784",
+            "3_1989351073656758272",
+            "3_1989351074332131328",
+            "3_1989351073660936192"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1989351116967199203",
+        "created_at": "2025-11-14T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989351116967199203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073665142784",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073656758272",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351074332131328",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073660936192",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989351116967199203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1050,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看个好玩的！\n自身患有精神疾病（双相）的一个博主，无证且公开接心理咨询（200/h）\n\n我本来只是随口一吐槽，小腿毛立马就急了。\n\n双相患者接心理咨询时，能否保证自身状态最佳？不会误导别人？\n\n再说一遍，没专业学过临床心理学等专业课程知识，能不能别出来害人？\n\n也就靠着低龄粉丝去维护你了 https://t.co/KbEO5RxPVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 268,
+          "like_count": 1429,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

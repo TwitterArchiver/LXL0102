@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1961020940860674373",
+    "created_at": "2025-08-28T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961020940860674373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nikikiki8964/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nikikiki8964/status/1960731527299653670",
+          "start": 5,
+          "url": "https://t.co/xNYeFjbrVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961020940860674373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960731527299653670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "敢说就行 https://t.co/xNYeFjbrVH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1961020940860674373",
+        "created_at": "2025-08-28T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961020940860674373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikikiki8964/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nikikiki8964/status/1960731527299653670",
+              "start": 5,
+              "url": "https://t.co/xNYeFjbrVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961020940860674373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960731527299653670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "敢说就行 https://t.co/xNYeFjbrVH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "1960731527299653670",
+        "created_at": "2025-08-27T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960731527299653670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960731527299653670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 129832,
+          "like_count": 1247,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 30
+        },
+        "reply_settings": "following",
+        "text": "又来外网说点墙内不敢说的话\n\n其实很多二次元富婆和小明星都是贪二代，我完全理解不了在捧她们什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 266,
+          "like_count": 1382,
+          "listed_count": 5,
+          "media_count": 501,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "梦到哪句说哪句｜善用划走屏蔽对号入座贴脸犯贱滚｜尊厌岁静宅｜一切群体友好极端魔怔过激和性缘脑除外｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "白葵葵",
+        "pinned_tweet_id": "1904049031468229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955918875037667328/X9fBWWmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 104,
+          "like_count": 62480,
+          "listed_count": 9,
+          "media_count": 70,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

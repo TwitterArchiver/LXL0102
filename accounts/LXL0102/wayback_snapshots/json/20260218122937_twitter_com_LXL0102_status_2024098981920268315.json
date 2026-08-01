@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024098974198824960",
+        "3_2024098974215577600",
+        "3_2024098974223966208"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2023750200817578406",
+    "created_at": "2026-02-18T12:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024098981920268315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OrpLSgGwg",
+          "end": 27,
+          "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+          "media_key": "3_2024098974198824960",
+          "start": 4,
+          "url": "https://t.co/6OrpLSgGwg"
+        },
+        {
+          "display_url": "pic.x.com/6OrpLSgGwg",
+          "end": 27,
+          "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+          "media_key": "3_2024098974215577600",
+          "start": 4,
+          "url": "https://t.co/6OrpLSgGwg"
+        },
+        {
+          "display_url": "pic.x.com/6OrpLSgGwg",
+          "end": 27,
+          "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+          "media_key": "3_2024098974223966208",
+          "start": 4,
+          "url": "https://t.co/6OrpLSgGwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024098981920268315",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023750200817578406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已开奖 https://t.co/6OrpLSgGwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024098974198824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcLSvtagAASP-s.jpg",
+        "width": 910
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024098974215577600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcLSvxaIAA7g4l.jpg",
+        "width": 748
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024098974223966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcLSvzaIAAksq4.jpg",
+        "width": 471
+      },
+      {
+        "height": 500,
+        "media_key": "3_2023750192537952256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXOE-xaYAAtmSw.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024098974198824960",
+            "3_2024098974215577600",
+            "3_2024098974223966208"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2023750200817578406",
+        "created_at": "2026-02-18T12:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024098981920268315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OrpLSgGwg",
+              "end": 27,
+              "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+              "media_key": "3_2024098974198824960",
+              "start": 4,
+              "url": "https://t.co/6OrpLSgGwg"
+            },
+            {
+              "display_url": "pic.x.com/6OrpLSgGwg",
+              "end": 27,
+              "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+              "media_key": "3_2024098974215577600",
+              "start": 4,
+              "url": "https://t.co/6OrpLSgGwg"
+            },
+            {
+              "display_url": "pic.x.com/6OrpLSgGwg",
+              "end": 27,
+              "expanded_url": "https://x.com/LXL0102/status/2024098981920268315/photo/1",
+              "media_key": "3_2024098974223966208",
+              "start": 4,
+              "url": "https://t.co/6OrpLSgGwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024098981920268315",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023750200817578406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已开奖 https://t.co/6OrpLSgGwg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023750192537952256"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2023750200817578406",
+        "created_at": "2026-02-17T13:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023750200817578406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etYbRlqyaT",
+              "end": 49,
+              "expanded_url": "https://x.com/LXL0102/status/2023750200817578406/photo/1",
+              "media_key": "3_2023750192537952256",
+              "start": 26,
+              "url": "https://t.co/etYbRlqyaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023750200817578406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5167,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "点赞/转发/评论里面各抽一个人给18.88的红包🧧 https://t.co/etYbRlqyaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 360,
+          "like_count": 1737,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      }
+    ],
+    "conversation_id": "1933164792535236702",
+    "created_at": "2025-06-12T14:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T15:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933164792535236702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "门槛"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "纯绿"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "线下"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "jk"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "女高"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "陪聊"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687339188746878976",
+          "start": 3,
+          "username": "qdynb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933164792535236702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933163503751491876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qdynb666: 你好呀我是玉米淀粉\n请叫我小淀🤲\n在读高二\n胃病一直在折磨我\n我需要自己赚生活费医药费\n我需要钱我需要陪伴我不想胃疼了\n小女孩我们来互关互转好吗🥹\n#门槛 #门槛妹 #门槛哥 #纯绿 #线下 #门槛姐 #jk #女高 #陪聊 #一日女友 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_1933163489297838081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP584BaMAEPCNp.jpg",
+        "width": 950
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933163494704386048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP59MKbkAAGhFm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1933163497711611904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP59XXaMAAJRSB.jpg",
+        "width": 810
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1933163501411004416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP59lJacAAlO2A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "1933164792535236702",
+        "created_at": "2025-06-12T14:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933164792535236702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "门槛"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "纯绿"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "线下"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "jk"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "女高"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "陪聊"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687339188746878976",
+              "start": 3,
+              "username": "qdynb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933164792535236702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933163503751491876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qdynb666: 你好呀我是玉米淀粉\n请叫我小淀🤲\n在读高二\n胃病一直在折磨我\n我需要自己赚生活费医药费\n我需要钱我需要陪伴我不想胃疼了\n小女孩我们来互关互转好吗🥹\n#门槛 #门槛妹 #门槛哥 #纯绿 #线下 #门槛姐 #jk #女高 #陪聊 #一日女友 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933163489297838081",
+            "3_1933163494704386048",
+            "3_1933163497711611904",
+            "3_1933163501411004416"
+          ]
+        },
+        "author_id": "1687339188746878976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "1933163503751491876",
+        "created_at": "2025-06-12T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933163503751491876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "门槛"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "纯绿"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "线下"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "jk"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "女高"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "陪聊"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLeLpBbcYc",
+              "end": 142,
+              "expanded_url": "https://x.com/qdynb666/status/1933163503751491876/photo/1",
+              "media_key": "3_1933163489297838081",
+              "start": 119,
+              "url": "https://t.co/lLeLpBbcYc"
+            },
+            {
+              "display_url": "pic.x.com/lLeLpBbcYc",
+              "end": 142,
+              "expanded_url": "https://x.com/qdynb666/status/1933163503751491876/photo/1",
+              "media_key": "3_1933163494704386048",
+              "start": 119,
+              "url": "https://t.co/lLeLpBbcYc"
+            },
+            {
+              "display_url": "pic.x.com/lLeLpBbcYc",
+              "end": 142,
+              "expanded_url": "https://x.com/qdynb666/status/1933163503751491876/photo/1",
+              "media_key": "3_1933163497711611904",
+              "start": 119,
+              "url": "https://t.co/lLeLpBbcYc"
+            },
+            {
+              "display_url": "pic.x.com/lLeLpBbcYc",
+              "end": 142,
+              "expanded_url": "https://x.com/qdynb666/status/1933163503751491876/photo/1",
+              "media_key": "3_1933163501411004416",
+              "start": 119,
+              "url": "https://t.co/lLeLpBbcYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933163503751491876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好呀我是玉米淀粉\n请叫我小淀🤲\n在读高二\n胃病一直在折磨我\n我需要自己赚生活费医药费\n我需要钱我需要陪伴我不想胃疼了\n小女孩我们来互关互转好吗🥹\n#门槛 #门槛妹 #门槛哥 #纯绿 #线下 #门槛姐 #jk #女高 #陪聊 #一日女友 https://t.co/lLeLpBbcYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】【外烟代购】 我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎  ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 250,
+          "like_count": 1144,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T05:46:36.000Z",
+        "description": "纯绿，门槛无上限",
+        "id": "1687339188746878976",
+        "location": "🚪52/99/188",
+        "name": "玉米淀粉",
+        "pinned_tweet_id": "1933163503751491876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785260952759533568/AmsxZn-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 47,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 595
+        },
+        "username": "qdynb666",
+        "verified": false
+      }
+    ]
+  }
+}

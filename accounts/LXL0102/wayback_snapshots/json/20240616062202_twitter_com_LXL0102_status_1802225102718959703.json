@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1802225102718959703",
+    "created_at": "2024-06-16T06:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T07:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802225102718959703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800451954776367104",
+          "start": 3,
+          "username": "aiSOlate_1ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802225102718959703",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800553129232199881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiSOlate_1ki: 棒属仅椅245主45。我是5一体机\n二次只推碇真嗣\n以前很爱看书不过病情加重之后就没怎么看过了。我平时看太宰治，芥川龙之介，三岛由纪夫。我不是那种只知道生而为人我很抱歉的跟风者。是真的很喜欢太宰治，他的大多数作品我都看过了\n平时会发od/紫餐…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1802225102718959703",
+        "created_at": "2024-06-16T06:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T07:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802225102718959703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800451954776367104",
+              "start": 3,
+              "username": "aiSOlate_1ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802225102718959703",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800553129232199881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiSOlate_1ki: 棒属仅椅245主45。我是5一体机\n二次只推碇真嗣\n以前很爱看书不过病情加重之后就没怎么看过了。我平时看太宰治，芥川龙之介，三岛由纪夫。我不是那种只知道生而为人我很抱歉的跟风者。是真的很喜欢太宰治，他的大多数作品我都看过了\n平时会发od/紫餐…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1800451954776367104",
+        "conversation_id": "1800553129232199881",
+        "created_at": "2024-06-11T15:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T16:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800553129232199881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800553129232199881",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "棒属仅椅245主45。我是5一体机\n二次只推碇真嗣\n以前很爱看书不过病情加重之后就没怎么看过了。我平时看太宰治，芥川龙之介，三岛由纪夫。我不是那种只知道生而为人我很抱歉的跟风者。是真的很喜欢太宰治，他的大多数作品我都看过了\n平时会发od/紫餐/碎碎念/自拍/画的图\n不爱看请退出不要攻击我，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 214,
+          "like_count": 854,
+          "listed_count": 2,
+          "tweet_count": 1244
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T08:56:25.000Z",
+        "description": "重抑重焦，主页只是记录生活，如有不适请自行退出。年龄重要吗？高中牲畜一枚。欢迎互关交友聊天。",
+        "id": "1800451954776367104",
+        "name": "aiSOlate",
+        "pinned_tweet_id": "1800553129232199881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800452153057914880/ScPiCHDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 184,
+          "listed_count": 0,
+          "tweet_count": 208
+        },
+        "username": "aiSOlate_1ki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1938510360287580588",
+    "created_at": "2026-02-18T10:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024070788911874124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936969318191017984",
+          "start": 0,
+          "username": "MegomeKaze_920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024070788911874124",
+    "in_reply_to_user_id": "1936969318191017984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024069162499440820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegomeKaze_920 来惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1938510360287580588",
+        "created_at": "2026-02-18T10:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024070788911874124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936969318191017984",
+              "start": 0,
+              "username": "MegomeKaze_920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024070788911874124",
+        "in_reply_to_user_id": "1936969318191017984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024069162499440820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegomeKaze_920 来惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936969318191017984",
+        "conversation_id": "1938510360287580588",
+        "created_at": "2026-02-18T10:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024069162499440820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024069162499440820",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938510360287580588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 主银想互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 358,
+          "like_count": 1736,
+          "listed_count": 5,
+          "media_count": 624,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T02:07:41.000Z",
+        "description": "低浮上↑ 中文｜한국어｜日本語｜English｜重焦重抑｜自傷od裸｜同類互fo｜05.30｜只发自己喜欢的，拍擦边的照片纯属自己喜欢｜不聊骚不约炮不线下",
+        "id": "1936969318191017984",
+        "location": "🐹",
+        "name": "げっしょく",
+        "pinned_tweet_id": "2022691204446720393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024012478586470400/e63x-sVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 91,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 522
+        },
+        "username": "MegomeKaze_920",
+        "verified": false
+      }
+    ]
+  }
+}

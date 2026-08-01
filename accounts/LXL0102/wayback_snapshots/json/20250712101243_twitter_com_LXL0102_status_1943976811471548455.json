@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943976793813164032",
+        "3_1943976793687646208"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1943976811471548455",
+    "created_at": "2025-07-12T10:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T11:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943976811471548455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "西玄"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "草药蜡烛"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "显化"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "疗愈"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "神秘学"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "占卜"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "塔罗"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "通灵"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "调频"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "读心"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "灵性"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMzzLKLGE9",
+          "end": 93,
+          "expanded_url": "https://x.com/LXL0102/status/1943976811471548455/photo/1",
+          "media_key": "3_1943976793813164032",
+          "start": 70,
+          "url": "https://t.co/mMzzLKLGE9"
+        },
+        {
+          "display_url": "pic.x.com/mMzzLKLGE9",
+          "end": 93,
+          "expanded_url": "https://x.com/LXL0102/status/1943976811471548455/photo/1",
+          "media_key": "3_1943976793687646208",
+          "start": 70,
+          "url": "https://t.co/mMzzLKLGE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943976811471548455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【招收玄学代理】要求如下⬇️\n#西玄   #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 https://t.co/mMzzLKLGE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1743,
+        "media_key": "3_1943976793813164032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpkmCbWIAAYtpA.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1943976793687646208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpkmB9a4AA8yJi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943976793813164032",
+            "3_1943976793687646208"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943976811471548455",
+        "created_at": "2025-07-12T10:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943976811471548455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "西玄"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "草药蜡烛"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "显化"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "疗愈"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "神秘学"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "占卜"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "塔罗"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "通灵"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "调频"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "读心"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "灵性"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMzzLKLGE9",
+              "end": 93,
+              "expanded_url": "https://x.com/LXL0102/status/1943976811471548455/photo/1",
+              "media_key": "3_1943976793813164032",
+              "start": 70,
+              "url": "https://t.co/mMzzLKLGE9"
+            },
+            {
+              "display_url": "pic.x.com/mMzzLKLGE9",
+              "end": 93,
+              "expanded_url": "https://x.com/LXL0102/status/1943976811471548455/photo/1",
+              "media_key": "3_1943976793687646208",
+              "start": 70,
+              "url": "https://t.co/mMzzLKLGE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943976811471548455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【招收玄学代理】要求如下⬇️\n#西玄   #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 https://t.co/mMzzLKLGE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 253,
+          "like_count": 1225,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

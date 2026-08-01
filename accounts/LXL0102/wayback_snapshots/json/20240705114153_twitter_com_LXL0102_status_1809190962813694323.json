@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809190955213553664"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1809190962813694323",
+    "created_at": "2024-07-05T11:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T12:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809190962813694323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "神秘学"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "玄学"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "人形蜡烛"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "香薰"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "法事"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/2irlPbJvWL",
+          "end": 77,
+          "expanded_url": "https://twitter.com/LXL0102/status/1809190962813694323/photo/1",
+          "media_key": "3_1809190955213553664",
+          "start": 54,
+          "url": "https://t.co/2irlPbJvWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809190962813694323",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "离心力你这是在干嘛？天天搞这些神神鬼鬼的，再搞就给我滚出去👿\n#神秘学 #玄学 #人形蜡烛 #香薰 #法事 https://t.co/2irlPbJvWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1809190955213553664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRuJlphagAAFVpb.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809190955213553664"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1809190962813694323",
+        "created_at": "2024-07-05T11:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T12:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809190962813694323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "神秘学"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "玄学"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "人形蜡烛"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "香薰"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "法事"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2irlPbJvWL",
+              "end": 77,
+              "expanded_url": "https://twitter.com/LXL0102/status/1809190962813694323/photo/1",
+              "media_key": "3_1809190955213553664",
+              "start": 54,
+              "url": "https://t.co/2irlPbJvWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809190962813694323",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离心力你这是在干嘛？天天搞这些神神鬼鬼的，再搞就给我滚出去👿\n#神秘学 #玄学 #人形蜡烛 #香薰 #法事 https://t.co/2irlPbJvWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 218,
+          "like_count": 870,
+          "listed_count": 2,
+          "tweet_count": 1319
+        },
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060706220139581440"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2060706279199547541",
+    "created_at": "2026-05-30T12:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060706279199547541"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "西玄"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "显化"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "魔法"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "威卡"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmolRfqWhp",
+          "end": 55,
+          "expanded_url": "https://x.com/LXL0102/status/2060706279199547541/video/1",
+          "media_key": "13_2060706220139581440",
+          "start": 32,
+          "url": "https://t.co/pmolRfqWhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060706279199547541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱神阿芙洛狄忒💗🌊\n#魔法蜡烛 #西玄 #显化 #魔法 #威卡 https://t.co/pmolRfqWhp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_2060706220139581440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060706220139581440/img/3IHHUG5Badbmejzn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060706220139581440/vid/avc1/320x568/CECRktsrhOzfX-Lw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060706220139581440/vid/avc1/480x852/jD_nmlwgj1VcoFF3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060706220139581440/vid/avc1/720x1280/MteHhxGLhoqIcAu_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060706220139581440/pl/b0tbD7ZflCRglOqq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060706220139581440"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2060706279199547541",
+        "created_at": "2026-05-30T12:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060706279199547541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "西玄"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "显化"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "魔法"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "威卡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmolRfqWhp",
+              "end": 55,
+              "expanded_url": "https://x.com/LXL0102/status/2060706279199547541/video/1",
+              "media_key": "13_2060706220139581440",
+              "start": 32,
+              "url": "https://t.co/pmolRfqWhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060706279199547541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱神阿芙洛狄忒💗🌊\n#魔法蜡烛 #西玄 #显化 #魔法 #威卡 https://t.co/pmolRfqWhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 370,
+          "like_count": 1702,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

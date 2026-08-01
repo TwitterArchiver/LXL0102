@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1921558677279953240",
+    "created_at": "2025-05-12T10:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921876269987217497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879182916376510464",
+          "start": 0,
+          "username": "mimikawai030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921876269987217497",
+    "in_reply_to_user_id": "1879182916376510464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921875999756595686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimikawai030 edl什么都不会养腿毛倒是有一套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1921558677279953240",
+        "created_at": "2025-05-12T10:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921876269987217497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879182916376510464",
+              "start": 0,
+              "username": "mimikawai030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921876269987217497",
+        "in_reply_to_user_id": "1879182916376510464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921875999756595686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimikawai030 edl什么都不会养腿毛倒是有一套"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879182916376510464",
+        "conversation_id": "1921558677279953240",
+        "created_at": "2025-05-12T10:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921875999756595686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921875999756595686",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921558677279953240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 为啥还有人给一滴泪洗，，，这弱智，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 245,
+          "like_count": 1065,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T15:05:03.000Z",
+        "description": "=廻廻\n随意称呼我不介意 喜欢和有礼貌的人聊天\n此号很杂基本是我的日常和各种牢骚 想看擦边照请移步小号@huihuisama_love\n收到私信有延迟所以没办法百分百秒回 但是看到就会回 前提是有礼貌的私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "huihuisama_love"
+              }
+            ]
+          }
+        },
+        "id": "1879182916376510464",
+        "name": "廻",
+        "pinned_tweet_id": "1908913669205004412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898732402177916928/Qm06cDS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 154,
+          "like_count": 1963,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 3679
+        },
+        "username": "mimikawai030",
+        "verified": false
+      }
+    ]
+  }
+}

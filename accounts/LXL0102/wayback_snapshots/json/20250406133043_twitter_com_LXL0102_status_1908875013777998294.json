@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1908364162201444763",
+    "created_at": "2025-04-06T13:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T14:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908875013777998294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "chimaosheriff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908875013777998294",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908364162201444763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chimaosheriff 看到ydl就烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93233,
+        "height": 728,
+        "media_key": "7_1908364123840405504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908364123840405504/pu/img/reglvO0hM8jJFClX.jpg",
+        "public_metrics": {},
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908364123840405504/pu/vid/avc1/320x322/RiQD6mEoInH2mBFX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908364123840405504/pu/vid/avc1/480x484/yQVrxoZYH6XvJylQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908364123840405504/pu/vid/avc1/720x728/XVLU5sZgW8GzuWjF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908364123840405504/pu/pl/L3PIuxxTGH2mJWUj.m3u8?tag=12&v=f95"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1908364162201444763",
+        "created_at": "2025-04-06T13:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T14:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908875013777998294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "chimaosheriff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908875013777998294",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908364162201444763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chimaosheriff 看到ydl就烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908364123840405504"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "conversation_id": "1908364162201444763",
+        "created_at": "2025-04-05T03:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908364162201444763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsShfsZ0g6",
+              "end": 28,
+              "expanded_url": "https://x.com/chimaosheriff/status/1908364162201444763/video/1",
+              "media_key": "7_1908364123840405504",
+              "start": 5,
+              "url": "https://t.co/EsShfsZ0g6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908364162201444763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 436666,
+          "like_count": 932,
+          "quote_count": 13,
+          "reply_count": 73,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友 https://t.co/EsShfsZ0g6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 237,
+          "like_count": 1016,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI视觉设计  |  视觉中国签约摄影师  |   非常欢迎你和我交流AI技术",
+        "id": "1558317849508122629",
+        "location": "Shanghai",
+        "name": "萃猫警长",
+        "pinned_tweet_id": "1886211223005675780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855396408238731264/-L2JgX4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11022,
+          "following_count": 455,
+          "like_count": 2585,
+          "listed_count": 24,
+          "media_count": 533,
+          "tweet_count": 3758
+        },
+        "username": "chimaosheriff",
+        "verified": true
+      }
+    ]
+  }
+}

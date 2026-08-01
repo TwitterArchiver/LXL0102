@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2012774646655897831",
+    "created_at": "2026-01-18T08:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012803590667255891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807349006508691456",
+          "start": 0,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012803590667255891",
+    "in_reply_to_user_id": "1807349006508691456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012774646655897831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangzixingfu 一滴泪带出来的兵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012774636849623040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7P3jpWcAABmaj.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2012774646655897831",
+        "created_at": "2026-01-18T08:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012803590667255891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807349006508691456",
+              "start": 0,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012803590667255891",
+        "in_reply_to_user_id": "1807349006508691456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012774646655897831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangzixingfu 一滴泪带出来的兵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012774636849623040"
+          ]
+        },
+        "author_id": "1807349006508691456",
+        "conversation_id": "2012774646655897831",
+        "created_at": "2026-01-18T06:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012774646655897831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QDGwV52Qb",
+              "end": 37,
+              "expanded_url": "https://x.com/Yangzixingfu/status/2012774646655897831/photo/1",
+              "media_key": "3_2012774636849623040",
+              "start": 14,
+              "url": "https://t.co/3QDGwV52Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012774646655897831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35445,
+          "like_count": 254,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "互联网你害死小孩了你知道吗 https://t.co/3QDGwV52Qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 277,
+          "like_count": 1591,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 3377
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "🚪99口令/赞赏码/公益捐款100",
+        "id": "1807349006508691456",
+        "location": "纯清水无福利",
+        "name": "uramu",
+        "pinned_tweet_id": "2010752873903309040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011272276248051718/iTTCKPSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10356,
+          "following_count": 236,
+          "like_count": 3424,
+          "listed_count": 15,
+          "media_count": 268,
+          "tweet_count": 2436
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

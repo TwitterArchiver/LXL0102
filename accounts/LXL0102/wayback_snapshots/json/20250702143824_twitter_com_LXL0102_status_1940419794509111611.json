@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895287269399117824",
+        "3_1895287269558308864",
+        "3_1895287269403303936",
+        "3_1895287269411692545"
+      ],
+      "media_source_tweet_id": [
+        "1895287334230466838",
+        "1895287334230466838",
+        "1895287334230466838",
+        "1895287334230466838"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1940419794509111611",
+    "created_at": "2025-07-02T14:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T15:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940419794509111611"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "门槛"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "过门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894741935228850176",
+          "start": 3,
+          "username": "bngbng5421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hiiZ2nNXc",
+          "end": 84,
+          "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+          "media_key": "3_1895287269399117824",
+          "start": 61,
+          "url": "https://t.co/5hiiZ2nNXc"
+        },
+        {
+          "display_url": "pic.x.com/5hiiZ2nNXc",
+          "end": 84,
+          "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+          "media_key": "3_1895287269558308864",
+          "start": 61,
+          "url": "https://t.co/5hiiZ2nNXc"
+        },
+        {
+          "display_url": "pic.x.com/5hiiZ2nNXc",
+          "end": 84,
+          "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+          "media_key": "3_1895287269403303936",
+          "start": 61,
+          "url": "https://t.co/5hiiZ2nNXc"
+        },
+        {
+          "display_url": "pic.x.com/5hiiZ2nNXc",
+          "end": 84,
+          "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+          "media_key": "3_1895287269411692545",
+          "start": 61,
+          "url": "https://t.co/5hiiZ2nNXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940419794509111611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895287334230466838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bngbng5421: 你好我是饼饼 喜欢我的话就来入我门吧\n目前在找包养和卖处^ω^\n#门槛妹 #门槛 #过门 https://t.co/5hiiZ2nNXc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940419794509111611].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940419794509111611",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940419794509111611"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895287269399117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1putfawAAnaB7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2028,
+        "media_key": "3_1895287269558308864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1puuFX0AAk95q.jpg",
+        "width": 1521
+      },
+      {
+        "height": 1193,
+        "media_key": "3_1895287269403303936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1putgaoAA4HHV.jpg",
+        "width": 828
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1895287269411692545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1putiaoAE8mo7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895287269399117824",
+            "3_1895287269558308864",
+            "3_1895287269403303936",
+            "3_1895287269411692545"
+          ]
+        },
+        "author_id": "1894741935228850176",
+        "conversation_id": "1895287334230466838",
+        "created_at": "2025-02-28T01:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T02:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895287334230466838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "门槛"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "过门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hiiZ2nNXc",
+              "end": 68,
+              "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+              "media_key": "3_1895287269399117824",
+              "start": 45,
+              "url": "https://t.co/5hiiZ2nNXc"
+            },
+            {
+              "display_url": "pic.x.com/5hiiZ2nNXc",
+              "end": 68,
+              "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+              "media_key": "3_1895287269558308864",
+              "start": 45,
+              "url": "https://t.co/5hiiZ2nNXc"
+            },
+            {
+              "display_url": "pic.x.com/5hiiZ2nNXc",
+              "end": 68,
+              "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+              "media_key": "3_1895287269403303936",
+              "start": 45,
+              "url": "https://t.co/5hiiZ2nNXc"
+            },
+            {
+              "display_url": "pic.x.com/5hiiZ2nNXc",
+              "end": 68,
+              "expanded_url": "https://x.com/bngbng5421/status/1895287334230466838/photo/1",
+              "media_key": "3_1895287269411692545",
+              "start": 45,
+              "url": "https://t.co/5hiiZ2nNXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895287334230466838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 51191,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是饼饼 喜欢我的话就来入我门吧\n目前在找包养和卖处^ω^\n#门槛妹 #门槛 #过门 https://t.co/5hiiZ2nNXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 249,
+          "like_count": 1198,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T13:31:14.000Z",
+        "description": "🚪50/99/388/520/888/1314 上不封顶 私信只回复口令 不过门咨询线下不回 防炸号会一周清一次转",
+        "id": "1894741935228850176",
+        "location": "坐标湖南 包车马可全国 验证10r",
+        "name": "饼饼",
+        "pinned_tweet_id": "1895287334230466838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894754643781332992/AFF_00fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 31,
+          "like_count": 815,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 582
+        },
+        "username": "bngbng5421",
+        "verified": false
+      }
+    ]
+  }
+}

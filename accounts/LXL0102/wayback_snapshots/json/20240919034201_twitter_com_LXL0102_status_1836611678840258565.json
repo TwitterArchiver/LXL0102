@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1836611678840258565",
+    "created_at": "2024-09-19T03:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T04:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836611678840258565"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "浙江"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1835284150280142849",
+          "start": 3,
+          "username": "TutxxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836611678840258565",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835666002253897816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @TutxxF: 哈喽我是小晚\n坐标浙江\n06/163/96/d杯 /辍学 \n主接线下/线上/爸爸活/半绿/非绿 \n可以穿你喜欢的衣服风格来去见您\n过🚪仔细看p1喔\n私信只回复口令红包➕赞赏码\n备注你的v➕口令我会自己来加您\n欢迎女宝找我互fo 互转   #浙江 #线下…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836611678840258565].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836611678840258565",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836611678840258565"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835665988496592896"
+          ]
+        },
+        "author_id": "1835284150280142849",
+        "conversation_id": "1835666002253897816",
+        "created_at": "2024-09-16T13:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835666002253897816"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "浙江"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "线下"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "包养"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "处女"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "求过门"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "金主"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "反差"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "缺钱"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "TAM奴"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0e4pmhkqqn",
+              "end": 190,
+              "expanded_url": "https://twitter.com/TutxxF/status/1835666002253897816/photo/1",
+              "media_key": "3_1835665988496592896",
+              "start": 167,
+              "url": "https://t.co/0E4pmHkQQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835666002253897816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 30748,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 170
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "哈喽我是小晚\n坐标浙江\n06/163/96/d杯 /辍学 \n主接线下/线上/爸爸活/半绿/非绿 \n可以穿你喜欢的衣服风格来去见您\n过🚪仔细看p1喔\n私信只回复口令红包➕赞赏码\n备注你的v➕口令我会自己来加您\n欢迎女宝找我互fo 互转   #浙江 #线下 #包养 #处女 #门槛妹 #求过门 #金主 #反差 #缺钱 #TAM奴 #调教 https://t.co/0E4pmHkQQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyVCrO"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 231,
+          "like_count": 901,
+          "listed_count": 2,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/1gSttyVCrO",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:47:47.000Z",
+        "description": "只回复口令➕赞赏码 关注一下顶置点赞一下谢谢 我也可以验证❌想白嫖的",
+        "id": "1835284150280142849",
+        "name": "睡觉",
+        "pinned_tweet_id": "1835666002253897816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835676045766479872/BQtYcPrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 88,
+          "like_count": 32,
+          "listed_count": 2,
+          "tweet_count": 171
+        },
+        "username": "TutxxF",
+        "verified": false
+      }
+    ]
+  }
+}

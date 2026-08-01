@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1897235545765634341",
+    "created_at": "2025-03-05T12:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T13:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897263491050004761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696148761909874688",
+          "start": 0,
+          "username": "a_lei34534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897263491050004761",
+    "in_reply_to_user_id": "1696148761909874688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897250727363584431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_lei34534 😼😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1897235545765634341",
+        "created_at": "2025-03-05T12:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897263491050004761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696148761909874688",
+              "start": 0,
+              "username": "a_lei34534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897263491050004761",
+        "in_reply_to_user_id": "1696148761909874688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897250727363584431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_lei34534 😼😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696148761909874688",
+        "conversation_id": "1897235545765634341",
+        "created_at": "2025-03-05T11:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897250727363584431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897250727363584431",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897235545765634341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 243,
+          "like_count": 1005,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T13:12:42.000Z",
+        "description": "04|小小作家、诗人，笔名magician zero|🫠诗歌一般会更新在博客上，小说会在AO3和P 站更新|全日制大专|紫砂的时候会吱一声的|负能博客https://t.co/hLgy9rmePC  ， 底下的链接是我更新诗歌的博客",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cancanwode.blogspot.com",
+                "end": 98,
+                "expanded_url": "http://cancanwode.blogspot.com",
+                "start": 75,
+                "url": "https://t.co/hLgy9rmePC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cancanide.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://cancanide.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KhTyhvBuUy"
+              }
+            ]
+          }
+        },
+        "id": "1696148761909874688",
+        "location": "你的心里",
+        "name": "阿尔弗雷德",
+        "pinned_tweet_id": "1811788946487324844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776636768328310784/gtHrFqKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 572,
+          "like_count": 14394,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/KhTyhvBuUy",
+        "username": "a_lei34534",
+        "verified": false
+      }
+    ]
+  }
+}

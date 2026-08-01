@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2019816063211544919",
+    "created_at": "2026-02-08T07:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020403925485277248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988533026670903296",
+          "start": 0,
+          "username": "momo7514884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020403925485277248",
+    "in_reply_to_user_id": "1988533026670903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020366458421932422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo7514884 佛楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2019816063211544919",
+        "created_at": "2026-02-08T07:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020403925485277248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988533026670903296",
+              "start": 0,
+              "username": "momo7514884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020403925485277248",
+        "in_reply_to_user_id": "1988533026670903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020366458421932422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo7514884 佛楼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988533026670903296",
+        "conversation_id": "2019816063211544919",
+        "created_at": "2026-02-08T05:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020366458421932422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020366458421932422",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019816063211544919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 有追蹤了∠( ᐛ 」∠)＿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 344,
+          "like_count": 1680,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 3516
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T09:03:46.000Z",
+        "description": "できるだけ日本語で投稿するように努めます💦 翻訳する使用中 永遠の16y（？ 情緒不安定⚠️ 天馬司夢女子 好意度：桃井愛莉=天馬司＞初音ミク＞天馬咲希 同担✖️同擔✖️ 我不是🏳️‍⚧️喔 只是單純喜歡魚版元素🍥#地雷系女子 #プロセカ #地雷系さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 107,
+                "tag": "地雷系女子"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "tag": "地雷系さんと繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/ashley_o…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/ashley_octopus_0924",
+                "start": 0,
+                "url": "https://t.co/4nRnpeqFGU"
+              }
+            ]
+          }
+        },
+        "id": "1988533026670903296",
+        "location": "東京 新宿区",
+        "name": "みむ（・◇・）",
+        "pinned_tweet_id": "1988950805832147090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017152804666982400/1MFMw93Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 411,
+          "like_count": 5829,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/4nRnpeqFGU",
+        "username": "momo7514884",
+        "verified": false
+      }
+    ]
+  }
+}

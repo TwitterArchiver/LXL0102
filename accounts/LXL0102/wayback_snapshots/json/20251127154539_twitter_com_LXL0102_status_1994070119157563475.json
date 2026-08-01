@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1993988245261296107",
+    "created_at": "2025-11-27T15:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994070119157563475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955428102638800902",
+          "start": 0,
+          "username": "ferret0515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994070119157563475",
+    "in_reply_to_user_id": "1955428102638800902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993988245261296107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ferret0515 我喜欢你，想和你互fo宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1993988245261296107",
+        "created_at": "2025-11-27T15:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994070119157563475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955428102638800902",
+              "start": 0,
+              "username": "ferret0515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994070119157563475",
+        "in_reply_to_user_id": "1955428102638800902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993988245261296107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ferret0515 我喜欢你，想和你互fo宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955428102638800902",
+        "conversation_id": "1993988245261296107",
+        "created_at": "2025-11-27T10:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993988245261296107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993988245261296107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来推就是为了和漂亮女孩们抱团取暖…好喜欢你们…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 270,
+          "like_count": 1501,
+          "listed_count": 5,
+          "media_count": 560,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T00:36:12.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ferret0515",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ferret0515",
+                "start": 0,
+                "url": "https://t.co/SIazH7GNd3"
+              }
+            ]
+          }
+        },
+        "id": "1955428102638800902",
+        "name": "FERRET",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955428909098602498/VyLa6hl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 47,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/SIazH7GNd3",
+        "username": "ferret0515",
+        "verified": false
+      }
+    ]
+  }
+}

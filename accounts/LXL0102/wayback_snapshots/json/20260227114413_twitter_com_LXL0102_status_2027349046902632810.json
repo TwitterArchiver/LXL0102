@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2027274527143866771",
+    "created_at": "2026-02-27T11:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027349046902632810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574300405026017280",
+          "start": 0,
+          "username": "yantanzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027349046902632810",
+    "in_reply_to_user_id": "1574300405026017280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027274527143866771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yantanzhang 觉得不值那可以不加啊，加不要门槛费的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2346,
+        "media_key": "3_2027274465563082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJTYq4bgAAy0DW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2027274527143866771",
+        "created_at": "2026-02-27T11:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027349046902632810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574300405026017280",
+              "start": 0,
+              "username": "yantanzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027349046902632810",
+        "in_reply_to_user_id": "1574300405026017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027274527143866771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yantanzhang 觉得不值那可以不加啊，加不要门槛费的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027274465563082752"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2027274527143866771",
+        "created_at": "2026-02-27T06:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027274527143866771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahoGm1lFbY",
+              "end": 40,
+              "expanded_url": "https://x.com/yantanzhang/status/2027274527143866771/photo/1",
+              "media_key": "3_2027274465563082752",
+              "start": 17,
+              "url": "https://t.co/ahoGm1lFbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027274527143866771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 152907,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 168,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "交300门槛费，你就可以做这些事 https://t.co/ahoGm1lFbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 368,
+          "like_count": 1767,
+          "listed_count": 5,
+          "media_count": 639,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43320,
+          "following_count": 264,
+          "like_count": 2359,
+          "listed_count": 122,
+          "media_count": 3528,
+          "tweet_count": 4175
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

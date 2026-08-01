@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938510339790032896",
+        "3_1938510339831959553",
+        "3_1938510339789963264",
+        "3_1938510339785826304"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1938510360287580588",
+    "created_at": "2025-06-27T08:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938510360287580588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/svO3flqbUj",
+          "end": 172,
+          "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+          "media_key": "3_1938510339790032896",
+          "start": 149,
+          "url": "https://t.co/svO3flqbUj"
+        },
+        {
+          "display_url": "pic.x.com/svO3flqbUj",
+          "end": 172,
+          "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+          "media_key": "3_1938510339831959553",
+          "start": 149,
+          "url": "https://t.co/svO3flqbUj"
+        },
+        {
+          "display_url": "pic.x.com/svO3flqbUj",
+          "end": 172,
+          "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+          "media_key": "3_1938510339789963264",
+          "start": 149,
+          "url": "https://t.co/svO3flqbUj"
+        },
+        {
+          "display_url": "pic.x.com/svO3flqbUj",
+          "end": 172,
+          "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+          "media_key": "3_1938510339785826304",
+          "start": 149,
+          "url": "https://t.co/svO3flqbUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938510360287580588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会出现：\n恋爱日常／自伤／擦边／od／不良言论 https://t.co/svO3flqbUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938510339790032896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iSbUAASDsT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938510339831959553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44icbEAESv7q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938510339789963264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iSaQAAXAWT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938510339785826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gub44iRbIAA-81e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938510339790032896",
+            "3_1938510339831959553",
+            "3_1938510339789963264",
+            "3_1938510339785826304"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938510360287580588",
+        "created_at": "2025-06-27T08:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938510360287580588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339790032896",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339831959553",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339789963264",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            },
+            {
+              "display_url": "pic.x.com/svO3flqbUj",
+              "end": 172,
+              "expanded_url": "https://x.com/LXL0102/status/1938510360287580588/photo/1",
+              "media_key": "3_1938510339785826304",
+              "start": 149,
+              "url": "https://t.co/svO3flqbUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938510360287580588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是离心力😈请不要再恶意举报我，私信互fo大欢迎‼️不爱看就滚\n🈚️🚪不加蝻\n\n神秘学爱好者，从事六年神秘学相关工作，东西玄兼得，女巫一枚，接一些塔罗｜蜡烛｜调频｜通灵等玄学项目\n\n前身餐券妹已脱离苦海😋我很爱我男朋友，发些🔞\n\n我的推文可能会出现：\n恋爱日常／自伤／擦边／od／不良言论 https://t.co/svO3flqbUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938509475922784262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 250,
+          "like_count": 1169,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

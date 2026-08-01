@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1937080128565313974",
+    "created_at": "2025-06-24T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937369718945693865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937369718945693865",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937080128565313974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咋这么糊？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14233,
+        "height": 960,
+        "media_key": "13_1937080036848259072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937080036848259072/img/OF3Pwd8DcFVzT5UP.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937080036848259072/vid/avc1/320x426/ju4XpYdZmz0hyKHs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937080036848259072/vid/avc1/480x640/imwcqStmCyCWsC0D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937080036848259072/vid/avc1/720x960/wb2Tqrh2cezDXOVt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937080036848259072/pl/b7eqAgqSMlF1hS8G.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1937080128565313974",
+        "created_at": "2025-06-24T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937369718945693865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937369718945693865",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937080128565313974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋这么糊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937080036848259072"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1937080128565313974",
+        "created_at": "2025-06-23T09:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937080128565313974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwM7AtLNDY",
+              "end": 37,
+              "expanded_url": "https://x.com/LXL0102/status/1937080128565313974/video/1",
+              "media_key": "13_1937080036848259072",
+              "start": 14,
+              "url": "https://t.co/GwM7AtLNDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937080128565313974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女和我谈恋爱吧求求了🥺 https://t.co/GwM7AtLNDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 250,
+          "like_count": 1167,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

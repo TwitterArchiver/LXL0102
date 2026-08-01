@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002229504065077249"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2002229512193651190",
+    "created_at": "2025-12-20T04:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002229512193651190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5gCnPlcLmr",
+          "end": 33,
+          "expanded_url": "https://x.com/LXL0102/status/2002229512193651190/photo/1",
+          "media_key": "3_2002229504065077249",
+          "start": 10,
+          "url": "https://t.co/5gCnPlcLmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002229512193651190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人咋又把我拉黑了 https://t.co/5gCnPlcLmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002229504065077249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lZICybAAEnTaw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002229504065077249"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2002229512193651190",
+        "created_at": "2025-12-20T04:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002229512193651190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gCnPlcLmr",
+              "end": 33,
+              "expanded_url": "https://x.com/LXL0102/status/2002229512193651190/photo/1",
+              "media_key": "3_2002229504065077249",
+              "start": 10,
+              "url": "https://t.co/5gCnPlcLmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002229512193651190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人咋又把我拉黑了 https://t.co/5gCnPlcLmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 280,
+          "like_count": 1577,
+          "listed_count": 5,
+          "media_count": 586,
+          "tweet_count": 3332
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1890773224721457578",
+    "created_at": "2025-02-15T14:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T15:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890775687813845023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1621449703882895360",
+          "start": 0,
+          "username": "Airtuous"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890775687813845023",
+    "in_reply_to_user_id": "1621449703882895360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890775336620621879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Airtuous 那时我还很年轻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1890773224721457578",
+        "created_at": "2025-02-15T14:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890775687813845023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1621449703882895360",
+              "start": 0,
+              "username": "Airtuous"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890775687813845023",
+        "in_reply_to_user_id": "1621449703882895360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890775336620621879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Airtuous 那时我还很年轻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621449703882895360",
+        "conversation_id": "1890773224721457578",
+        "created_at": "2025-02-15T14:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890775336620621879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890775336620621879",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890774517183611346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 曾经，被迫闻过😭\n要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 234,
+          "like_count": 970,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T10:05:21.000Z",
+        "description": "04年mtf/x  Sugar poisoning patients\n称呼我为air就行 地雷系男娘\n 喜欢的话可以点个关注哟❤️\n互推！ 互转！ 扩列！\nMay your pain come to an end\n（希望世界爆炸版）\n来个老头包养我，想吃次软饭了\n80入🚪",
+        "id": "1621449703882895360",
+        "location": "paradise in illusion",
+        "name": "Air酱的外卖到不了（努力赚钱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839632842109943808/Bu_15k4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 203,
+          "like_count": 1895,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 378
+        },
+        "username": "Airtuous",
+        "verified": false
+      }
+    ]
+  }
+}

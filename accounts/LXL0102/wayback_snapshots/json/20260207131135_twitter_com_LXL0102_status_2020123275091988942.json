@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2019816063211544919",
+    "created_at": "2026-02-07T13:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T14:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020123275091988942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943532006723457026",
+          "start": 0,
+          "username": "zhi96886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020123275091988942",
+    "in_reply_to_user_id": "1943532006723457026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020036987114385780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi96886 宝宝我怎么关注不了你TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2019816063211544919",
+        "created_at": "2026-02-07T13:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020123275091988942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943532006723457026",
+              "start": 0,
+              "username": "zhi96886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020123275091988942",
+        "in_reply_to_user_id": "1943532006723457026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020036987114385780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi96886 宝宝我怎么关注不了你TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943532006723457026",
+        "conversation_id": "2019816063211544919",
+        "created_at": "2026-02-07T07:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020036987114385780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020036987114385780",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019816063211544919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 304,
+          "like_count": 1648,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 3480
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T04:45:24.000Z",
+        "description": "acgn爱好者/支持社会民主主义/反独裁，反共/不理解支黑为什么用“支文”黑支/汉民族主义倾向/不喜欢骂人/粉红支黑滚/对历史感兴趣/反分裂/反激lgbt\n\n/新号，老号去年被反中魔怔人举报封了😭我基本上会回关\n\n如果你友好我就会友好🥰\n🚪:1145141919810😄\n小号:@mmj199747",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1943532006723457026",
+        "location": "永远不会变支黑也不会变成粉红",
+        "name": "知雲(8964)",
+        "pinned_tweet_id": "2002315293876482359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007459610979119104/kXiG7YH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1158,
+          "like_count": 9303,
+          "listed_count": 9,
+          "media_count": 535,
+          "tweet_count": 3709
+        },
+        "username": "zhi96886",
+        "verified": false
+      }
+    ]
+  }
+}

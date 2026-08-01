@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2000553447213642196",
+    "created_at": "2025-12-15T15:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000584609885831648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000584609885831648",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000553447213642196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 对对，特别难受，和夏天完全不一样，夏天超爽，冬天开空调感觉喘不上去气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2000553447213642196",
+        "created_at": "2025-12-15T15:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000584609885831648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000584609885831648",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000553447213642196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 对对，特别难受，和夏天完全不一样，夏天超爽，冬天开空调感觉喘不上去气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "2000553447213642196",
+        "created_at": "2025-12-15T13:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000553447213642196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000553447213642196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吹热空调总有种要生病了的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 274,
+          "like_count": 1513,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 3281
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n不键政不看黄不陪聊不谈恋爱不约炮什么都不做 世界第一纯良喵 粉红（包括网左）和看黄男不要关注 陌生男评论无意义内容直接拉黑\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない\n🚪8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net/?p=193",
+                "end": 23,
+                "expanded_url": "https://roph.net/?p=193",
+                "start": 0,
+                "url": "https://t.co/VZQwwdrL4U"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "ample soul",
+        "name": "mio大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980476132190248960/WvtOG1FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 3917,
+          "like_count": 156938,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 11181
+        },
+        "url": "https://t.co/VZQwwdrL4U",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948697693733486594"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1948697702029746268",
+    "created_at": "2025-07-25T10:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T11:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948697702029746268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sVYfYRfV7A",
+          "end": 40,
+          "expanded_url": "https://x.com/LXL0102/status/1948697702029746268/photo/1",
+          "media_key": "3_1948697693733486594",
+          "start": 17,
+          "url": "https://t.co/sVYfYRfV7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948697702029746268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫给你带来了魔爪，请说谢谢小猫 https://t.co/sVYfYRfV7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_1948697693733486594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsqOlGbgAIFmx9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948697693733486594"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1948697702029746268",
+        "created_at": "2025-07-25T10:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948697702029746268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVYfYRfV7A",
+              "end": 40,
+              "expanded_url": "https://x.com/LXL0102/status/1948697702029746268/photo/1",
+              "media_key": "3_1948697693733486594",
+              "start": 17,
+              "url": "https://t.co/sVYfYRfV7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948697702029746268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫给你带来了魔爪，请说谢谢小猫 https://t.co/sVYfYRfV7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 257,
+          "like_count": 1292,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

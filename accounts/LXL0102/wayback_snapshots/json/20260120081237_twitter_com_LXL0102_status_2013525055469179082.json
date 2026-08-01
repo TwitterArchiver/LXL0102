@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2013220230906990989",
+    "created_at": "2026-01-20T08:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T09:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013525055469179082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734472968473030656",
+          "start": 0,
+          "username": "jiangjiang0821_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013525055469179082",
+    "in_reply_to_user_id": "1734472968473030656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013522376948891805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangjiang0821_ 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2013220230906990989",
+        "created_at": "2026-01-20T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013525055469179082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734472968473030656",
+              "start": 0,
+              "username": "jiangjiang0821_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013525055469179082",
+        "in_reply_to_user_id": "1734472968473030656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013522376948891805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangjiang0821_ 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734472968473030656",
+        "conversation_id": "2013220230906990989",
+        "created_at": "2026-01-20T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013522376948891805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013522376948891805",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013220230906990989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 我要看！我最爱看vlog了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 278,
+          "like_count": 1629,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T07:19:25.000Z",
+        "description": "全是转发｜到处评论｜喜欢我可以找我玩^ω^互fo的宝宝给我发个消息哦~(*ﾟ∀ﾟ*)｜想环游世界🌏 ｜养了九只猫",
+        "id": "1734472968473030656",
+        "name": "𝑮𝒊𝒊𝒏𝒈𝒆𝒓🐾",
+        "pinned_tweet_id": "2005980549777912078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986102852574670848/5mc4avxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 147,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1458
+        },
+        "username": "jiangjiang0821_",
+        "verified": false
+      }
+    ]
+  }
+}

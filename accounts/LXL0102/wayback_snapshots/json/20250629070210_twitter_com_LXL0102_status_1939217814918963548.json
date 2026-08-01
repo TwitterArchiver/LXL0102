@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1939217814918963548",
+    "created_at": "2025-06-29T07:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T08:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939217814918963548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1330592424469671937",
+          "start": 3,
+          "username": "budinglaile1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939217814918963548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937468390148588027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @budinglaile1: hello @我是布丁                                              \n06年｜167cm｜45kg                                           \n喜欢我的宝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1937468381931929606",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNFOmyagAY5noE.jpg",
+        "width": 1281
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937468381931929604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNFOmyagAQOCF4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1939217814918963548",
+        "created_at": "2025-06-29T07:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939217814918963548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1330592424469671937",
+              "start": 3,
+              "username": "budinglaile1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939217814918963548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937468390148588027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @budinglaile1: hello @我是布丁                                              \n06年｜167cm｜45kg                                           \n喜欢我的宝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937468381931929606",
+            "3_1937468381931929604"
+          ]
+        },
+        "author_id": "1330592424469671937",
+        "conversation_id": "1937468390148588027",
+        "created_at": "2025-06-24T11:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937468390148588027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "门槛"
+            },
+            {
+              "end": 172,
+              "start": 167,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 176,
+              "start": 173,
+              "tag": "女高"
+            },
+            {
+              "end": 180,
+              "start": 177,
+              "tag": "线下"
+            },
+            {
+              "end": 184,
+              "start": 181,
+              "tag": "反差"
+            },
+            {
+              "end": 188,
+              "start": 185,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlVDBtQGh0",
+              "end": 212,
+              "expanded_url": "https://x.com/budinglaile1/status/1937468390148588027/photo/1",
+              "media_key": "3_1937468381931929606",
+              "start": 189,
+              "url": "https://t.co/PlVDBtQGh0"
+            },
+            {
+              "display_url": "pic.x.com/PlVDBtQGh0",
+              "end": 212,
+              "expanded_url": "https://x.com/budinglaile1/status/1937468390148588027/photo/1",
+              "media_key": "3_1937468381931929604",
+              "start": 189,
+              "url": "https://t.co/PlVDBtQGh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937468390148588027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15738,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "hello @我是布丁                                              \n06年｜167cm｜45kg                                           \n喜欢我的宝宝欢迎入🚪\n喜欢直接发口令投喂我💖\n转世重生寻找前世fo\n欢迎小女孩找我互转互fo #门槛 #金主爸爸 #女高 #线下 #反差 #足控 https://t.co/PlVDBtQGh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 253,
+          "like_count": 1185,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 2590
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T19:22:40.000Z",
+        "description": "前世1800fo，转世重生寻找前世fo，感谢您的投喂喵(^w^)❤️问坐标20，支持口令(请带姓)和 u，欢迎宝宝找我互转互fo",
+        "id": "1330592424469671937",
+        "location": "距离你5公里",
+        "name": "布丁",
+        "pinned_tweet_id": "1937468390148588027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937465994345398272/MfI38way_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 8,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 91
+        },
+        "username": "budinglaile1",
+        "verified": false
+      }
+    ]
+  }
+}

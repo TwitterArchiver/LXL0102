@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2011493546503913485",
+    "created_at": "2026-01-15T15:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T16:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011825446552473772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833176965433720832",
+          "start": 0,
+          "username": "hoshinoharu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011825446552473772",
+    "in_reply_to_user_id": "1833176965433720832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011493546503913485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoharu5 他已经把你床当猫砂盆了，因为床上的气味比猫砂盆里的气味强，最好把它关在猫砂盆旁边必须让它进去尿一次它才能记得住，并且可以在网上购买效果够好的除味剂，最好带驱猫效果的，如果以上都做完了他还是在你床上尿那可能就是生病了或者发情期了，如果以上全都做了但是还是尿那么上一次床打一次！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2011493546503913485",
+        "created_at": "2026-01-15T15:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011825446552473772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833176965433720832",
+              "start": 0,
+              "username": "hoshinoharu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011825446552473772",
+        "in_reply_to_user_id": "1833176965433720832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011493546503913485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoharu5 他已经把你床当猫砂盆了，因为床上的气味比猫砂盆里的气味强，最好把它关在猫砂盆旁边必须让它进去尿一次它才能记得住，并且可以在网上购买效果够好的除味剂，最好带驱猫效果的，如果以上都做完了他还是在你床上尿那可能就是生病了或者发情期了，如果以上全都做了但是还是尿那么上一次床打一次！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833176965433720832",
+        "conversation_id": "2011493546503913485",
+        "created_at": "2026-01-14T17:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011493546503913485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011493546503913485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1317,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪咪又尿我床了，我不知道要怎么办了，我昨天才换的床单，为什么一直尿我床，我没有那么多床单换了，被褥已经扔了一条了，好难过，为什么要这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756802104041473/2d8u94Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 277,
+          "like_count": 1591,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T16:13:50.000Z",
+        "description": "⪩ •⩊• ⪨",
+        "id": "1833176965433720832",
+        "location": "地狱驻太平洋大使馆",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956850744730214400/1QCWYf25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 149,
+          "like_count": 3478,
+          "listed_count": 1,
+          "media_count": 828,
+          "tweet_count": 5139
+        },
+        "username": "hoshinoharu5",
+        "verified": false
+      }
+    ]
+  }
+}

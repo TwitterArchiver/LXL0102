@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1776497434514055215",
+    "created_at": "2024-05-27T22:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T23:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795221381111599424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568664451162984449",
+          "start": 0,
+          "username": "LINyu_KouQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795221381111599424",
+    "in_reply_to_user_id": "1568664451162984449",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795149818748112896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINyu_KouQ 不可以呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1776497434514055215",
+        "created_at": "2024-05-27T22:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T23:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795221381111599424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568664451162984449",
+              "start": 0,
+              "username": "LINyu_KouQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795221381111599424",
+        "in_reply_to_user_id": "1568664451162984449",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795149818748112896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINyu_KouQ 不可以呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1568664451162984449",
+        "conversation_id": "1776497434514055215",
+        "created_at": "2024-05-27T17:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T18:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795149818748112896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795149818748112896",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776497434514055215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 小宝国外可以寄吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 213,
+          "like_count": 832,
+          "listed_count": 2,
+          "tweet_count": 1148
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T18:15:31.000Z",
+        "description": "我爱钱钱爱我谁可以给我钱？",
+        "id": "1568664451162984449",
+        "location": "23456",
+        "name": "kvoik",
+        "pinned_tweet_id": "1694872337848435021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777420798422028288/h6eaZ4k6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 26,
+          "like_count": 54,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "LINyu_KouQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2026911700755075398",
+    "created_at": "2026-02-26T15:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027048909315686784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027048909315686784",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026911700755075398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odday_official 沉重悼念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2026911459234447360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEJO67WgAABTXx.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2026911700755075398",
+        "created_at": "2026-02-26T15:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027048909315686784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027048909315686784",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026911700755075398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odday_official 沉重悼念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026911459234447360"
+          ]
+        },
+        "author_id": "1946240021696040961",
+        "conversation_id": "2026911700755075398",
+        "created_at": "2026-02-26T06:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026911700755075398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0U7aF8rKpE",
+              "end": 33,
+              "expanded_url": "https://x.com/odday_official/status/2026911700755075398/photo/1",
+              "media_key": "3_2026911459234447360",
+              "start": 10,
+              "url": "https://t.co/0U7aF8rKpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026911700755075398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2267,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "纪念又一具尸体\n😁 https://t.co/0U7aF8rKpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 369,
+          "like_count": 1770,
+          "listed_count": 5,
+          "media_count": 639,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊\noverdoseに集中しています............",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "http://fayou.club",
+                "start": 0,
+                "url": "https://t.co/C3ImrRev8h"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超法友百科.ver",
+        "pinned_tweet_id": "2026660782596043187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 148,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/C3ImrRev8h",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977680862926745600",
+        "3_1977680862922649600",
+        "3_1977680862918418432",
+        "3_1977680862939418624"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977680885559541959",
+    "created_at": "2025-10-13T10:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T11:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977680885559541959"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "塔罗"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "疗愈"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "灵性"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "星盘"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "八字"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "Wicca"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "威卡"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "西玄"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "东玄"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "草药蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P3jtccTjnL",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+          "media_key": "3_1977680862926745600",
+          "start": 117,
+          "url": "https://t.co/P3jtccTjnL"
+        },
+        {
+          "display_url": "pic.x.com/P3jtccTjnL",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+          "media_key": "3_1977680862922649600",
+          "start": 117,
+          "url": "https://t.co/P3jtccTjnL"
+        },
+        {
+          "display_url": "pic.x.com/P3jtccTjnL",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+          "media_key": "3_1977680862918418432",
+          "start": 117,
+          "url": "https://t.co/P3jtccTjnL"
+        },
+        {
+          "display_url": "pic.x.com/P3jtccTjnL",
+          "end": 140,
+          "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+          "media_key": "3_1977680862939418624",
+          "start": 117,
+          "url": "https://t.co/P3jtccTjnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977680885559541959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔮给你们推一下【双生烛】个人觉得在复合领域和感情升温领域双生烛效果能排进前三😈\n（这个可以让他梦到你哦）\n\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/P3jtccTjnL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1977680862926745600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IiREHWMAA92rQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 778,
+        "media_key": "3_1977680862922649600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IiREGXsAAAi6_.jpg",
+        "width": 977
+      },
+      {
+        "height": 1530,
+        "media_key": "3_1977680862918418432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IiREFXIAAOrFV.jpg",
+        "width": 1050
+      },
+      {
+        "height": 1256,
+        "media_key": "3_1977680862939418624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IiREKXkAA7iyV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977680862926745600",
+            "3_1977680862922649600",
+            "3_1977680862918418432",
+            "3_1977680862939418624"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977680885559541959",
+        "created_at": "2025-10-13T10:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977680885559541959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "塔罗"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "疗愈"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "灵性"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "星盘"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "八字"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "Wicca"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "威卡"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "西玄"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "东玄"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "草药蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3jtccTjnL",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+              "media_key": "3_1977680862926745600",
+              "start": 117,
+              "url": "https://t.co/P3jtccTjnL"
+            },
+            {
+              "display_url": "pic.x.com/P3jtccTjnL",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+              "media_key": "3_1977680862922649600",
+              "start": 117,
+              "url": "https://t.co/P3jtccTjnL"
+            },
+            {
+              "display_url": "pic.x.com/P3jtccTjnL",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+              "media_key": "3_1977680862918418432",
+              "start": 117,
+              "url": "https://t.co/P3jtccTjnL"
+            },
+            {
+              "display_url": "pic.x.com/P3jtccTjnL",
+              "end": 140,
+              "expanded_url": "https://x.com/LXL0102/status/1977680885559541959/photo/1",
+              "media_key": "3_1977680862939418624",
+              "start": 117,
+              "url": "https://t.co/P3jtccTjnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977680885559541959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔮给你们推一下【双生烛】个人觉得在复合领域和感情升温领域双生烛效果能排进前三😈\n（这个可以让他梦到你哦）\n\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/P3jtccTjnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 262,
+          "like_count": 1407,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 3084
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

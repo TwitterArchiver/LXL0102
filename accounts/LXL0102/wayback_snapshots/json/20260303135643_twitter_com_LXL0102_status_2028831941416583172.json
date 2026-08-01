@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2028420906411004099",
+    "created_at": "2026-03-03T13:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028831941416583172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        },
+        {
+          "end": 22,
+          "id": "2001126017923211265",
+          "start": 15,
+          "username": "prb520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028831941416583172",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028420906411004099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 @prb520 还真是，不过我现在已经离不开喹硫平了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2028420906411004099",
+        "created_at": "2026-03-03T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028831941416583172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            },
+            {
+              "end": 22,
+              "id": "2001126017923211265",
+              "start": 15,
+              "username": "prb520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028831941416583172",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028420906411004099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 @prb520 还真是，不过我现在已经离不开喹硫平了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2028420906411004099",
+        "created_at": "2026-03-02T10:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028420906411004099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028420906411004099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 156035,
+          "like_count": 1278,
+          "quote_count": 12,
+          "reply_count": 44,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 367,
+          "like_count": 1783,
+          "listed_count": 5,
+          "media_count": 643,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 157,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 139
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T03:03:27.000Z",
+        "description": "od/自伤/互联网蛆虫阳光爬行中",
+        "id": "2001126017923211265",
+        "name": "如痛刺痣",
+        "pinned_tweet_id": "2028311269800038636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025833390528966656/XKSgR4tO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 42,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 182
+        },
+        "username": "prb520",
+        "verified": false
+      }
+    ]
+  }
+}

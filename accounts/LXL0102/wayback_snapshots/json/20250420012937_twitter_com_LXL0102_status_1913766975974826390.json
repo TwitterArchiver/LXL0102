@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913766966587973632",
+        "3_1913766966608961536"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1913766975974826390",
+    "created_at": "2025-04-20T01:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T02:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913766975974826390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "西玄"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "东玄"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "草药蜡烛"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "显化"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "疗愈"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "神秘学"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "占卜"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "塔罗"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "通灵"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "调频"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "读心"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "灵性"
+        },
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "巫毒娃娃"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6N6MWdYj7",
+          "end": 121,
+          "expanded_url": "https://x.com/LXL0102/status/1913766975974826390/photo/1",
+          "media_key": "3_1913766966587973632",
+          "start": 98,
+          "url": "https://t.co/Z6N6MWdYj7"
+        },
+        {
+          "display_url": "pic.x.com/Z6N6MWdYj7",
+          "end": 121,
+          "expanded_url": "https://x.com/LXL0102/status/1913766975974826390/photo/1",
+          "media_key": "3_1913766966608961536",
+          "start": 98,
+          "url": "https://t.co/Z6N6MWdYj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913766975974826390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "‼️【巫毒娃娃&amp;九尾狐媚心反馈】\n你动作太快了姐！！！\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 #巫毒娃娃 https://t.co/Z6N6MWdYj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_1913766966587973632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go8Q6qJaYAADMqN.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1445,
+        "media_key": "3_1913766966608961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go8Q6qOaoAAHR7z.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913766966587973632",
+            "3_1913766966608961536"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "1913766975974826390",
+        "created_at": "2025-04-20T01:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T02:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913766975974826390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "西玄"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "东玄"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "草药蜡烛"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "显化"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "疗愈"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "神秘学"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "占卜"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "塔罗"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "通灵"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "调频"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "读心"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "灵性"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "巫毒娃娃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6N6MWdYj7",
+              "end": 121,
+              "expanded_url": "https://x.com/LXL0102/status/1913766975974826390/photo/1",
+              "media_key": "3_1913766966587973632",
+              "start": 98,
+              "url": "https://t.co/Z6N6MWdYj7"
+            },
+            {
+              "display_url": "pic.x.com/Z6N6MWdYj7",
+              "end": 121,
+              "expanded_url": "https://x.com/LXL0102/status/1913766975974826390/photo/1",
+              "media_key": "3_1913766966608961536",
+              "start": 98,
+              "url": "https://t.co/Z6N6MWdYj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913766975974826390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "‼️【巫毒娃娃&amp;九尾狐媚心反馈】\n你动作太快了姐！！！\n\n#西玄  #东玄  #魔法蜡烛 #草药蜡烛 #显化 #疗愈 #神秘学 #占卜 #塔罗 #通灵 #调频 #读心 #灵性 #巫毒娃娃 https://t.co/Z6N6MWdYj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 243,
+          "like_count": 1037,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

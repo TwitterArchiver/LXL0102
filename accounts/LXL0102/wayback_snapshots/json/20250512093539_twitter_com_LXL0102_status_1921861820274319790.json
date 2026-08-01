@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1921854351359738146",
+    "created_at": "2025-05-12T09:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T10:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921861820274319790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812152402948096001",
+          "start": 0,
+          "username": "rei_himeri8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921861820274319790",
+    "in_reply_to_user_id": "1812152402948096001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921861655593406857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_himeri8964 不用继续了，比你长得好看已胜过千言万语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1921854351359738146",
+        "created_at": "2025-05-12T09:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T10:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921861820274319790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812152402948096001",
+              "start": 0,
+              "username": "rei_himeri8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921861820274319790",
+        "in_reply_to_user_id": "1812152402948096001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921861655593406857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_himeri8964 不用继续了，比你长得好看已胜过千言万语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812152402948096001",
+        "conversation_id": "1921854351359738146",
+        "created_at": "2025-05-12T09:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T10:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921861655593406857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921861655593406857",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921861514849386518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 宝字你认真的？那你继续吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 245,
+          "like_count": 1065,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T15:49:45.000Z",
+        "description": "心は言葉を失くして，感じられるは愛だけ@meta8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "meta8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himeri8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himeri8964",
+                "start": 0,
+                "url": "https://t.co/Y2n8uiqIfm"
+              }
+            ]
+          }
+        },
+        "id": "1812152402948096001",
+        "location": "🚪28仅好友 男的不过门不要给我发任何私信",
+        "name": "水無 呪",
+        "pinned_tweet_id": "1920234020299837784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920213664239661062/fRqucaq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 289,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/Y2n8uiqIfm",
+        "username": "rei_himeri8964",
+        "verified": false
+      }
+    ]
+  }
+}

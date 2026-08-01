@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1896108277689434141",
+    "created_at": "2025-03-03T07:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T08:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896467635250012404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1738035209755664384",
+          "start": 0,
+          "username": "chemy_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896467635250012404",
+    "in_reply_to_user_id": "1738035209755664384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896108277689434141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chemy_05 给我钱，我愿意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1896108277689434141",
+        "created_at": "2025-03-03T07:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T08:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896467635250012404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1738035209755664384",
+              "start": 0,
+              "username": "chemy_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896467635250012404",
+        "in_reply_to_user_id": "1738035209755664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896108277689434141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chemy_05 给我钱，我愿意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738035209755664384",
+        "conversation_id": "1896108277689434141",
+        "created_at": "2025-03-02T08:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896108277689434141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896108277689434141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人跟我做朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 242,
+          "like_count": 1001,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T03:14:28.000Z",
+        "description": "05坐标沪国 日常/负能 不是在想死的路上就是在发文案 玩音游打舞萌 fps 可以找我打游戏出勤 有重焦和双相",
+        "id": "1738035209755664384",
+        "location": "上海",
+        "name": "Chemy 5.0",
+        "pinned_tweet_id": "1796377052486279342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754779854984331264/OY5mjMgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 378,
+          "like_count": 3556,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 536
+        },
+        "username": "chemy_05",
+        "verified": false
+      }
+    ]
+  }
+}

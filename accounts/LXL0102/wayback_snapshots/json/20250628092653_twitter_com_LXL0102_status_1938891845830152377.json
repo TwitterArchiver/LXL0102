@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1938891845830152377",
+    "created_at": "2025-06-28T09:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938891845830152377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938296857916252160",
+          "start": 3,
+          "username": "xiaoyyandyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938891845830152377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938638733936599076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyyandyy: 关于小v的门槛怎么入这件事\n\n🐧➕ 845009121\n\n1.08高中生，给小猫赚点猫粮钱…\n2.入门要考虑好自身情况再入门૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა不是小v自身原因不退款哦\n3.🉑小大额投喂 小v会很开心的\n4.很好说话！但是别太过分（谁给我馒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938638717591396354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudtpG3aoAIqm2O.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1640,
+        "media_key": "3_1938638717587202054",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudtpG2aoAYG6SG.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938638717566230529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudtpGxaoAEPAlA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1938891845830152377",
+        "created_at": "2025-06-28T09:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938891845830152377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938296857916252160",
+              "start": 3,
+              "username": "xiaoyyandyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938891845830152377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938638733936599076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyyandyy: 关于小v的门槛怎么入这件事\n\n🐧➕ 845009121\n\n1.08高中生，给小猫赚点猫粮钱…\n2.入门要考虑好自身情况再入门૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა不是小v自身原因不退款哦\n3.🉑小大额投喂 小v会很开心的\n4.很好说话！但是别太过分（谁给我馒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938638717591396354",
+            "3_1938638717587202054",
+            "3_1938638717566230529"
+          ]
+        },
+        "author_id": "1938296857916252160",
+        "conversation_id": "1938638733936599076",
+        "created_at": "2025-06-27T16:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938638733936599076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/df2A7xRQkx",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaoyyandyy/status/1938638733936599076/photo/1",
+              "media_key": "3_1938638717591396354",
+              "start": 143,
+              "url": "https://t.co/df2A7xRQkx"
+            },
+            {
+              "display_url": "pic.x.com/df2A7xRQkx",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaoyyandyy/status/1938638733936599076/photo/1",
+              "media_key": "3_1938638717587202054",
+              "start": 143,
+              "url": "https://t.co/df2A7xRQkx"
+            },
+            {
+              "display_url": "pic.x.com/df2A7xRQkx",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaoyyandyy/status/1938638733936599076/photo/1",
+              "media_key": "3_1938638717566230529",
+              "start": 143,
+              "url": "https://t.co/df2A7xRQkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938638733936599076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "关于小v的门槛怎么入这件事\n\n🐧➕ 845009121\n\n1.08高中生，给小猫赚点猫粮钱…\n2.入门要考虑好自身情况再入门૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა不是小v自身原因不退款哦\n3.🉑小大额投喂 小v会很开心的\n4.很好说话！但是别太过分（谁给我馒头谁给我拳头，我记得清清楚楚）•˶ɞ˶• https://t.co/df2A7xRQkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 252,
+          "like_count": 1179,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T18:02:54.000Z",
+        "description": "૮₍◜ෆ◝.₎ა喜欢我的入口令 ｜88🚪/128🚪/258🚪/520🚪/1314🚪｜宝宝们可以找我互转互fo｜坐标20r｜验证30r",
+        "id": "1938296857916252160",
+        "name": "如果萌是种天赋",
+        "pinned_tweet_id": "1938638733936599076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938363076283404290/Q5LP96kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "xiaoyyandyy",
+        "verified": false
+      }
+    ]
+  }
+}

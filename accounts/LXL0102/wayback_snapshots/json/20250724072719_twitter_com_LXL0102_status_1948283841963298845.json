@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1948283841963298845",
+    "created_at": "2025-07-24T07:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T08:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948283841963298845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948283841963298845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现我高中时期受到了很隐秘的校园霸凌，因为不上晚自习每天早上来不是椅子没了就是桌子没了，用完我的东西不提永远都不还给我，每次考完试都会少几本书（同学的书没了因为我的成绩差所以同学会觉得没书上课也无所谓，所以书被他们“借走”了）。🙂‍↕️🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1948283841963298845",
+        "created_at": "2025-07-24T07:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T08:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948283841963298845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948283841963298845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我高中时期受到了很隐秘的校园霸凌，因为不上晚自习每天早上来不是椅子没了就是桌子没了，用完我的东西不提永远都不还给我，每次考完试都会少几本书（同学的书没了因为我的成绩差所以同学会觉得没书上课也无所谓，所以书被他们“借走”了）。🙂‍↕️🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 257,
+          "like_count": 1264,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

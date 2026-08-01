@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1795489884020552167",
+    "created_at": "2024-05-29T12:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T13:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795792987428942269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795792987428942269",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795489884020552167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 太棒了宝宝，都为你骄傲🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1795489884020552167",
+        "created_at": "2024-05-29T12:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795792987428942269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795792987428942269",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795489884020552167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 太棒了宝宝，都为你骄傲🥹"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795489874197532672"
+          ]
+        },
+        "author_id": "1651352228936941568",
+        "conversation_id": "1795489884020552167",
+        "created_at": "2024-05-28T16:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T17:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795489884020552167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/45SK1iROeB",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Arockandrew/status/1795489884020552167/photo/1",
+              "media_key": "3_1795489874197532672",
+              "start": 142,
+              "url": "https://t.co/45SK1iROeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795489884020552167",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1072,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24岁的主题是孤独和变化，不过我的生活主基调一直是孤独的，24岁我完成了硕士的学业，并且拿到了最高学位的荣誉，把这段心血来潮的求学生涯做了个好的结果，工作找到了一个薪水不错我可以很长时间独自研究的岗位，除了过于清闲没有什么不希望我的25岁生活可以变好，也摆脱孤独这件事。附年度照片。 https://t.co/45SK1iROeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 213,
+          "like_count": 837,
+          "listed_count": 2,
+          "tweet_count": 1160
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。",
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1655879257246113794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 347,
+          "like_count": 15769,
+          "listed_count": 5,
+          "tweet_count": 6884
+        },
+        "username": "Arockandrew",
+        "verified": false
+      }
+    ]
+  }
+}

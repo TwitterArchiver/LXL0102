@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1802593997552021711",
+    "created_at": "2024-06-18T11:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T12:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803024403174993993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731575251710988288",
+          "start": 0,
+          "username": "zxdsa159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803024403174993993",
+    "in_reply_to_user_id": "1731575251710988288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802593997552021711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxdsa159 要充钱吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1802593997552021711",
+        "created_at": "2024-06-18T11:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803024403174993993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731575251710988288",
+              "start": 0,
+              "username": "zxdsa159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803024403174993993",
+        "in_reply_to_user_id": "1731575251710988288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802593997552021711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxdsa159 要充钱吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802593991252221952"
+          ]
+        },
+        "author_id": "1731575251710988288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1802593997552021711",
+        "created_at": "2024-06-17T06:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T07:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802593997552021711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mGl4BFMBrx",
+              "end": 163,
+              "expanded_url": "https://twitter.com/zxdsa159/status/1802593997552021711/photo/1",
+              "media_key": "3_1802593991252221952",
+              "start": 140,
+              "url": "https://t.co/mGl4BFMBrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802593997552021711",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 34693,
+          "like_count": 339,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "推荐控制欲强的dom或者异地情侣可以试试用这个增加情趣，对方的实时位置和停留时间都能知道并且如果设定一个地址，每次对方到达那个地址你都会收到消息提示，还有对方的手机电量也能看见，甚至低于百分之二十会告诉你对方手机该充电了，当时知道这app的时候我就在想这什么绝佳控制play啊🤓 https://t.co/mGl4BFMBrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️",
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ ​​外烟代购",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 214,
+          "like_count": 845,
+          "listed_count": 2,
+          "tweet_count": 1255
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T07:25:11.000Z",
+        "description": "一个4i女的碎碎念｜有时差｜04｜enfp｜我纯攻！纯得不能再纯了！不互！｜我写的字都是发疯幻想文学，学习越累发疯越频繁，我都发疯了你就让让我吧",
+        "id": "1731575251710988288",
+        "location": "财神爷钱袋子里",
+        "name": "火锅底料.",
+        "pinned_tweet_id": "1782751473178181632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769043920036536324/MZHFhEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 282,
+          "like_count": 1475,
+          "listed_count": 3,
+          "tweet_count": 610
+        },
+        "username": "zxdsa159",
+        "verified": false
+      }
+    ]
+  }
+}

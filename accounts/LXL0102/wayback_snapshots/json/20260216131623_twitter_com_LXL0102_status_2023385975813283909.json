@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2023251762069885091",
+    "created_at": "2026-02-16T13:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023385975813283909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020401483116867587",
+          "start": 0,
+          "username": "Yhlittlesoldxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023385975813283909",
+    "in_reply_to_user_id": "2020401483116867587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023383591762456741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yhlittlesoldxx 对呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2023251762069885091",
+        "created_at": "2026-02-16T13:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023385975813283909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020401483116867587",
+              "start": 0,
+              "username": "Yhlittlesoldxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023385975813283909",
+        "in_reply_to_user_id": "2020401483116867587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023383591762456741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yhlittlesoldxx 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020401483116867587",
+        "conversation_id": "2023251762069885091",
+        "created_at": "2026-02-16T13:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023383591762456741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023383591762456741",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023251762069885091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 你这不纯引战博流量吗 自以为中心的去抨击其他人来满足自己的内心？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 355,
+          "like_count": 1730,
+          "listed_count": 5,
+          "media_count": 621,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T07:37:16.000Z",
+        "description": "你知道的我不喜欢你骗我 树洞 https://t.co/bBUCitVDNX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yhlittlesoldxx",
+                "end": 38,
+                "expanded_url": "https://ngl.link/yhlittlesoldxx",
+                "start": 15,
+                "url": "https://t.co/bBUCitVDNX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yhlittlesoldxx",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yhlittlesoldxx",
+                "start": 0,
+                "url": "https://t.co/bBUCitVDNX"
+              }
+            ]
+          }
+        },
+        "id": "2020401483116867587",
+        "name": "Ylol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021561140996886528/dMVjJNxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/bBUCitVDNX",
+        "username": "Yhlittlesoldxx",
+        "verified": false
+      }
+    ]
+  }
+}

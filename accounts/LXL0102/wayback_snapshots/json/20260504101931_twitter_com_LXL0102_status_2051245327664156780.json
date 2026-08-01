@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051245321909682176"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2051245327664156780",
+    "created_at": "2026-05-04T10:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051245327664156780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uBBiTsacOI",
+          "end": 31,
+          "expanded_url": "https://x.com/LXL0102/status/2051245327664156780/photo/1",
+          "media_key": "3_2051245321909682176",
+          "start": 8,
+          "url": "https://t.co/uBBiTsacOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051245327664156780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明说好戒了的 https://t.co/uBBiTsacOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051245321909682176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd8wJebwAAOTZD.jpg",
+        "width": 1801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051245321909682176"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2051245327664156780",
+        "created_at": "2026-05-04T10:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051245327664156780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBBiTsacOI",
+              "end": 31,
+              "expanded_url": "https://x.com/LXL0102/status/2051245327664156780/photo/1",
+              "media_key": "3_2051245321909682176",
+              "start": 8,
+              "url": "https://t.co/uBBiTsacOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051245327664156780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明说好戒了的 https://t.co/uBBiTsacOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 374,
+          "like_count": 1756,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

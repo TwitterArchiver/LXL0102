@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2022727470613696957",
+    "created_at": "2026-02-16T06:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023287074741449031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555680467797430272",
+          "start": 0,
+          "username": "Yoz81516869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023287074741449031",
+    "in_reply_to_user_id": "1555680467797430272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022896980482310655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoz81516869 我这tg上刷到你全家乱伦的视频了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2022727470613696957",
+        "created_at": "2026-02-16T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023287074741449031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555680467797430272",
+              "start": 0,
+              "username": "Yoz81516869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023287074741449031",
+        "in_reply_to_user_id": "1555680467797430272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022896980482310655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoz81516869 我这tg上刷到你全家乱伦的视频了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555680467797430272",
+        "conversation_id": "2022727470613696957",
+        "created_at": "2026-02-15T04:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022896980482310655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022896980482310655",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1085,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022727470613696957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 你妈跟你双飞多少钱一晚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 354,
+          "like_count": 1719,
+          "listed_count": 5,
+          "media_count": 619,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T22:21:59.000Z",
+        "description": "",
+        "id": "1555680467797430272",
+        "name": "高市早苗爱上习近平 难解难分的爱恋 命中注定的两人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017879672160456704/PIqK16dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 120,
+          "like_count": 2586,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 361
+        },
+        "username": "Yoz81516869",
+        "verified": false
+      }
+    ]
+  }
+}

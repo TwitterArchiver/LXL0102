@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063882513202970624",
+        "3_2063882513211383808"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "2063882517980360811",
+    "created_at": "2026-06-08T07:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063882517980360811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "西玄"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "威卡"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "草药蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhdYNuRc6T",
+          "end": 97,
+          "expanded_url": "https://x.com/LXL0102/status/2063882517980360811/photo/1",
+          "media_key": "3_2063882513202970624",
+          "start": 74,
+          "url": "https://t.co/GhdYNuRc6T"
+        },
+        {
+          "display_url": "pic.x.com/GhdYNuRc6T",
+          "end": 97,
+          "expanded_url": "https://x.com/LXL0102/status/2063882517980360811/photo/1",
+          "media_key": "3_2063882513211383808",
+          "start": 74,
+          "url": "https://t.co/GhdYNuRc6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063882517980360811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🈺【618活动来袭！！】\n不用拼团，下单即打93折\n并且任意蜡烛➕60💰包邮送精油（可选功效）\n#西玄 #威卡 #魔法蜡烛 #魔法仪式 #草药蜡烛 https://t.co/GhdYNuRc6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063882513202970624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRiNfmagAA3BEL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063882513211383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRiNfoa4AAfsls.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063882513202970624",
+            "3_2063882513211383808"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2063882517980360811",
+        "created_at": "2026-06-08T07:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063882517980360811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "西玄"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "威卡"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "草药蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhdYNuRc6T",
+              "end": 97,
+              "expanded_url": "https://x.com/LXL0102/status/2063882517980360811/photo/1",
+              "media_key": "3_2063882513202970624",
+              "start": 74,
+              "url": "https://t.co/GhdYNuRc6T"
+            },
+            {
+              "display_url": "pic.x.com/GhdYNuRc6T",
+              "end": 97,
+              "expanded_url": "https://x.com/LXL0102/status/2063882517980360811/photo/1",
+              "media_key": "3_2063882513211383808",
+              "start": 74,
+              "url": "https://t.co/GhdYNuRc6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063882517980360811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🈺【618活动来袭！！】\n不用拼团，下单即打93折\n并且任意蜡烛➕60💰包邮送精油（可选功效）\n#西玄 #威卡 #魔法蜡烛 #魔法仪式 #草药蜡烛 https://t.co/GhdYNuRc6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 372,
+          "like_count": 1705,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

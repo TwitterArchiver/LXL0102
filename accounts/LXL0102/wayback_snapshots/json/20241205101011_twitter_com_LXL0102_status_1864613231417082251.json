@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1864610465424490869",
+    "created_at": "2024-12-05T10:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T11:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864613231417082251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733133470447341568",
+          "start": 0,
+          "username": "overclockedQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864613231417082251",
+    "in_reply_to_user_id": "1733133470447341568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864610465424490869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overclockedQWQ mua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1864610465424490869",
+        "created_at": "2024-12-05T10:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T11:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864613231417082251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733133470447341568",
+              "start": 0,
+              "username": "overclockedQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864613231417082251",
+        "in_reply_to_user_id": "1733133470447341568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864610465424490869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overclockedQWQ mua！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864610462769532928"
+          ]
+        },
+        "author_id": "1733133470447341568",
+        "conversation_id": "1864610465424490869",
+        "created_at": "2024-12-05T09:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864610465424490869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arrzBfFmPe",
+              "end": 31,
+              "expanded_url": "https://x.com/overclockedQWQ/status/1864610465424490869/photo/1",
+              "media_key": "3_1864610462769532928",
+              "start": 8,
+              "url": "https://t.co/arrzBfFmPe"
+            },
+            {
+              "display_url": "x.com/LXL0102/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/LXL0102/status/1864307966939419032",
+              "start": 32,
+              "url": "https://t.co/Y3dezANmlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864610465424490869",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864307966939419032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺🥺💕💕💕 https://t.co/arrzBfFmPe https://t.co/Y3dezANmlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 237,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:36:43.000Z",
+        "description": "日常推｜随缘掉落生活照及擦边🥺｜⚠️有血图注意⚠️｜查成分互fo🥺｜喜欢我可以给我打钱😋｜支持口令红包和赞赏码",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/qwqjie…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/qwqjiemo.bsky.social",
+                "start": 0,
+                "url": "https://t.co/5ZHNNnUlrX"
+              }
+            ]
+          }
+        },
+        "id": "1733133470447341568",
+        "location": "鹈鹕镇  哈维的诊所   🚪52/128/288",
+        "name": "✟超频✟",
+        "pinned_tweet_id": "1847336391233196524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821969683945549824/57YmtDed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4373,
+          "following_count": 486,
+          "like_count": 2580,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/5ZHNNnUlrX",
+        "username": "overclockedQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

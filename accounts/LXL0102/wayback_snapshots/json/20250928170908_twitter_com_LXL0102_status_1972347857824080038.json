@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972347848785289216",
+        "3_1972347848793751552"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972347857824080038",
+    "created_at": "2025-09-28T17:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972347857824080038"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "塔罗"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "疗愈"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "灵性"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "星盘"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "八字"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "Wicca"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "威卡"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eJ6pGhv5OA",
+          "end": 92,
+          "expanded_url": "https://x.com/LXL0102/status/1972347857824080038/photo/1",
+          "media_key": "3_1972347848785289216",
+          "start": 69,
+          "url": "https://t.co/eJ6pGhv5OA"
+        },
+        {
+          "display_url": "pic.x.com/eJ6pGhv5OA",
+          "end": 92,
+          "expanded_url": "https://x.com/LXL0102/status/1972347857824080038/photo/1",
+          "media_key": "3_1972347848793751552",
+          "start": 69,
+          "url": "https://t.co/eJ6pGhv5OA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972347857824080038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发些仪式和蜡烛的图片，以防说我是骗子🥲\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡 https://t.co/eJ6pGhv5OA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972347848785289216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18v6yRaYAAF5Cj.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972347848793751552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18v6yTbgAAuKh4.jpg",
+        "width": 170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972347848785289216",
+            "3_1972347848793751552"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972347857824080038",
+        "created_at": "2025-09-28T17:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972347857824080038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "塔罗"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "疗愈"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "灵性"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "星盘"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "八字"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "Wicca"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "威卡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ6pGhv5OA",
+              "end": 92,
+              "expanded_url": "https://x.com/LXL0102/status/1972347857824080038/photo/1",
+              "media_key": "3_1972347848785289216",
+              "start": 69,
+              "url": "https://t.co/eJ6pGhv5OA"
+            },
+            {
+              "display_url": "pic.x.com/eJ6pGhv5OA",
+              "end": 92,
+              "expanded_url": "https://x.com/LXL0102/status/1972347857824080038/photo/1",
+              "media_key": "3_1972347848793751552",
+              "start": 69,
+              "url": "https://t.co/eJ6pGhv5OA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972347857824080038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发些仪式和蜡烛的图片，以防说我是骗子🥲\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡 https://t.co/eJ6pGhv5OA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 262,
+          "like_count": 1400,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

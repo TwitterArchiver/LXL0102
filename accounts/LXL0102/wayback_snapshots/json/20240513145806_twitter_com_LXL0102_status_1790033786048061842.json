@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790025590663421952",
+        "3_1790025590663491584"
+      ],
+      "media_source_tweet_id": [
+        "1790025601077625109",
+        "1790025601077625109"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1790033786048061842",
+    "created_at": "2024-05-13T14:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T15:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790033786048061842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680871723326144513",
+          "start": 3,
+          "username": "shitou_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/75HXZDkhUp",
+          "end": 81,
+          "expanded_url": "https://twitter.com/shitou_000/status/1790025601077625109/photo/1",
+          "media_key": "3_1790025590663421952",
+          "start": 58,
+          "url": "https://t.co/75HXZDkhUp"
+        },
+        {
+          "display_url": "pic.twitter.com/75HXZDkhUp",
+          "end": 81,
+          "expanded_url": "https://twitter.com/shitou_000/status/1790025601077625109/photo/1",
+          "media_key": "3_1790025590663491584",
+          "start": 58,
+          "url": "https://t.co/75HXZDkhUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790033786048061842",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790025601077625109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitou_000: 🔝\n一个置顶\n已经佛系上推了🏳️🏳️\n小女孩们快来和我互fo呀🤍🤍🤲🏻\n同担大欢迎 https://t.co/75HXZDkhUp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790033786048061842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790033786048061842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790033786048061842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1790025590663421952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNdyym5aIAApdAj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1790025590663491584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNdyym5bMAAdeLF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790025590663421952",
+            "3_1790025590663491584"
+          ]
+        },
+        "author_id": "1680871723326144513",
+        "conversation_id": "1790025601077625109",
+        "created_at": "2024-05-13T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790025601077625109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/75HXZDkhUp",
+              "end": 65,
+              "expanded_url": "https://twitter.com/shitou_000/status/1790025601077625109/photo/1",
+              "media_key": "3_1790025590663421952",
+              "start": 42,
+              "url": "https://t.co/75HXZDkhUp"
+            },
+            {
+              "display_url": "pic.twitter.com/75HXZDkhUp",
+              "end": 65,
+              "expanded_url": "https://twitter.com/shitou_000/status/1790025601077625109/photo/1",
+              "media_key": "3_1790025590663491584",
+              "start": 42,
+              "url": "https://t.co/75HXZDkhUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790025601077625109",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n一个置顶\n已经佛系上推了🏳️🏳️\n小女孩们快来和我互fo呀🤍🤍🤲🏻\n同担大欢迎 https://t.co/75HXZDkhUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "离心力3.0版，我认输了请别再举报我，非常感谢您‖INFP‖过激发言‖ ENGLISH OK ‖日本語（A little） ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟） ‖我不是黄推，傻逼全滚‼️外烟购买点击https://t.co/1gSttyWahm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 135,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 112,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置52¥",
+        "name": "ʚ离心力ɞʕ̯•͡ˑ͓•̯᷅ʔ ​​​3.0",
+        "pinned_tweet_id": "1742864038747664507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 200,
+          "like_count": 826,
+          "listed_count": 2,
+          "tweet_count": 1076
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T09:27:16.000Z",
+        "description": "🤍春野樱🤍女角色全肯定 女孩子直fo会回",
+        "id": "1680871723326144513",
+        "location": "Sakura心里",
+        "name": "ishiiiii",
+        "pinned_tweet_id": "1790025601077625109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790027505170284544/IzkiMa1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 169,
+          "like_count": 172,
+          "listed_count": 2,
+          "tweet_count": 722
+        },
+        "username": "shitou_000",
+        "verified": false
+      }
+    ]
+  }
+}

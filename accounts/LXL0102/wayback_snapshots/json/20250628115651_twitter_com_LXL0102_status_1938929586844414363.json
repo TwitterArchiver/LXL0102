@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936461443081101313",
+        "3_1936461443173425153",
+        "3_1936461442938802176",
+        "13_1936461442993303552"
+      ],
+      "media_source_tweet_id": [
+        "1936461744681160998",
+        "1936461744681160998",
+        "1936461744681160998",
+        "1936461744681160998"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "conversation_id": "1938929586844414363",
+    "created_at": "2025-06-28T11:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938929586844414363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "包养"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "图包"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "女大学生"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1936460417884377088",
+          "start": 3,
+          "username": "WeiTang91573"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y3FWnxghXB",
+          "end": 137,
+          "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+          "media_key": "3_1936461443081101313",
+          "start": 114,
+          "url": "https://t.co/y3FWnxghXB"
+        },
+        {
+          "display_url": "pic.x.com/y3FWnxghXB",
+          "end": 137,
+          "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+          "media_key": "3_1936461443173425153",
+          "start": 114,
+          "url": "https://t.co/y3FWnxghXB"
+        },
+        {
+          "display_url": "pic.x.com/y3FWnxghXB",
+          "end": 137,
+          "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+          "media_key": "3_1936461442938802176",
+          "start": 114,
+          "url": "https://t.co/y3FWnxghXB"
+        },
+        {
+          "display_url": "pic.x.com/y3FWnxghXB",
+          "end": 137,
+          "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+          "media_key": "13_1936461442993303552",
+          "start": 114,
+          "url": "https://t.co/y3FWnxghXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938929586844414363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936461744681160998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @WeiTang91573: 验证20 问价格定位10\n🚪200➕v聊天 图包 陪玩\n300线下\n400含上所有➕远程操控➕主动聊天➕偶尔打视频\n520 电子女友\n1500可非绿一小时\n#包养 #图包 #女大学生 #非绿 https://t.co/y3FWnxghXB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938929586844414363].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938929586844414363",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938929586844414363"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_1936461443081101313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-xbDQW4AECdTb.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1936461443173425153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-xbDmXoAESyAu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 774,
+        "media_key": "3_1936461442938802176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-xbCubkAA4ass.jpg",
+        "width": 656
+      },
+      {
+        "duration_ms": 10169,
+        "height": 1280,
+        "media_key": "13_1936461442993303552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936461442993303552/img/UzD_fo6J9L6lgzmd.jpg",
+        "public_metrics": {
+          "view_count": 2979
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461442993303552/vid/avc1/320x568/1NACELX8vA23CTUT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461442993303552/vid/avc1/480x852/dywk2PuCSmH98WUk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461442993303552/vid/avc1/720x1280/xHMkzKoW7HkZJUzp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936461442993303552/pl/zWKupr0rAohTHnhV.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936461443081101313",
+            "3_1936461443173425153",
+            "3_1936461442938802176",
+            "13_1936461442993303552"
+          ]
+        },
+        "author_id": "1936460417884377088",
+        "conversation_id": "1936461744681160998",
+        "created_at": "2025-06-21T16:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936461744681160998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "包养"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "图包"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "女大学生"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3FWnxghXB",
+              "end": 119,
+              "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+              "media_key": "3_1936461443081101313",
+              "start": 96,
+              "url": "https://t.co/y3FWnxghXB"
+            },
+            {
+              "display_url": "pic.x.com/y3FWnxghXB",
+              "end": 119,
+              "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+              "media_key": "3_1936461443173425153",
+              "start": 96,
+              "url": "https://t.co/y3FWnxghXB"
+            },
+            {
+              "display_url": "pic.x.com/y3FWnxghXB",
+              "end": 119,
+              "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+              "media_key": "3_1936461442938802176",
+              "start": 96,
+              "url": "https://t.co/y3FWnxghXB"
+            },
+            {
+              "display_url": "pic.x.com/y3FWnxghXB",
+              "end": 119,
+              "expanded_url": "https://x.com/WeiTang91573/status/1936461744681160998/video/1",
+              "media_key": "13_1936461442993303552",
+              "start": 96,
+              "url": "https://t.co/y3FWnxghXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936461744681160998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10314,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "verified",
+        "text": "验证20 问价格定位10\n🚪200➕v聊天 图包 陪玩\n300线下\n400含上所有➕远程操控➕主动聊天➕偶尔打视频\n520 电子女友\n1500可非绿一小时\n#包养 #图包 #女大学生 #非绿 https://t.co/y3FWnxghXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业女巫🔮六年经验】我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎 ｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 252,
+          "like_count": 1179,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T16:25:25.000Z",
+        "description": "🚪200/400/520",
+        "id": "1936460417884377088",
+        "name": "唐唯",
+        "pinned_tweet_id": "1936461744681160998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936460685258690560/9tuARXS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 25,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "WeiTang91573",
+        "verified": false
+      }
+    ]
+  }
+}

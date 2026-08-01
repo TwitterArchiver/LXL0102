@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "2080955233166082395",
+    "created_at": "2026-07-25T12:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080997712565301381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1175091488436285440",
+          "start": 0,
+          "username": "Seo4everwon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080997712565301381",
+    "in_reply_to_user_id": "1175091488436285440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080996986027946072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seo4everwon 行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080955233166082395",
+        "created_at": "2026-07-25T12:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080997712565301381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1175091488436285440",
+              "start": 0,
+              "username": "Seo4everwon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080997712565301381",
+        "in_reply_to_user_id": "1175091488436285440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080996986027946072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seo4everwon 行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1175091488436285440",
+        "conversation_id": "2080955233166082395",
+        "created_at": "2026-07-25T12:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080996986027946072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080996986027946072",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080955233166082395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 妈妈 万达广场见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 375,
+          "like_count": 1692,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-20T16:57:06.000Z",
+        "description": "박지원＆젼랑단｜E:U STAN｜한국의 예비 유학생:TOPIK 준비 중",
+        "id": "1175091488436285440",
+        "location": "奇迹大陆",
+        "name": "Seo｜🦋",
+        "pinned_tweet_id": "1959911476396970008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080512645015416832/EKKLASja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 206,
+          "like_count": 1825,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "Seo4everwon",
+        "verified": false
+      }
+    ]
+  }
+}

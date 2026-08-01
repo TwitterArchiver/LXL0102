@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1819238853192175948",
+    "created_at": "2024-08-03T11:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T12:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819690448165961835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596444634787741697",
+          "start": 0,
+          "username": "tttakecareofme"
+        },
+        {
+          "end": 25,
+          "id": "1419377998269087746",
+          "start": 16,
+          "username": "0oCH3No0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819690448165961835",
+    "in_reply_to_user_id": "1596444634787741697",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819250139477037127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttakecareofme @0oCH3No0 好臭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1819238853192175948",
+        "created_at": "2024-08-03T11:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T12:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819690448165961835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596444634787741697",
+              "start": 0,
+              "username": "tttakecareofme"
+            },
+            {
+              "end": 25,
+              "id": "1419377998269087746",
+              "start": 16,
+              "username": "0oCH3No0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819690448165961835",
+        "in_reply_to_user_id": "1596444634787741697",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819250139477037127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttakecareofme @0oCH3No0 好臭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819250117394026500"
+          ]
+        },
+        "author_id": "1596444634787741697",
+        "conversation_id": "1819238853192175948",
+        "created_at": "2024-08-02T05:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T06:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819250139477037127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419377998269087746",
+              "start": 0,
+              "username": "0oCH3No0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9IOXE7PZju",
+              "end": 36,
+              "expanded_url": "https://twitter.com/tttakecareofme/status/1819250139477037127/photo/1",
+              "media_key": "3_1819250117394026500",
+              "start": 13,
+              "url": "https://t.co/9IOXE7PZju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819250139477037127",
+        "in_reply_to_user_id": "1419377998269087746",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3042,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819247287924936753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0oCH3No0 介个 https://t.co/9IOXE7PZju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【占卜🔮】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 223,
+          "like_count": 917,
+          "listed_count": 2,
+          "tweet_count": 1480
+        },
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T10:04:14.000Z",
+        "description": "一级警告⚠️请勿靠近/贱男滚开‼️贱男评论一句全家暴毙🤓/破防对号入座说明骂的就是你/骂我反弹🤓/禁止搬运回墙内，偷我东西的人给我挡灾/🈚️墙内帐号",
+        "id": "1596444634787741697",
+        "name": "歪比巴卟",
+        "pinned_tweet_id": "1776596190278164588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777634217134039040/MyTI3qcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7218,
+          "following_count": 246,
+          "like_count": 10323,
+          "listed_count": 12,
+          "tweet_count": 11673
+        },
+        "username": "tttakecareofme",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:24:33.000Z",
+        "description": "活在过去 死于明天 （没有🚪 不接推广） 人類は最低だ",
+        "id": "1419377998269087746",
+        "location": "Los Angeles, CA",
+        "name": "chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419920627310338053/MTctj6Wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 394,
+          "like_count": 19266,
+          "listed_count": 13,
+          "tweet_count": 4462
+        },
+        "username": "0oCH3No0",
+        "verified": false
+      }
+    ]
+  }
+}

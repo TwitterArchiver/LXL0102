@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997644915434725376",
+        "3_1997644915426377728"
+      ]
+    },
+    "author_id": "1680544465671561216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997644928071983456",
+    "created_at": "2025-12-07T12:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T13:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997644928071983456"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "塔罗"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "雷诺曼"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "疗愈"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "魔法蜡烛"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "灵性"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "星盘"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "八字"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "魔法仪式"
+        },
+        {
+          "end": 100,
+          "start": 94,
+          "tag": "Wicca"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "威卡"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "西玄"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "东玄"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "草药蜡烛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EBkSvArhRt",
+          "end": 142,
+          "expanded_url": "https://x.com/LXL0102/status/1997644928071983456/photo/1",
+          "media_key": "3_1997644915434725376",
+          "start": 119,
+          "url": "https://t.co/EBkSvArhRt"
+        },
+        {
+          "display_url": "pic.x.com/EBkSvArhRt",
+          "end": 142,
+          "expanded_url": "https://x.com/LXL0102/status/1997644928071983456/photo/1",
+          "media_key": "3_1997644915426377728",
+          "start": 119,
+          "url": "https://t.co/EBkSvArhRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997644928071983456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔮【学霸熊反馈】建议所有［小画家小作家］都来试试学霸熊！可以提升创作力，激发灵感，增加专注力，一百多爽一个月\n\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/EBkSvArhRt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_1997644915434725376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kPd3PaIAARat1.jpg",
+        "width": 1051
+      },
+      {
+        "height": 1765,
+        "media_key": "3_1997644915426377728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kPd3NawAAOm01.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997644915434725376",
+            "3_1997644915426377728"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997644928071983456",
+        "created_at": "2025-12-07T12:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997644928071983456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "塔罗"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "雷诺曼"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "疗愈"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "魔法蜡烛"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "灵性"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "星盘"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "八字"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "魔法仪式"
+            },
+            {
+              "end": 100,
+              "start": 94,
+              "tag": "Wicca"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "威卡"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "西玄"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "东玄"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "草药蜡烛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBkSvArhRt",
+              "end": 142,
+              "expanded_url": "https://x.com/LXL0102/status/1997644928071983456/photo/1",
+              "media_key": "3_1997644915434725376",
+              "start": 119,
+              "url": "https://t.co/EBkSvArhRt"
+            },
+            {
+              "display_url": "pic.x.com/EBkSvArhRt",
+              "end": 142,
+              "expanded_url": "https://x.com/LXL0102/status/1997644928071983456/photo/1",
+              "media_key": "3_1997644915426377728",
+              "start": 119,
+              "url": "https://t.co/EBkSvArhRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997644928071983456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔮【学霸熊反馈】建议所有［小画家小作家］都来试试学霸熊！可以提升创作力，激发灵感，增加专注力，一百多爽一个月\n\n#塔罗 #雷诺曼 #疗愈 #魔法蜡烛 #灵性 \n#星盘 #八字 #魔法仪式 #Wicca #威卡\n#西玄 #东玄 #草药蜡烛 https://t.co/EBkSvArhRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 273,
+          "like_count": 1511,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

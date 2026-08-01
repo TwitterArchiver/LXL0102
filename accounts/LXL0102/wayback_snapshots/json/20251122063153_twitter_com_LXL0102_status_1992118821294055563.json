@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1680544465671561216",
+    "conversation_id": "1992118821294055563",
+    "created_at": "2025-11-22T06:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T07:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992118821294055563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/1991688199845163029",
+          "start": 59,
+          "url": "https://t.co/dlKw8uwX25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992118821294055563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991688199845163029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高三那会因为月考特别焦虑，就差割手了，结果有人跳楼了，我的第一想法是不用考试了，太好了放假了，庆幸有人跳楼阻止了考试 https://t.co/dlKw8uwX25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1992118821294055563",
+        "created_at": "2025-11-22T06:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992118821294055563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/1991688199845163029",
+              "start": 59,
+              "url": "https://t.co/dlKw8uwX25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992118821294055563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991688199845163029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高三那会因为月考特别焦虑，就差割手了，结果有人跳楼了，我的第一想法是不用考试了，太好了放假了，庆幸有人跳楼阻止了考试 https://t.co/dlKw8uwX25"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "1991688199845163029",
+        "created_at": "2025-11-21T02:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991688199845163029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991688199845163029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3718,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国人听说学生跳楼：也正常，唉，现在小孩太脆弱了。 听说有人退学：啊？疯啦？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 267,
+          "like_count": 1480,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy\n社区:https://t.co/JwQ9mOTHUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day/",
+                "start": 5,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 57,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 34,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 85,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 62,
+                "url": "https://t.co/JfbYdIujGy"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 112,
+                "expanded_url": "https://pr80.bid/",
+                "start": 89,
+                "url": "https://t.co/JwQ9mOTHUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 829,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}
